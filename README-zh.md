@@ -54,8 +54,8 @@
 
 如果你觉得本项目有帮助，欢迎 star。
 
-- http://blog.webex.com/feed/ -> https://fujianshifan.github.io/RSS-GPT/Webex Blog.xml
-- http://blog.zoom.us/wordpress/feed/ -> https://fujianshifan.github.io/RSS-GPT/Zoom Blog.xml
+- http://blog.webex.com/feed/ -> https://fujianshifan.github.io/RSS-GPT/WebexBlog.xml
+- http://blog.zoom.us/wordpress/feed/ -> https://fujianshifan.github.io/RSS-GPT/ZoomBlog.xml
 - https://rsshub.app/sspai/index -> https://fujianshifan.github.io/RSS-GPT/sspai.xml
 - https://rknight.me/feed.xml -> https://fujianshifan.github.io/RSS-GPT/robb-knight.xml
 - https://stephanango.com/feed.xml -> https://fujianshifan.github.io/RSS-GPT/steph-ango.xml

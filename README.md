@@ -50,8 +50,8 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 
-- http://blog.webex.com/feed/ -> https://fujianshifan.github.io/RSS-GPT/Webex Blog.xml
-- http://blog.zoom.us/wordpress/feed/ -> https://fujianshifan.github.io/RSS-GPT/Zoom Blog.xml
+- http://blog.webex.com/feed/ -> https://fujianshifan.github.io/RSS-GPT/WebexBlog.xml
+- http://blog.zoom.us/wordpress/feed/ -> https://fujianshifan.github.io/RSS-GPT/ZoomBlog.xml
 - https://rsshub.app/sspai/index -> https://fujianshifan.github.io/RSS-GPT/sspai.xml
 - https://rknight.me/feed.xml -> https://fujianshifan.github.io/RSS-GPT/robb-knight.xml
 - https://stephanango.com/feed.xml -> https://fujianshifan.github.io/RSS-GPT/steph-ango.xml
