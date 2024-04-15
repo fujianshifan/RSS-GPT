@@ -1,0 +1,7 @@
+------------------------------------------------------
+Started: 2024-04-15 15:20:02.383251
+Existing_entries: 0
+Fetching from http://blog.zoom.us/wordpress/feed/
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/Zoom Blog
