@@ -20157,3 +20157,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)
 append_entries: 1
 Finish: 2024-04-16 02:19:23.608328
+------------------------------------------------------
+Started: 2024-04-16 04:13:57.660192
+Existing_entries: 730
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-16 04:13:57.935409
