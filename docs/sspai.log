@@ -20187,3 +20187,15 @@ Existing_entries: 732
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-16 10:12:28.044950
+------------------------------------------------------
+Started: 2024-04-16 12:20:30.612766
+Existing_entries: 732
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择](https://sspai.com/post/87683)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐](https://sspai.com/post/88118)
+append_entries: 2
+Finish: 2024-04-16 12:20:36.909315
