@@ -152,3 +152,10 @@ Fetching from http://blog.zoom.us/wordpress/feed/
 Feed error: 301
 append_entries: 0
 Finish: 2024-04-17 08:14:26.894417
+------------------------------------------------------
+Started: 2024-04-17 10:12:43.420840
+Existing_entries: 0
+Fetching from http://blog.zoom.us/wordpress/feed/
+Feed error: 301
+append_entries: 0
+Finish: 2024-04-17 10:12:44.488456
