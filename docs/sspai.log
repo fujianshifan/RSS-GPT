@@ -20352,3 +20352,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 append_entries: 1
 Finish: 2024-04-18 08:17:04.747525
+------------------------------------------------------
+Started: 2024-04-18 10:15:23.158738
+Existing_entries: 741
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
+append_entries: 1
+Finish: 2024-04-18 10:15:26.843233
