@@ -20457,3 +20457,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
 append_entries: 1
 Finish: 2024-04-19 12:22:17.800435
+------------------------------------------------------
+Started: 2024-04-19 14:12:46.192810
+Existing_entries: 748
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-19 14:12:46.427392
