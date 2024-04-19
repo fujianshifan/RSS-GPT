@@ -20421,3 +20421,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
 append_entries: 1
 Finish: 2024-04-19 04:15:28.587002
+------------------------------------------------------
+Started: 2024-04-19 06:16:43.284493
+Existing_entries: 744
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [商店表达：探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
+append_entries: 1
+Finish: 2024-04-19 06:16:46.822989
