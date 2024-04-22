@@ -537,3 +537,10 @@ Fetching from http://blog.zoom.us/wordpress/feed/
 Feed error: 301
 append_entries: 0
 error when rendering xml, skip docs/ZoomBlog
+------------------------------------------------------
+Started: 2024-04-22 00:54:02.706197
+Existing_entries: 0
+Fetching from http://blog.zoom.us/wordpress/feed/
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/ZoomBlog
