@@ -20760,3 +20760,12 @@ Existing_entries: 755
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-23 10:13:54.772350
+------------------------------------------------------
+Started: 2024-04-23 12:23:41.907325
+Existing_entries: 755
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [App+1｜看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows](https://sspai.com/post/88207)
+append_entries: 1
+Finish: 2024-04-23 12:23:45.359806
