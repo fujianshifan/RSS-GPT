@@ -20802,3 +20802,12 @@ Existing_entries: 757
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-23 22:13:24.716941
+------------------------------------------------------
+Started: 2024-04-24 00:53:58.604814
+Existing_entries: 757
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)
+append_entries: 1
+Finish: 2024-04-24 00:54:02.128453
