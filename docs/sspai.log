@@ -20838,3 +20838,12 @@ Existing_entries: 759
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-24 08:16:44.241789
+------------------------------------------------------
+Started: 2024-04-24 10:15:10.352520
+Existing_entries: 759
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
+append_entries: 1
+Finish: 2024-04-24 10:15:13.385809
