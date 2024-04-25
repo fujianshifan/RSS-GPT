@@ -20901,3 +20901,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [派早报：OPPO 发布 K12、vivo 推出 Z9 系列手机等](https://sspai.com/post/88335)
 append_entries: 1
 Finish: 2024-04-25 02:23:52.047577
+------------------------------------------------------
+Started: 2024-04-25 04:15:48.051714
+Existing_entries: 762
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-25 04:15:48.594095
