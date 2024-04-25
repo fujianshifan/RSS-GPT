@@ -2811,3 +2811,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [The Tyranny of Job Titles: From Vanity Growth to Personal Growth](https://nesslabs.com/job-titles?utm_source=rss&utm_medium=rss&utm_campaign=job-titles)
 append_entries: 2
 Finish: 2024-04-25 14:11:59.191386
+------------------------------------------------------
+Started: 2024-04-25 16:16:28.344091
+Existing_entries: 21
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-04-25 16:16:28.771385
