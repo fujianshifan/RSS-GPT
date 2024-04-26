@@ -20979,3 +20979,12 @@ Existing_entries: 766
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-26 00:54:06.452304
+------------------------------------------------------
+Started: 2024-04-26 02:23:29.891266
+Existing_entries: 766
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
+append_entries: 1
+Finish: 2024-04-26 02:23:33.084301
