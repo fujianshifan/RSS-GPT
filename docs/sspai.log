@@ -21003,3 +21003,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
 append_entries: 1
 Finish: 2024-04-26 06:17:52.879065
+------------------------------------------------------
+Started: 2024-04-26 08:16:03.897431
+Existing_entries: 768
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [一日一技 | Windows 11 满地广告：教你如何关闭它](https://sspai.com/post/88373)
+append_entries: 1
+Finish: 2024-04-26 08:16:07.405191
