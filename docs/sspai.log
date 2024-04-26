@@ -21033,3 +21033,12 @@ Existing_entries: 770
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-26 14:12:00.301704
+------------------------------------------------------
+Started: 2024-04-26 16:16:54.230689
+Existing_entries: 770
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [19 种做法，解锁笋的节节美味](https://sspai.com/post/88115)
+append_entries: 1
+Finish: 2024-04-26 16:16:57.727295
