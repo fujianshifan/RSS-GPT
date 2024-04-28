@@ -21159,3 +21159,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)
 append_entries: 1
 Finish: 2024-04-28 06:17:16.511835
+------------------------------------------------------
+Started: 2024-04-28 08:17:37.009154
+Existing_entries: 772
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-28 08:17:37.215956
