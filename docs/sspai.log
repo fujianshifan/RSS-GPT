@@ -21213,3 +21213,12 @@ Existing_entries: 772
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-29 00:56:27.197377
+------------------------------------------------------
+Started: 2024-04-29 02:24:56.940186
+Existing_entries: 772
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：字节跳动称无计划出售 TikTok](https://sspai.com/post/88419)
+append_entries: 1
+Finish: 2024-04-29 02:24:59.937441
