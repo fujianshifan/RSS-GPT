@@ -21300,3 +21300,15 @@ Existing_entries: 775
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-30 02:23:04.994789
+------------------------------------------------------
+Started: 2024-04-30 04:16:00.373830
+Existing_entries: 775
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
+append_entries: 2
+Finish: 2024-04-30 04:16:07.342460
