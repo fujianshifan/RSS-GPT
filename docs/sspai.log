@@ -21318,3 +21318,12 @@ Existing_entries: 777
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-30 06:16:50.941952
+------------------------------------------------------
+Started: 2024-04-30 08:17:07.760799
+Existing_entries: 777
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
+append_entries: 1
+Finish: 2024-04-30 08:17:11.058313
