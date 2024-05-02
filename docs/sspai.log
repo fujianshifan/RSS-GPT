@@ -21486,3 +21486,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
 append_entries: 1
 Finish: 2024-05-02 06:17:17.177082
+------------------------------------------------------
+Started: 2024-05-02 08:16:34.561219
+Existing_entries: 785
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)
+append_entries: 1
+Finish: 2024-05-02 08:16:38.302004
