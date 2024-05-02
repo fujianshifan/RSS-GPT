@@ -21495,3 +21495,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)
 append_entries: 1
 Finish: 2024-05-02 08:16:38.302004
+------------------------------------------------------
+Started: 2024-05-02 10:14:47.231575
+Existing_entries: 786
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [我在五台山做义工](https://sspai.com/post/88078)
+append_entries: 1
+Finish: 2024-05-02 10:14:50.749946
