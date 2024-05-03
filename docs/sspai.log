@@ -21564,3 +21564,12 @@ Existing_entries: 787
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-03 06:17:32.933563
+------------------------------------------------------
+Started: 2024-05-03 08:16:01.785445
+Existing_entries: 787
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)
+append_entries: 1
+Finish: 2024-05-03 08:16:05.112870
