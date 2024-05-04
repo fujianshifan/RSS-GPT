@@ -21642,3 +21642,16 @@ Existing_entries: 789
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-04 06:16:15.522460
+------------------------------------------------------
+Started: 2024-05-04 08:15:27.608444
+Existing_entries: 789
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
+Append: [8. 处理图像实例：批量清理截图状态栏](https://sspai.com/post/79283)
+append_entries: 3
+Finish: 2024-05-04 08:15:34.612160
