@@ -21724,3 +21724,16 @@ Existing_entries: 793
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-05 06:16:38.479096
+------------------------------------------------------
+Started: 2024-05-05 08:15:20.439925
+Existing_entries: 793
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
+Append: [抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
+append_entries: 3
+Finish: 2024-05-05 08:15:26.938903
