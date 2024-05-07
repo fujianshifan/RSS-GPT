@@ -21906,3 +21906,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
 append_entries: 1
 Finish: 2024-05-07 08:16:37.704345
+------------------------------------------------------
+Started: 2024-05-07 10:14:59.652046
+Existing_entries: 805
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-05-07 10:14:59.980715
