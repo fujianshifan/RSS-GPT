@@ -21885,3 +21885,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
 append_entries: 1
 Finish: 2024-05-07 04:17:11.373658
+------------------------------------------------------
+Started: 2024-05-07 06:17:58.004386
+Existing_entries: 802
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
+append_entries: 2
+Finish: 2024-05-07 06:18:04.641276
