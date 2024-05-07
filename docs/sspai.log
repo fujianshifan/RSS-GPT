@@ -21897,3 +21897,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
 append_entries: 2
 Finish: 2024-05-07 06:18:04.641276
+------------------------------------------------------
+Started: 2024-05-07 08:16:34.147115
+Existing_entries: 804
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
+append_entries: 1
+Finish: 2024-05-07 08:16:37.704345
