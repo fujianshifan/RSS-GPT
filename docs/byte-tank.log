@@ -17314,3 +17314,12 @@ Existing_entries: 49
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-06-09 18:16:30.283289
+------------------------------------------------------
+Started: 2024-06-09 20:15:33.332712
+Existing_entries: 49
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Aloof](https://lopespm.com/notes/2024/06/09/aloof.html)
+append_entries: 1
+Finish: 2024-06-09 20:15:36.720272
