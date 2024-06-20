@@ -6840,3 +6840,12 @@ Existing_entries: 28
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-06-20 06:19:24.610180
+------------------------------------------------------
+Started: 2024-06-20 08:18:41.418424
+Existing_entries: 28
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Temporal Curiosity: Exploring the Past, Present, and Future](https://nesslabs.com/temporal-curiosity?utm_source=rss&utm_medium=rss&utm_campaign=temporal-curiosity)
+append_entries: 1
+Finish: 2024-06-20 08:18:45.260306
