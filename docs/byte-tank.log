@@ -18403,3 +18403,12 @@ Existing_entries: 50
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-06-24 20:14:55.672855
+------------------------------------------------------
+Started: 2024-06-24 22:14:20.836591
+Existing_entries: 50
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Personal Local (Llama3 8B) LLM extended with WhatsApp + Obsidian Data](https://lopespm.com/machine_learning/2024/06/24/personal-llm.html)
+append_entries: 1
+Finish: 2024-06-24 22:14:24.394882
