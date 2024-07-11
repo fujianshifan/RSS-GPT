@@ -22723,3 +22723,10 @@ Fetching from https://rknight.me/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-07-11 01:00:54.177967
+------------------------------------------------------
+Started: 2024-07-11 02:34:26.328209
+Existing_entries: 279
+Fetching from https://rknight.me/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-07-11 02:34:29.443153
