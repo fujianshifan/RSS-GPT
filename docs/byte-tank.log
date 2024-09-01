@@ -23347,3 +23347,12 @@ Existing_entries: 52
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-09-01 16:17:56.332452
+------------------------------------------------------
+Started: 2024-09-01 18:18:21.065534
+Existing_entries: 52
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Investment Tracker - Free Spreadsheet Template](https://lopespm.com/notes/2024/09/01/investment-tracker.html)
+append_entries: 1
+Finish: 2024-09-01 18:18:24.547659
