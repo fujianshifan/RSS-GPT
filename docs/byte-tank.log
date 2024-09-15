@@ -24364,3 +24364,12 @@ Existing_entries: 55
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-09-15 16:18:35.094560
+------------------------------------------------------
+Started: 2024-09-15 18:19:31.654109
+Existing_entries: 55
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Connection with reality](https://lopespm.com/notes/2024/09/15/connection_with_reality.html)
+append_entries: 1
+Finish: 2024-09-15 18:19:35.177581
