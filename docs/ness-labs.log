@@ -13938,3 +13938,12 @@ Existing_entries: 40
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-09-26 14:15:28.755089
+------------------------------------------------------
+Started: 2024-09-26 16:19:27.199704
+Existing_entries: 40
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Workplace Anxiety: How to Deal with Anxiety at Work](https://nesslabs.com/workplace-anxiety?utm_source=rss&utm_medium=rss&utm_campaign=workplace-anxiety)
+append_entries: 1
+Finish: 2024-09-26 16:19:29.608635
