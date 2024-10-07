@@ -14671,3 +14671,9 @@ Append: [Announcing the availability of industry-first Webex AI Codec, ...](http
 Append: [Six Reasons AI-powered Webex Contact Center helps deliver ...](https://blog.webex.com/customer-experience/six-reasons-ai-powered-webex-contact-center-deliver-exceptional-customer-experiences/)
 append_entries: 12
 Finish: 2024-10-07 06:20:44.934223
+------------------------------------------------------
+Started: 2024-10-07 08:17:18.166752
+Existing_entries: 12
+Fetching from http://blog.webex.com/feed/
+append_entries: 0
+Finish: 2024-10-07 08:17:18.646634
