@@ -14649,3 +14649,25 @@ Fetching from http://blog.webex.com/feed/
 Feed error: 301
 append_entries: 0
 Finish: 2024-10-07 04:17:41.443648
+------------------------------------------------------
+Started: 2024-10-07 06:20:35.711194
+Existing_entries: 0
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Webex AI delivers real-world benefits that transform customer and ...](https://blog.webex.com/customer-experience/webex-ai-action-real-world-benefits-customer-employee-experiences-2/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [11 valuable contact center metrics to track in 2025](https://blog.webex.com/customer-experience/eleven-valuable-contact-center-metrics-to-track/)
+Append: [Webex and Salesforce: New Launch Announcements at Dreamforce24](https://blog.webex.com/innovation-ai/webex-and-salesforce-new-launch-announcements-at-dreamforce24/)
+Append: [Cisco launches second Webex Calling data center in the United Kingdom](https://blog.webex.com/collaboration/cisco-launches-second-webex-calling-data-center-in-the-united-kingdom/)
+Append: [Announcing the 2024 Webex Customer Awards Finalists](https://blog.webex.com/customer-stories/announcing-the-2024-webex-customer-awards-finalists/)
+Append: [Deliver highly connected experiences with Webex: A unified ...](https://blog.webex.com/customer-experience/deliver-exceptional-customer-experiences-best-ucaas-ccaas-cpaas-offerings-from-webex/)
+Append: [How Webex Calling delivers crystal clear calls in any environment](https://blog.webex.com/collaboration/webex-calling-delivers-crystal-clear-calls-any-environment/)
+Append: [Best practices for effective contact center optimization](https://blog.webex.com/customer-experience/best-practices-for-effective-contact-center-optimization/)
+Append: [10 contact center automation trends to look out for in 2025](https://blog.webex.com/customer-experience/10-contact-center-automation-trends-to-look-out-for-in-2025/)
+Append: [Driving sustainable hybrid work with Cisco devices](https://blog.webex.com/workspaces/driving-sustainable-hybrid-work-with-cisco-devices/)
+Append: [Announcing the availability of industry-first Webex AI Codec, ...](https://blog.webex.com/collaboration/announcing-the-availability-of-industry-first-webex-ai-codec-transforming-your-audio-experiences/)
+Append: [Six Reasons AI-powered Webex Contact Center helps deliver ...](https://blog.webex.com/customer-experience/six-reasons-ai-powered-webex-contact-center-deliver-exceptional-customer-experiences/)
+append_entries: 12
+Finish: 2024-10-07 06:20:44.934223

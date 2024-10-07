@@ -2,8 +2,873 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Webex Blog</title>
-<link>https://blog.webex.com</link>
+<link>https://blog.webex.com/</link>
 
+<item>
+<title>Webex AI delivers real-world benefits that transform customer and ...</title>
+<link>https://blog.webex.com/customer-experience/webex-ai-action-real-world-benefits-customer-employee-experiences-2/</link>
+<guid>https://blog.webex.com/customer-experience/webex-ai-action-real-world-benefits-customer-employee-experiences-2/</guid>
+<content:encoded><![CDATA[
+
+<h2 class="wp-block-heading">AI that lives up to the hype</h2>
+<p>Last year, Webex introduced the <a href="http://www.webex.ai/" rel="noreferrer noopener" target="_blank"><strong>AI Assistant</strong></a> and purpose-built tools that utilize Generative AI. These enable businesses to deliver next-generation experiences to their customers that take work and collaboration to new heights.</p>
+<p>We know that the <a href="https://blog.webex.com/innovation/webex-ai-assistant-real-results-real-impact/" rel="noreferrer noopener" target="_blank"><strong>early adopters</strong></a> of our AI assistant saw both realized and potential improvement and benefits with its transformational audio and visual AI across Webex Contact Center, Cisco collaboration devices, Control Hub, and the Webex app. Now, we’re sharing more in-depth information on these results. &nbsp;</p>
+<p><strong>The findings are clear:</strong> AI is not just a potential game-changer for the workplace; its impact is both measurable and substantial. Webex AI adopters are delivering personalized customer experiences, streamlining workflows, and enhancing productivity, all while realizing significant gains in efficiency and customer satisfaction.</p>
+<figure class="wp-block-table addstyle is-style-stripes"><table><thead><tr><th class="has-text-align-center"><strong>Productivity boosts</strong></th><th class="has-text-align-center"><strong>Improved collaboration</strong></th><th class="has-text-align-center"><strong>Enhanced efficiencies</strong>&nbsp;</th><th class="has-text-align-center"><strong>Increased customer satisfaction</strong></th></tr></thead><tbody><tr><td class="has-text-align-center"><strong>Up to 8 hours</strong>&nbsp;<br />of employees’ time saved per week.</td><td class="has-text-align-center"><strong>80%&nbsp;</strong><br />experienced clearer, distraction-free communication.&nbsp;</td><td class="has-text-align-center"><strong>81%</strong>&nbsp;&nbsp;<br />had significantly more effective meetings.&nbsp;</td><td class="has-text-align-center"><strong>3X&nbsp;</strong><br />faster agent response times using suggested responses.&nbsp;</td></tr></tbody></table></figure>
+<h3 class="wp-block-heading"><strong>Table of Contents</strong></h3>
+<ol class="wp-block-list">
+<li><strong><a href="http://blog.webex.com/feed/#heading1" title="">AI bridges the customer experience gap</a></strong></li>
+<li><strong><a href="http://blog.webex.com/feed/#heading2" title="">AI delivers tangible benefits for work and collaboration</a></strong></li>
+<li><strong><a href="http://blog.webex.com/feed/#heading3" title="">AI powers intelligent office experiences</a></strong></li>
+<li><strong><a href="http://blog.webex.com/feed/#heading4" title="">Security and manageability in the era of AI</a></strong></li>
+<li><strong><a href="http://blog.webex.com/feed/#heading5" title="">Conclusion</a></strong></li>
+<li><strong><a href="http://blog.webex.com/feed/#heading6" title="">Methodology</a></strong></li>
+</ol>
+<h2 class="wp-block-heading" id="heading1">AI bridges the customer experience gap</h2>
+<p>The customer experience landscape is undergoing a dramatic shift. A <a href="https://www.webex.com/content/dam/www/us/en/research/futurum-group-customer-experience-research_cm-6311.pdf" rel="noreferrer noopener" target="_blank"><strong>recent research report</strong></a> by The Futurum Group revealed that only 25% of customers were very satisfied with their last customer service engagement, and 94% of people have abandoned an interaction due to a poor experience. However, with AI features available at every step of the customer journey, Webex Contact Center customers are surpassing customer expectations and improving agent wellbeing.</p>
+<h3 class="wp-block-heading"><strong>Agent effectiveness</strong></h3>
+<p>AI-powered features in Webex Contact Center help agents solve customer problems faster:</p>
+<ul class="wp-block-list">
+<li>80% will be able to reply to customers more accurately.&nbsp;</li>
+<li>88% say they can get up to speed on customer issues quickly, even after a dropped call.  &nbsp;</li>
+<li>93% will be able to get up to speed with customer history and context faster. &nbsp;</li>
+<li>80% experienced clearer, noise- and distraction-free conversations. &nbsp;</li>
+<li>80% cite that burnout detection features lead to more efficient, stress-free conversations with proactive alerts and timely breaks.</li>
+</ul>
+<h3 class="wp-block-heading"><strong>Improved customer satisfaction</strong></h3>
+<p>Webex Contact Center AI features help improve overall customer satisfaction:</p>
+<ul class="wp-block-list">
+<li>60% say customer satisfaction scores will improve.&nbsp;</li>
+<li>1 in 3 anticipate a 10% reduction in call handling times.&nbsp;</li>
+<li>3X or faster agent response times, predicted by 70% of respondents.&nbsp;</li>
+<li>68% say AI-driven wellness alerts will influence agent wellbeing and company loyalty. </li>
+</ul>
+<h3 class="wp-block-heading"><strong>Business benefits</strong></h3>
+<p>Customer Experience leaders anticipate numerous business benefits: </p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2024/08/1.jpg" /></figure>
+<h3 class="wp-block-heading"><strong>Process and efficiency gains</strong></h3>
+<p>The most important customer experience problems that Webex AI will help solve, according to the survey, are:</p>
+<ol class="wp-block-list">
+<li>Intelligently routing customer inquiries to the most suitable agent in seconds. &nbsp;</li>
+<li>Assisting with handling routine customer inquiries and transactions, freeing up time for more complex tasks.&nbsp;</li>
+<li>Analyzing vast amounts of customer data across different channels in seconds. &nbsp;</li>
+<li>Offering personalized and proactive customer service based on predictive insights. &nbsp;</li>
+<li>Analyzing customer interactions in real time to detect sentiment.</li>
+<li>Effectively communicating with customers in their preferred language.</li>
+</ol>
+<p>Webex AI is improving the experience of customers and customer-facing personnel for countless organizations. <a href="https://www.webex.ai/ai-assistant-for-suite-devices-cx.html?tab=tab-cx" rel="noreferrer noopener" target="_blank"><strong>Explore our latest innovations</strong></a> and features available in Webex Contact Center, including:&nbsp;</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/efficiency-gains.jpg" /></figure>
+<p><br /></p>
+<div class="wp-block-buttons mb-3 is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button mb-3 is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background has-link-color wp-element-button" href="https://www.webex.com/content/dam/www/us/en/infographics/customer-experience-ai-infographic_cm-6547.pdf" rel="noreferrer noopener" target="_blank">Download Infographic</a></div>
+</div>
+<h2 class="wp-block-heading" id="heading2"><br />AI delivers tangible benefits for work and collaboration</h2>
+<p>Hybrid work requires unique tools to enable successful collaboration for people working from an office, at home, or anywhere else. The <a href="http://www.webex.ai/" rel="noreferrer noopener" target="_blank"><strong>Cisco AI Assistant for Webex</strong></a> plays a key role in bolstering productivity and improving communications.</p>
+<p>Organizations leveraging these advanced AI features are witnessing significant improvements in meeting effectiveness and enhanced wellbeing for both remote and hybrid employees.</p>
+<p>Employees increased productivity, saving valuable time throughout the day, allowing&nbsp; them to focus on high-priority tasks:</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2024/08/3.jpg" /></figure>
+<p><br />Beyond time savings, these AI tools facilitated better communications and collaboration among team members:</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/ai-tools-facilitated-better-communications.jpg" /></figure>
+<p>With Webex AI, there are benefits for every workstyle. For instance, Sebastian Leuser, Solution Architect at Deutsche Telekom, shared his thoughts on his favorite Webex AI feature:</p>
+<p>“I have been a long-term fan of Webex AI features such as noise removal and virtual background. However, since I started using messaging summaries, I have found a new favorite. Messaging summaries provide me with a quick overview of the discussions happening within a Webex space, allowing me to focus on the conversations that are important to me. I was amazed by the quality of the summaries from the very beginning.”&nbsp;</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2024/08/5.jpg" /></figure>
+<p><br />Whether working remotely, in-office, or on the go, Webex AI improves collaboration and enhances the work experience like never before. <a href="https://www.webex.ai/ai-assistant-for-suite-devices-cx.html?tab=tab-suite" rel="noreferrer noopener" target="_blank"><strong>Explore our latest innovations</strong></a> and features available across the Webex Suite, including:</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2024/08/6.jpg" /></figure>
+<p><br /></p>
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-white-color has-text-color has-background has-link-color wp-element-button" href="https://www.webex.com/content/dam/www/us/en/infographics/webex-ai-employee-experience-infographic_cm-6618.pdf" rel="noreferrer noopener" target="_blank">Download Infographic</a></div>
+</div>
+<h2 class="wp-block-heading" id="heading3"><br />AI powers intelligent office experiences</h2>
+<p>As many employees return to the office for at least a few days a week, traditional office setups are proving ill-equipped to support modern hybrid work. The role of the office has evolved from a mandatory place to work to a destination where employees engage in collaboration, ideation, training, and community building. However, with the rise of hybrid work, not everyone will be in the office at the same time, and only <strong><a href="https://www.webex.com/gp/hybrid-work-research-global-2024.html" rel="noopener" target="_blank" title="">42% of employees</a></strong> believe their office is prepared to support hybrid work.</p>
+<p>To create an immersive experience that makes everyone feel like an equal participant, workspaces need collaboration devices equipped with AI-driven audio and video intelligence. Cisco devices, with NVIDIA technology built in, are providing cutting-edge collaboration experiences, effectively bridging the gap between in-office teams and remote colleagues.</p>
+<p>AI-powered collaboration devices have proven instrumental in boosting meeting effectiveness:</p>
+<ul class="wp-block-list">
+<li>81% reported significantly more effective meetings.&nbsp;&nbsp;</li>
+<li>80% cited increased productivity, presentation quality, and collaboration abilities.&nbsp;</li>
+<li>71% of remote workers felt a greater sense of inclusion during hybrid meetings.&nbsp;</li>
+<li>86% experienced a significant reduction in fatigue and enhanced focus during meetings involving remote, in-room, or on-the-go participants.</li>
+</ul>
+<p>Niklas Mortensen, Managing Direct at Designit, sees the effect of AI-powered devices firsthand: “Collaboration across studios has become much more of a thing. It was not that we didn’t do it before, but now, borders don’t really matter anymore, because we can all collaborate and work remotely, and clients also see this.”</p>
+<p>With <a href="https://www.webex.ai/ai-assistant-for-suite-devices-cx.html?tab=tab-devices" rel="noreferrer noopener" target="_blank"><strong>audio and video intelligence</strong></a> built into each device, Cisco devices can help transform the workplace experience by bringing AI-powered capabilities to every workspace.<br /><br /></p>
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background has-link-color wp-element-button" href="https://www.webex.com/content/dam/www/us/en/ebook/transform-the-future-of-work-with-ai_cm-6548.pdf" rel="noreferrer noopener" target="_blank">Download eBook</a></div>
+</div>
+<h2 class="wp-block-heading" id="heading4"><br />Security and manageability in the era of AI</h2>
+<h3 class="wp-block-heading"><strong>The IT experience</strong></h3>
+<p>We&#8217;re thrilled to witness how Webex customers are utilizing AI Assistant to enhance hybrid work and deliver innovative customer experiences, but what can it do for the teams responsible for evaluating and implementing solutions and troubleshooting issues?</p>
+<p>When it comes to IT, there are also substantial time savings: 73% of IT Admins expect to save up to 8 hours a week through AI-powered search. By embedding AI into Control Hub, the single-pane-of-glass management platform, IT can spend less time troubleshooting and problem-solving and focus on the more strategic role of improving the experience for every employee.</p>
+<h3 class="wp-block-heading"><strong>Security you can trust</strong></h3>
+<p>We also know that every organization has concerns when it comes to implementing AI. According to a <a href="https://www.webex.com/gp/dimensional-research-hybrid-work-AI-research-2024.html" rel="noreferrer noopener" target="_blank"><strong>recent research report</strong></a> by Dimensional Research, the top concern is security.</p>
+<p>At Cisco, we recognize the critical importance of AI governance and the responsible implementation of AI technologies. AI Assistant meets industry-leading security standards, ensuring end-to-end, secure AI solutions for our customers. For more details, please visit <a href="https://trustportal.cisco.com/c/r/ctp/home.html" rel="noopener" target="_blank" title=""><strong>Cisco’s Trust Portal</strong></a>.</p>
+<h2 class="wp-block-heading" id="heading5">Conclusion</h2>
+<p>These results demonstrate that AI is not just living up to the hype; it&#8217;s transforming the way we work and interact. By seamlessly integrating AI into every interaction, we are enabling organizations to achieve unprecedented levels of productivity, collaboration, and customer satisfaction. Embrace the future of work and customer engagement with Webex AI and experience the tangible improvements it can bring to your organization.</p>
+<p>Learn more about <strong><a href="https://www.webex.ai/" rel="noreferrer noopener" target="_blank">Webex AI</a> </strong>and stay tuned for more exciting updates at <strong><a href="https://www.webexone.com/" rel="noreferrer noopener" target="_blank">WebexOne 2024</a></strong>!</p>
+<h2 class="wp-block-heading" id="heading6">Methodology</h2>
+<p>The survey of users in Webex AI and AI Assistant Early Access Programs (EAP) was conducted among 1000+ users from customer organizations and 500+ users from Cisco employees participating in the EAP. The survey was 6-12 minutes in length and was deployed globally between May 1, 2024, and May 21, 2024. The survey was completely anonymous.</p>
+<p>Users were asked about their experiences with Webex products, with questions tailored to their usage. For any questions about their experiences related specifically to any one of the Webex products (e.g., Webex Suite, Webex Contact Center and Cisco collaboration devices), respondents were only branched to these questions if they reported using the products.</p>
+<h3 class="wp-block-heading"><strong>Markets surveyed include:</strong></h3>
+<p>Argentina, Belgium, Bolivia, Canada, Denmark, France, Germany, India, Ireland, Italy, Netherlands, Singapore, Spain, Switzerland, Taiwan, UK, USA</p>
+<p>The post <a href="https://blog.webex.com/customer-experience/webex-ai-action-real-world-benefits-customer-employee-experiences-2/">Webex AI delivers real-world benefits that transform customer and ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 15:58:00 +0000</pubDate>
+<pubDate>Wed, 25 Sep 2024 15:58:00 +0000</pubDate>
+</item>
+<item>
+<title>11 valuable contact center metrics to track in 2025</title>
+<link>https://blog.webex.com/customer-experience/eleven-valuable-contact-center-metrics-to-track/</link>
+<guid>https://blog.webex.com/customer-experience/eleven-valuable-contact-center-metrics-to-track/</guid>
+<content:encoded><![CDATA[
+
+<p>Standard contact center metrics and key performance indicators (KPIs) help businesses track and measure the success of their customer experience—particularly as it relates to their call or contact centers.</p>
+<p>But which KPIs are the most valuable and relevant to your contact center operation? Which can help boost agent productivity and bottom-line performance? And, most importantly, how do you improve them?</p>
+<p>As we prepare to enter 2025, it&#8217;s crucial to ensure that our contact center is equipped to meet the evolving needs of our customers. By understanding and optimizing key metrics, we can position ourselves for success in delivering exceptional customer experiences.</p>
+<p>This guide will explore 11 metrics to track and why they’re essential. Plus, we’ll share best practices for measuring, acting on, and enhancing your most critical KPIs.</p>
+<h2 class="wp-block-heading">What’s the difference between call center and contact center metrics?</h2>
+<p>Before jumping into it, let’s make an important distinction:</p>
+<ul class="wp-block-list">
+<li><strong>Call centers</strong> are communication hubs that focus specifically on telephony. As such, most of the KPIs they track involve total calls, average call length, and other phone-based metrics.</li>
+<li><strong>Contact centers</strong> are larger, more comprehensive, and increasingly <a href="https://blog.webex.com/customer-experience/delivering-on-the-customer-experience-imperative/" rel="noopener" target="_blank" title=""><strong>omnichannel</strong></a>. In addition to telephony, they handle channels like social media, email, SMS, live chat, and more.</li>
+</ul>
+<p>Despite their differences, the KPIs generally overlap. Most standard call center metrics are not only applicable but also beneficial to contact center operations. And, since <a href="https://www.businessleader.co.uk/research-phone-calls-preferred-customer-service/" rel="noopener" target="_blank" title=""><strong>61% of people</strong></a> still prefer phone calls for customer service, they can’t be overlooked.</p>
+<h2 class="wp-block-heading">11 essential call center metrics and KPIs</h2>
+<p>You can break most metrics down into three categories:</p>
+<ul class="wp-block-list">
+<li><strong>Customer experience (CX):</strong> CX KPIs help you measure customer interaction quality, which can impact how consumers feel about your brand—and in turn, customer loyalty. Low scores reflect poor satisfaction, whereas high scores represent happy, satisfied customers.</li>
+<li><strong>Agent performance:</strong> This type of contact center KPI measures <a href="https://www.webex.com/products/workforce-optimization.html" rel="noopener" target="_blank" title=""><strong>agent productivity</strong></a> and how well they’re handling each customer interaction. Why? Because agent performance directly impacts CX. These analytics, in turn, support quality assurance.</li>
+<li><strong>Operational performance:</strong> Contact center performance metrics track the overall success of your operation within a given period. Improving performance metrics may reduce costs, increase profits, and enable you to deliver a better customer experience.</li>
+</ul>
+<p>For each of these buckets, there are numerous KPIs you might track. Let’s narrow down your choices and explore 11 of the most valuable:</p>
+<h3 class="wp-block-heading">1. Call arrival rate</h3>
+<p>Call arrival rate refers to the total number of calls, or call volume, your contact center receives in a certain period. For example, a call center manager might measure call volume per minute, hour, day, week, or month, depending on their specific needs.<br /><br />Analyzing call arrival patterns helps you anticipate peak periods of activity and adjust staffing levels accordingly. This makes it easier to maintain service level agreements and meet performance targets—plus, you can optimize workloads, avoid overwhelming employees, and reduce agent turnover.</p>
+<h3 class="wp-block-heading">2. Blocked call percentage</h3>
+<p>When agents are busy and unavailable to take an incoming call, customers are typically met with a busy tone. This counts as a blocked call because a customer couldn’t get through immediately. A high percentage of blocked calls may indicate a staffing or other organizational problem.</p>
+<p>Even worse, it’s a frustrating customer experience. Consumers want fast, if not immediate, responses from brands. Speed positively impacts customer loyalty: According to Forrester, people are <a href="https://www.forrester.com/blogs/whats-the-roi-of-cx-transformation/" rel="noopener" target="_blank" title=""><strong>twice as likely</strong></a> to stick with companies that solve their problems quickly.</p>
+<h3 class="wp-block-heading">3. Average call abandonment rate</h3>
+<p>Your abandonment rate measures how many customers hang up before contacting a contact center agent. An abandoned call can happen for many reasons, which makes this tricky to analyze—but it’s essential nonetheless.</p>
+<p>A rising abandonment rate signals dissatisfaction, which may be due to a high inbound call volume and too few agents around to answer. Tracking this metric over time will help identify potential causes and quantify the impact of any changes.</p>
+<h3 class="wp-block-heading">4. First response time (FRT)</h3>
+<p>FRT measures how long it takes before a customer is connected to an available agent. A slow average response time could indicate that there are too many cases for agents to handle, that agents aren’t acting quickly enough, or your technology capabilities are lacking.</p>
+<p>Of course, a good FRT depends on the channel. According to CX Today, the <a href="https://www.cxtoday.com/contact-centre/what-is-first-response-time-and-how-can-i-measure-it/" rel="noopener" target="_blank" title=""><strong>industry standard</strong></a> for telephony is that 80% of calls are answered in 20 seconds or less.</p>
+<h3 class="wp-block-heading">5. First contact resolution (FCR)</h3>
+<p>First contact resolution measures the percentage of customer inquiries or issues resolved on the first attempt without the need for follow-up interactions. A high FCR indicates efficient problem-solving and customer satisfaction, whereas low scores suggest the opposite.</p>
+<p>If you’re dealing with poor FCR, your agents may lack the resources to handle inquiries effectively. For instance, a lack of contextual understanding or customer data could make addressing problems at first contact challenging.</p>
+<h3 class="wp-block-heading">6. Average handling time (AHT)</h3>
+<p>As the name suggests, average handling time tracks the average time it takes agents to complete the customer interaction. It measures the entire duration of the engagement, including any after-call work agents must do to wrap up the case. Notably, there are other KPIs that can contribute to AHT, such as average call length or average hold time.</p>
+<p>That said, high AHT doesn’t necessarily mean there’s a problem. The trick is reconciling speed and efficiency with excellent customer service. Employees who exceed handle time benchmarks may not be addressing customer needs as well as others who spend more time on the case.</p>
+<h3 class="wp-block-heading">7. Customer satisfaction (CSAT)</h3>
+<p>The customer satisfaction score, or CSAT, is a must-have contact center metric. CSAT scores measure customer satisfaction based on post-call surveys and feedback, usually on a scale-based system. For example, you can frame questions like this:</p>
+<ul class="wp-block-list">
+<li>On a scale of 1-10, how happy are you with your experience?</li>
+<li>How would you rate your satisfaction with the interaction? (Unsatisfied, somewhat satisfied, very satisfied).</li>
+</ul>
+<p>Measuring CSAT scores can help managers with quality assurance by quantifying agent performance. However, qualitative responses are also valuable, as they give context to numerical data.</p>
+<h3 class="wp-block-heading">8. Net promoter score (NPS)</h3>
+<p>Net promoter score measures long-term customer loyalty. Like CSAT, it’s calculated through surveys, which you can send immediately after an interaction or some time afterward.</p>
+<p>Most NPS surveys ask how likely the recipient is to recommend the company to others, rating their answer 1-10. This allows you to divide respondents into three groups:</p>
+<ul class="wp-block-list">
+<li><strong>Promoters (score 9-10)</strong> are highly loyal customers who will likely recommend your company.</li>
+<li><strong>Passives (score 7-8)</strong> are satisfied but unenthusiastic about your brand.</li>
+<li><strong>Detractors</strong> <strong>(score 0-6)</strong> are unhappy with their experience and may discourage others from engaging with your business.</li>
+</ul>
+<h3 class="wp-block-heading">9. Customer effort score (CES)</h3>
+<p>Customer effort score measures how difficult it is for consumers to fulfill their needs when they contact your company. Generally speaking, CES helps you understand whether customers must jump through hoops to get what they want and resolve their issues.</p>
+<p>Notably, customer effort score is related to loyalty. According to Gartner, <strong><a href="https://emt.gartnerweb.com/ngw/globalassets/en/sales-service/documents/trends/customer-value-advantage-ebook.pdf" rel="noopener" target="_blank" title="">only 37% of consumers</a></strong> remain loyal to a brand after a “high effort resolution.” On the other hand, 61% stay loyal if the experience is quick and easy.</p>
+<h3 class="wp-block-heading">10. Service level rate</h3>
+<p>Contact centers typically have service level agreements (SLA), which are standards used to uphold expectations and keep customers happy. For instance, on average, you might aim to answer emails within four hours or less or that all answered calls are resolved within 10 minutes.</p>
+<p>Service level rates are a good way to track operational efficiency over time. They also help you identify patterns or areas of improvement.</p>
+<h3 class="wp-block-heading">11. Agent turnover</h3>
+<p>Turnover rates measure the percentage of employees leaving your company in a specific period, normally a year. The agent turnover rate is notoriously high for contact centers—<a href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=4008034-1&amp;h=2636326688&amp;u=https%3A%2F%2Fecommons.cornell.edu%2Fserver%2Fapi%2Fcore%2Fbitstreams%2Fe4ae98ca-9034-4f68-8be9-86885905f403%2Fcontent&amp;a=study" rel="noopener" target="_blank" title=""><strong>twice that</strong></a> of other industries. There are many reasons someone might leave your company, but burnout is responsible for at least 50% of cases, costing organizations millions of dollars each year.</p>
+<p>Tracking turnover is vital, not just for business performance but for employee well-being. A high churn rate could suggest agents are overwhelmed, possibly by call volume or other factors. It may even indicate operational or procedural issues that require fixing.</p>
+<h2 class="wp-block-heading">How to enhance metrics for a better contact center operation</h2>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/enhance-metrics-for-a-better-contact-center.jpg" /></figure>
+<p></p>
+<p>Once you know what to measure, how do you boost your numbers? Here are some best practices for giving your contact center a lift:</p>
+<h3 class="wp-block-heading">Optimize call-handling processes</h3>
+<p>A great way to significantly drive improvements is by focusing on your call-handling strategies. Some measures you can take include:</p>
+<ul class="wp-block-list">
+<li>Streamline call routing and escalation processes to minimize hold times and ensure calls are directed to the most appropriate agent or department. Skills-based routing, for instance, can automatically distribute cases to employees based on their proficiencies, ensuring inquiries are handled effectively.</li>
+<li>Implement scripting and call flow guidelines to standardize interactions and ensure consistency in service quality.</li>
+<li>Encourage active listening and empathy among agents to build rapport with customers and enhance their overall experience.</li>
+</ul>
+<h3 class="wp-block-heading">Enhance contact center technology</h3>
+<p>Advanced platforms can provide a full suite of solutions tailored to call center operations and the customer experience. For example, Webex Contact Center allows you to:</p>
+<ul class="wp-block-list">
+<li>Leverage voice- and text-based virtual agents, automatic call distribution (ACD) systems, and more. These tools not only provide self-service options for customers to find answers independently but they also free human agents of mundane tasks.</li>
+<li>Use analytics tools to track and analyze metrics in real time, all from one convenient source of truth. Comprehensive dashboards make it easy to identify trends and make data-driven decisions.</li>
+<li>Harness <a href="https://www.webex.com/products/contact-center-AI.html" rel="noopener" target="_blank" title=""><strong>artificial intelligence</strong></a> (AI) to empower agents with full contextual knowledge, past customer histories, suggested responses, and more. These capabilities reduce burnout while also maximizing agent productivity and improving customer satisfaction.</li>
+</ul>
+<h3 class="wp-block-heading">Gather and act on customer feedback</h3>
+<p>What better way to collect insights than your customers themselves? Webex Contact Center, you can:</p>
+<ul class="wp-block-list">
+<li>Implement post-call surveys or feedback mechanisms to feed data into your analytics dashboard automatically.</li>
+<li>Analyze customer feedback to identify recurring issues or areas for improvement and take proactive steps to address them, such as by coaching agents.</li>
+<li>Drive continuous improvement initiatives and prioritize those that will impact customer satisfaction most.</li>
+</ul>
+<h3 class="wp-block-heading">Give call center agents the tools they need to succeed</h3>
+<p>Measuring performance is easy with a comprehensive platform that automatically collects and analyzes data. With Webex Contact Center, you not only gain a fully featured suite of AI-powered capabilities but also the means to activate insights at scale. Generate reports, pinpoint patterns, and identify achievements—all from one pane of glass.</p>
+<p>Ready to take your customer experience to the next level? <a href="https://www.webex.com/customer-experience/contact-center.html" rel="noopener" target="_blank" title=""><strong>Learn more about Webex Contact Center</strong></a><a href="https://www.webex.com/customer-experience/contact-center.html"> </a>today.</p>
+<p>The post <a href="https://blog.webex.com/customer-experience/eleven-valuable-contact-center-metrics-to-track/">11 valuable contact center metrics to track in 2025</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 24 Sep 2024 15:23:03 +0000</pubDate>
+<pubDate>Tue, 24 Sep 2024 15:23:03 +0000</pubDate>
+</item>
+<item>
+<title>Webex and Salesforce: New Launch Announcements at Dreamforce24</title>
+<link>https://blog.webex.com/innovation-ai/webex-and-salesforce-new-launch-announcements-at-dreamforce24/</link>
+<guid>https://blog.webex.com/innovation-ai/webex-and-salesforce-new-launch-announcements-at-dreamforce24/</guid>
+<content:encoded><![CDATA[
+
+<h2 class="wp-block-heading">Exciting Announcements from Dreamforce24 (#DF24)</h2>
+<p>This year&#8217;s Dreamforce24 (#DF24) in San Francisco is nothing short of spectacular! Among the many groundbreaking announcements, one of the most exciting highlights thus far was the unveiling of the enhanced collaboration between Webex by Cisco and Salesforce. Over 40,000 attendees from around the globe are gathered to see the future of AI in cloud-based customer engagement and communications.</p>
+<p>Dreamforce24 is the perfect backdrop for introducing two exciting developments: Webex being chosen as a launch partner for the <a href="https://www.salesforce.com/news/stories/foundations-announcement/" rel="noreferrer noopener" target="_blank">Salesforce Foundations</a> and the launch of Bucher + Suter&#8217;s <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=43cf0040-2e92-49fb-97be-8db5f0706def" rel="noreferrer noopener" target="_blank">b+s Elevate package on Salesforce AppExchange.</a> Together, these announcements promise to redefine the way businesses operate, making collaboration and customer service more seamless than ever before.</p>
+<h2 class="wp-block-heading">Webex by Cisco Selected as a Launch Partner for Salesforce Foundations</h2>
+<p>We are thrilled to announce that Webex has been selected as <a href="https://appexchange.salesforce.com/learn/Get-more-out-of-Salesforce-Foundations-with-AppExchange?_ga=2.120853962.375332460.1725293833-147175824.1715183783&amp;_gac=1.138092932.1725562648.EAIaIQobChMI0bmj4r2siAMVFTStBh2N3SuhEAAYASAAEgIlXPD_BwE" rel="noreferrer noopener" target="_blank">a launch partner for Salesforce Foundations</a>. The Webex App for Salesforce, available on AppExchange, is designed to support multiple Salesforce clouds, including Sales Cloud, Service Cloud and Marketing Cloud. No matter which Salesforce cloud you are using, Webex is seamlessly integrated within your Salesforce environment. The power and convenience of Webex Meetings, Webex Messaging and Webex Calling all together at your fingertip. Now with the power of Webex and Salesforce together, we enable you to do your best work!</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="Webex by Cisco Selected as a Launch Partner for Salesforce Foundations" class="wp-image-416017" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/launch-partner-salesforce-foundations.jpg" /></a></figure>
+<p></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-425662" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/optimized-sales-force-logo.jpg" /></figure>
+<cite><br />“I am thrilled to have one of our top ISV partners like <strong><em>Webex by Cisco</em></strong> collaborating with us on Salesforce Foundations! Our launch partner apps provide our customers with key functionality and will enhance the customer experience with thousands of pre-built third-party extensions and integrations.”<br /><br /><strong>&#8211; Brian Landsman, EVP Partnerships</strong><br /></cite></blockquote>
+<p>This integration increases awareness of Cisco solutions among Salesforce users, making it easier than ever to unlock the full potential of both platforms. Whether you’re managing leads in Sales Cloud or handling customer service inquiries in Service Cloud, Webex is there to support and enhance your workflow.</p>
+<h2 class="wp-block-heading">Bucher + Suter&#8217;s ELEVATE: The Ultimate Bundle for Cloud-based Customer Engagement</h2>
+<p>Another exciting development is the launch of b+s Elevate. This innovative bundle combines Webex Contact Center and Salesforce Service Cloud Voice into one convenient package, creating a seamless agent experience.</p>
+<p>Using b+s Connects Service Cloud Voice solution, organizations can now integrate <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a> directly with Salesforce Service Cloud. This integration allows customer service agents to handle interactions more smoothly, with all the tools they need right at their fingertips. No more switching between applications or dealing with disjointed systems – Elevate brings it all together in one cohesive environment.</p>
+<p>This powerful combination improves the agent&#8217;s experience, and it also improves the overall customer engagement experience. By using the strengths of both Webex and Salesforce, Bucher + Suter is setting a new standard for CRM and contact center solutions. Learn more <a href="https://www.bucher-suter.com/elevate/#hero__header" rel="noreferrer noopener" target="_blank">here.</a></p>
+<h2 class="wp-block-heading">Better Together</h2>
+<p>We could not be happier about being a launch partner for Salesforce Foundations and working alongside Bucher + Suter to bring the b+s Elevate solution to life. These partnerships are a testament to the value that Webex and Salesforce bring to our customers when they join forces.</p>
+<p class="has-text-align-left">We encourage all our readers to try out <a href="https://apphub.webex.com/applications/webex-in-salesforce" rel="noreferrer noopener" target="_blank">Webex for Salesforce</a> and experience firsthand how this collaboration can transform your business operations. With the ability to support multiple Salesforce clouds and the seamless integration provided by Bucher + Suter, the future of customer engagement has never looked brighter.</p>
+<p>I can’t wait to hear how you are using these exciting opportunities going forward.</p>
+<p>As always, happy collaborating!<br /><strong>Amit</strong></p>
+<p><strong>Learn more:</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://apphub.webex.com/integrations" rel="noreferrer noopener" target="_blank">Webex App Hub</a></li>
+<li><a href="https://www.webex.com/suite/collaboration-suite.html" rel="noreferrer noopener" target="_blank">Webex Suite</a></li>
+<li><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a></li>
+<li><a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a></li>
+</ul>
+<p>The post <a href="https://blog.webex.com/innovation-ai/webex-and-salesforce-new-launch-announcements-at-dreamforce24/">Webex and Salesforce: New Launch Announcements at Dreamforce24</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 17 Sep 2024 19:25:56 +0000</pubDate>
+<pubDate>Tue, 17 Sep 2024 19:25:56 +0000</pubDate>
+</item>
+<item>
+<title>Cisco launches second Webex Calling data center in the United Kingdom</title>
+<link>https://blog.webex.com/collaboration/cisco-launches-second-webex-calling-data-center-in-the-united-kingdom/</link>
+<guid>https://blog.webex.com/collaboration/cisco-launches-second-webex-calling-data-center-in-the-united-kingdom/</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noopener" target="_blank" title="">Webex Calling</a> delivers enterprise-grade cloud calling to over 15 million users across <a href="https://www.webex.com/products/calling-global-availability.html" rel="noopener" target="_blank" title="">170+ countries</a> around the world. To support our growing global installed base, we’re excited to announce the launch of a second calling data center in the UK. This expansion supports our enterprise customers and partners in the UK by providing improved service reliability, enhanced compliance, and solutions for evolving regulatory requirements post-Brexit.</p>
+<p>Our new Webex Calling data center is located in Manchester and complements our existing data center in London. Both UK data centers support multi-tenant and <a href="https://help.webex.com/en-us/article/dk3o5r/Introduction-to-Dedicated-Instance" rel="noopener" target="_blank" title="">Dedicated Instance</a> deployment models for Webex Calling. The addition of Cisco’s second UK data center for Webex Calling ensures that both active and redundant calling media and signaling data remains within the UK region.</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/optimized-latest-webex-calling-data-centers.jpg" /></figure>
+<p></p>
+<p>Our second UK data center will benefit Webex Calling customers in commercial and enterprise markets, as well as regulated industries such as finance and government, that require calling (media and signaling) data to reside in the UK.</p>
+<p>Webex Calling is committed to delivering high quality, secure, reliable, and compliant enterprise-grade cloud calling services to our customers around the globe. The launch of our second UK data center follows the recent launch of media PoPs in the <a href="https://blog.webex.com/cloud-calling/cisco-expands-webex-calling-and-contact-center-media-presence-in-uae/" rel="noopener" target="_blank" title="">United Arab Emirates</a>, Brazil, and <a href="https://blog.webex.com/cloud-calling/south-korea-data-center/" rel="noopener" target="_blank" title="">South Korea</a>. Over the next calendar year, we have plans to further expand our data center footprint to provide ongoing service improvements to our global Webex Calling installed base.</p>
+<p><strong>Learn more:</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noopener" target="_blank" title="">Webex Calling overview</a></li>
+<li><a href="https://help.webex.com/en-us/article/n70gvam/Data-Center-locations-for-Webex-Calling" rel="noopener" target="_blank" title="">Webex Calling data center locations</a></li>
+<li><a href="https://help.webex.com/en-us/article/nefkee9/Activate-Dedicated-Instance" rel="noopener" target="_blank" title="">Webex Calling Dedicated Instance</a></li>
+</ul>
+<p>The post <a href="https://blog.webex.com/collaboration/cisco-launches-second-webex-calling-data-center-in-the-united-kingdom/">Cisco launches second Webex Calling data center in the United Kingdom</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 17 Sep 2024 15:22:20 +0000</pubDate>
+<pubDate>Tue, 17 Sep 2024 15:22:20 +0000</pubDate>
+</item>
+<item>
+<title>Announcing the 2024 Webex Customer Awards Finalists</title>
+<link>https://blog.webex.com/customer-stories/announcing-the-2024-webex-customer-awards-finalists/</link>
+<guid>https://blog.webex.com/customer-stories/announcing-the-2024-webex-customer-awards-finalists/</guid>
+<content:encoded><![CDATA[
+
+<p>The annual Webex Customer Awards at WebexOne is one of the most exciting times of the year because we get to do what we love most: celebrate our customers and all they have achieved!</p>
+<p>We are elated to reveal the distinguished finalists for the third annual <a href="https://www.webexone.com/awards.html" rel="noopener" target="_blank" title="">Webex Customer Awards.</a> The Webex Customer Awards honor the trailblazers who are innovating with AI in their organizations, and leveraging Webex solutions to transform hybrid work, collaboration, and customer experience. We extend our deepest gratitude to all the participants for sharing their inspiring journeys with us.</p>
+<p>The task of narrowing down these outstanding contributions to a select group of finalists was as challenging as it was thrilling. We are excited to spotlight the standout contenders across our 14 categories.</p>
+<p>We look forward to revealing the winners during a live awards ceremony on October 24 at <a href="https://www.webexone.com/tickets.html" rel="noopener" target="_blank" title="">WebexOne 2024</a> at The Diplomat Beach Resort in the Miami-Fort Lauderdale, Florida, area.</p>
+<p>Congratulations to the 2024 Webex Customer Awards finalists!</p>
+<p></p>
+<h2 class="wp-block-heading">Webex Customer Awards 2024: Finalists</h2>
+<div>
+<video class="ec-video" controls="controls" poster="http://blog.webex.com/feed/">
+<source src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/webex-award-video-finalist-v2.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</div>
+<p></p>
+<h3 class="wp-block-heading">Collaboration Champion</h3>
+<p>This award recognizes a company leveraging the <a href="https://www.webex.com/suite/collaboration-suite.html" rel="noopener" target="_blank" title="">Webex Suite</a>, which includes <a href="https://www.webex.com/suite/meetings.html" rel="noopener" target="_blank" title="">Meetings</a>, <a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noopener" target="_blank" title="">Calling</a>, <a href="https://www.webex.com/suite/messaging.html" rel="noopener" target="_blank" title="">Messaging</a>, <a href="https://www.webex.com/suite/webinar.html" rel="noopener" target="_blank" title="">Webinars</a> and <a href="https://www.webex.com/suite/events.html" rel="noopener" target="_blank" title="">Events</a> in exceptional ways.</p>
+<ul class="wp-block-list">
+<li><strong>The Cigna Group</strong></li>
+<li><strong>HD Supply</strong></li>
+<li><strong>MetLife, Inc.</strong></li>
+<li><strong>Rémy Cointreau</strong></li>
+</ul>
+<h3 class="wp-block-heading">Cloud Calling Leader</h3>
+<p>This award recognizes a company that deployed <a href="https://www.webex.com/cloud-calling.html" rel="noopener" target="_blank" title="">Webex Calling</a> and has improved connections in a hybrid work world.</p>
+<ul class="wp-block-list">
+<li><strong>Air Liquide</strong></li>
+<li><strong>American Eagle Outfitters</strong></li>
+<li><strong>Deutsche Telekom</strong></li>
+<li><strong>Toshiba Corporation</strong></li>
+<li><strong>Yale University</strong></li>
+</ul>
+<h3 class="wp-block-heading">Workspace Wizard</h3>
+<p>This award recognizes a company that has reimagined their hybrid workspaces using <a href="https://www.webex.com/collaboration-devices.html" rel="noopener" target="_blank" title="">Cisco collaboration devices</a>.</p>
+<ul class="wp-block-list">
+<li><strong>Adidas</strong></li>
+<li><strong>Advanced Micro Devices, Inc.</strong></li>
+<li><strong>LPL Financial</strong></li>
+<li><strong>Wells Fargo</strong></li>
+</ul>
+<h3 class="wp-block-heading">Customer Experience Extraordinaire</h3>
+<p>This award recognizes a company that has leveraged <a href="https://www.webex.com/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Webex Contact Center</a> solutions to reimagine the customer journey and create customer delight.</p>
+<ul class="wp-block-list">
+<li><strong>Capgemini</strong></li>
+<li><strong>Cintas</strong></li>
+<li><strong>Office Depot</strong></li>
+<li><strong>Schenker AG</strong></li>
+<li><strong>Veridian Credit Union</strong></li>
+</ul>
+<h3 class="wp-block-heading">Customer and Employee Experience Standout</h3>
+<p>This award recognizes a company that leverages <a href="https://www.webex.com/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Webex Contact Center</a> <strong>and</strong> <a href="https://www.webex.com/us/en/solutions/cross-platform/control-hub.html" rel="noopener" target="_blank" title="">Webex Suite</a> <strong>or</strong> <a href="https://www.webex.com/cloud-calling.html" rel="noopener" target="_blank" title="">Webex Calling</a> to reimagine the customer journey and employee experience.</p>
+<ul class="wp-block-list">
+<li><strong>Asda Stores Limited</strong></li>
+<li><strong>Dallas Cowboys</strong></li>
+<li><strong>Jefferson City Medical Group</strong></li>
+<li><strong>Lee Health</strong></li>
+<li><strong>Springfield Clinic</strong></li>
+</ul>
+<h3 class="wp-block-heading">Customer Communications Trailblazer</h3>
+<p>This award recognizes a company that is reimagining the customer journey experience with <a href="https://cpaas.webex.com/" rel="noopener" target="_blank" title="">Webex Connect</a>.</p>
+<ul class="wp-block-list">
+<li><strong>Carnival Cruise Line</strong></li>
+<li><strong>Kaleida Health</strong></li>
+<li><strong>Pedernales Electric Cooperative, Inc.</strong></li>
+<li><strong>Royal Bank of Canada</strong></li>
+</ul>
+<h3 class="wp-block-heading">AI Innovator: Customer Experience</h3>
+<p>Celebrating a company that has demonstrated vision, foresight, and innovation through their use of <a href="https://www.webex.ai/" rel="noopener" target="_blank" title="">Cisco AI Assistant </a>for <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Webex Contact Center</a>.</p>
+<ul class="wp-block-list">
+<li><strong>Maersk</strong></li>
+<li><strong>Mercalis</strong></li>
+<li><strong>MetroHealth</strong></li>
+<li><strong><strong>Umpqua</strong>&nbsp;Bank</strong></li>
+</ul>
+<h3 class="wp-block-heading">AI Innovator: Hybrid Work</h3>
+<p>Celebrating a company that has demonstrated vision, foresight, and innovation through their use of <a href="https://www.webex.ai/" rel="noopener" target="_blank" title="">Cisco AI Assistant</a> for <a href="https://www.webex.com/suite/collaboration-suite.html" rel="noopener" target="_blank" title="">Webex Suite</a>.</p>
+<ul class="wp-block-list">
+<li><strong>NYU Langone Health</strong></li>
+<li><strong>Pegasystems</strong></li>
+<li><strong>UNC Health</strong></li>
+<li><strong>USI Insurance Services</strong></li>
+</ul>
+<h3 class="wp-block-heading">Management &amp; Security Hero</h3>
+<p>Recognizing a company that has optimized hybrid work and customer experience management and security with Webex Control Hub.</p>
+<ul class="wp-block-list">
+<li><strong>Akamai Technologies</strong></li>
+<li><strong>American Eagle Outfitters</strong></li>
+<li><strong>KPMG</strong></li>
+<li><strong>Wells Fargo</strong></li>
+</ul>
+<h3 class="wp-block-heading">Hybrid Work Genius</h3>
+<p>This award recognizes a company that is making hybrid work really work by leveraging not just Cisco collaboration devices and software, but also cross-portfolio software such as <a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/internet-cloud-intelligence/index.html" rel="noopener" target="_blank" title="">ThousandEyes</a>, <a href="https://meraki.cisco.com/" rel="noopener" target="_blank" title="">Meraki</a> and <a href="https://www.cisco.com/c/en/us/solutions/enterprise-networks/dna-spaces/index.html" rel="noopener" target="_blank" title="">Cisco Spaces</a>.</p>
+<ul class="wp-block-list">
+<li><strong>ADR Tel S.p.A</strong></li>
+<li><strong>BlackRock</strong></li>
+<li><strong>Elevance Health</strong></li>
+<li><strong>Griffith University</strong></li>
+<li><strong>Stewart Title</strong></li>
+</ul>
+<h3 class="wp-block-heading">Bold Explorer – Government &amp; Public Sector</h3>
+<p>This award recognizes a company that showcases creativity and out-of-the-box thinking in their use of Webex products in the <a href="https://www.webex.com/industries/government.html" rel="noopener" target="_blank" title="">government and public sector</a>.</p>
+<ul class="wp-block-list">
+<li><strong>City of El Paso</strong></li>
+<li><strong>Feeding America</strong></li>
+<li><strong>JEA</strong></li>
+<li><strong>State of Tennessee</strong></li>
+</ul>
+<h3 class="wp-block-heading">Bold Explorer – Healthcare</h3>
+<p>This award recognizes a company that showcases creativity and out-of-the-box thinking in their use of <a href="https://www.webex.com/industries/healthcare.html" rel="noopener" target="_blank" title="">Webex products in healthcare</a>.</p>
+<ul class="wp-block-list">
+<li><strong>Barton Health</strong></li>
+<li><strong>NewYork-Presbyterian</strong></li>
+<li><strong>St. Anne Institute</strong></li>
+<li><strong>UNC Health</strong></li>
+</ul>
+<h3 class="wp-block-heading">Bold Explorer – Finance</h3>
+<p>This award recognizes a company that showcases creativity and out-of-the-box thinking in their use of <a href="https://www.webex.com/industries/financial-services.html" rel="noopener" target="_blank" title="">Webex products in finance</a>.</p>
+<ul class="wp-block-list">
+<li><strong>Banco Popolare Milano</strong></li>
+<li><strong><strong>Crédit Agricole Group Infrastructure Plateform</strong></strong></li>
+<li><strong>Express Bank (BNP Paribas)</strong></li>
+<li><strong>Farmers Insurance Group</strong></li>
+<li><strong>Public Investment Fund</strong></li>
+</ul>
+<h3 class="wp-block-heading">Webex Luminary</h3>
+<p>This award recognizes individuals in companies who are advocating for Webex and are visionaries in their organization, driving change by rallying others to embrace Webex.</p>
+<ul class="wp-block-list">
+<li><strong>Jason O&#8217;Dell, First Horizon Bank</strong></li>
+<li><strong>Larry Freed, Overhead Door</strong></li>
+<li><strong>Maria Cristina Ferradini, Fondazione Amplifon</strong></li>
+<li><strong>Robert Bibey, Brightli</strong></li>
+<li><strong>Sebastian Leuser, Deutsche Telekom</strong></li>
+<li><strong>Tim Roberts, St. Anne Institute</strong></li>
+</ul>
+<h3 class="wp-block-heading">Congratulations to the 2024 Webex Customer Awards Finalists</h3>
+<p>Thank you to everyone who made a submission to this year’s Webex Customer Awards! A big congratulations to this year’s finalists. We’re looking forward to celebrating you at WebexOne! Until then, you can read the <a href="https://www.webexone.com/awards.html" rel="noopener" target="_blank" title="">Webex Customer Awards FAQs</a> and <a href="https://www.webexone.com/tickets.html" rel="noopener" target="_blank" title="">register for either the live or virtual WebexOne experience</a>.</p>
+<p></p>
+<p>The post <a href="https://blog.webex.com/customer-stories/announcing-the-2024-webex-customer-awards-finalists/">Announcing the 2024 Webex Customer Awards Finalists</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 17 Sep 2024 11:56:27 +0000</pubDate>
+<pubDate>Tue, 17 Sep 2024 11:56:27 +0000</pubDate>
+</item>
+<item>
+<title>Deliver highly connected experiences with Webex: A unified ...</title>
+<link>https://blog.webex.com/customer-experience/deliver-exceptional-customer-experiences-best-ucaas-ccaas-cpaas-offerings-from-webex/</link>
+<guid>https://blog.webex.com/customer-experience/deliver-exceptional-customer-experiences-best-ucaas-ccaas-cpaas-offerings-from-webex/</guid>
+<content:encoded><![CDATA[
+
+<p>Customer expectations and the way customers engage with businesses have forever changed. The new reality is that customers expect to interact with businesses via any digital channel, not just over the phone. And if they do pick up the phone to talk to your customer service team, they also expect you to know who they are and what they need from your company.</p>
+<p>The most memorable customer experiences are created when agents have historical context about the customer, are armed with the right resources to serve them, and are given intuitive collaboration tools to get help from other teams to quickly solve for their customer’s needs. This means that customer service is no longer an afterthought but has become the front door, and customer service agents are now the face of the company to provide memorable first impressions. In fact, providing exceptional customer experience is now every employee’s responsibility, not just limited to a specific department.</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/optimized-strengthen-customer-relationships.jpg" /></figure>
+<p></p>
+<p>At Webex we fully realize that companies, small, mid, or large, all have different needs. Therefore, we offer an enterprise-grade portfolio of customer experience solutions that leverage the best of our UCaaS, CCaaS, and CPaaS capabilities to reimagine customer experiences that will surpass expectations. Explore these options to best suit your business needs.</p>
+<h2 class="wp-block-heading">Strengthen Customer Relationships with Webex Calling (UCaaS)&nbsp;</h2>
+<p>Webex Calling customers can make calling central to the customer experience with our simple, cost-effective tools, which empower employees to deliver delightful customer interactions. These capabilities are built into Webex Calling out of the box and are available through cost-effective packages that fit the customer experience needs of businesses of any size.</p>
+<ul class="wp-block-list">
+<li><strong>Webex Customer Experience Basic:</strong> A collection of core call center features that are included out of the box for no additional fee with the Webex Calling Professional License. Webex Customer Experience Basic includes voice queues, agent experience in the <a href="https://www.webex.com/downloads.html" rel="noreferrer noopener" target="_blank">Webex App</a>, multi-call window, HD Voice, and call queue analytics.</li>
+<li><strong><a href="https://www.webex.com/content/dam/www/us/en/documents/pdf/webex-cxb-and-essentials_cm-6259.pdf" rel="noreferrer noopener" target="_blank">Webex Customer Experience Essentials</a>:</strong> An all-new Webex Calling license designed for growing call centers or groups with more sophisticated customer interactions. It provides businesses with a simple, yet cost-effective customer experience solution, delivering an essential selection of contact center tools in the Webex App, including all new agent, supervisor, and analytics experiences. With Customer Experience Essentials, businesses can empower non-traditional agents, like knowledge workers, mobile workers, frontline, and operational staff, to contribute to the customer experience. It’s ideal for SMBs, regional branch offices, retail stores or any business that doesn’t require full contact center capabilities.</li>
+</ul>
+<p></p>
+<div>
+
+</div>
+<p></p>
+<h2 class="wp-block-heading">Elevate exceptional experiences with a full range of CCaaS offerings</h2>
+<p>Webex offers a range of customer experience solutions for businesses needing a modern contact center that is flexible and innovative in order to truly future-proof an organization’s customer experience strategy. Webex Contact Center is much more versatile and sophisticated in handling transactions seamlessly across any channel, with the ability to effortlessly route customers to be the best possible agent if necessary. Complete with full analytics, workforce optimization tools, and customer journey services to better support and act on end-to-end customer journeys. Explore our current offerings:</p>
+<ul class="wp-block-list">
+<li><strong>Webex Contact Center</strong><br />Our latest AI-powered <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a> solution is self-learning and delivers an integrated experience across digital and voice channels. It provides proactive communications for customer alerts and self-service options, and when a customer needs to engage with a human agent, Webex ensures a seamless handoff with complete context from the automated experience. It’s a single solution that supports all users as part of the customer experience journey, from the customer to the agent, supervisor, back-office, and IT. Designed and built from its foundation as a Software-as-a-Service (SaaS) cloud solution, Webex Contact Center’s best-of-breed platform architecture brings your business the innovation, flexibility, scalability, and agility of the cloud without sacrificing security. As a cloud-based subscription, Webex Contact Center enables rapid time to market and time to new revenue while minimizing upfront capital investment.</li>
+</ul>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2023/08/financial-worker-in-home-office-with-mic-and-laptop-feature-1.jpg" /></figure>
+<p></p>
+<ul class="wp-block-list">
+<li><strong>Webex Contact Center Enterprise&nbsp;</strong><br />Webex Contact Center Enterprise is a feature-rich cloud contact center for large enterprises. It provides a comprehensive, customizable, highly secure dedicated instance cloud solution to meet the complex needs of the world&#8217;s largest contact centers. It’s extensible via open APIs and add-on options and backed by Webex&#8217;s renowned security and support. Webex Contact Center Enterprise opens a path to the cloud for even the most business-critical contact centers.&nbsp;</li>
+</ul>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2022/03/webex-contact-center-feature.jpg" /></figure>
+<p></p>
+<ul class="wp-block-list">
+<li><strong>Webex Contact Center Enterprise for Government (Authorized for FedRAMP)&nbsp;</strong><br />Webex Contact Center Enterprise for Government (Webex CCE-G) provides a comprehensive, customizable, highly secure solution to meet the complex needs of Federal and State Agencies requiring a FedRAMP moderate authorized by cloud Contact Center. Readily extensible and backed by the security and support benefits only available from a trusted brand like Cisco, Webex CCE-G opens a path to the cloud for even the most business-critical contact centers. This cloud service can quickly scale to meet your needs for new agents and new capabilities and provide the latest feature sets whenever you decide to implement them.</li>
+</ul>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://blog.webex.com/wp-content/uploads/2023/08/webex-for-government-american-flag.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">Ignite digital transformation with automation that keeps customers engaged with Webex Connect (CPaaS)</h2>
+<p>Create smarter customer interactions across multiple communication channels with our cloud communications platform (CPaaS), Webex Connect, and software as a service (SaaS) applications. Webex CPaaS solutions are designed for medium to large organizations seeking to maximize customer satisfaction while saving time and reducing costs. While you can support multiple communications channels individually, our enterprise-grade CPaaS platform enables you to automate, orchestrate, and monitor interactions at scale to deliver an end-to-end customer journey across multiple channels.</p>
+<p></p>
+<div>
+
+</div>
+<p></p>
+<p>In addition to Webex Connect, we offer specialized SaaS applications tailored for specific enterprise users. Webex Campaign is designed for marketers to create and deliver campaigns that drive relationships, revenue, and customer lifetime value in today&#8217;s competitive market. Webex Notify caters to the needs of operational teams in large-scale enterprises, enabling the management of notifications across SMS, email, and voice channels. Explore our Webex Connect offerings <a href="https://cpaas.webex.com/" rel="noopener" target="_blank" title="">here</a>.</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/optimized-supercharge-your-customer-experiences.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">Supercharge your customer experiences with innovative Webex solutions.</h2>
+<p>Our commitment is to help you deliver the best customer experience by leveraging our UCaaS, CCaaS, and CPaaS capabilities. Switch from ‘first call resolution’ to ‘no-call resolution’ with Webex’s complete set of customer experience tools that enable pro-active, digital-first customer engagement even before customers realize there’s a potential issue. If you are ready to empower your employees, agents, supervisors, and IT staff with a flexible and comprehensive set of customer experience solutions; solutions that are more secure, reliable, innovative, with a global reach, I encourage you to reach out to our  <a href="https://use.webex.com/contact-sales?lang=en&amp;_gl=1*18n7jo6*_gcl_aw*R0NMLjE3MTg5OTk2NTguQ2p3S0NBandwcy16QmhBaUVpd0FMd3NWWVoxQm1hYUhBRTJjMW04azJUd3ZqNmJmLTAyeUtKYzBWOEllcWdCay1MbVZZQkRxNHRNdktSb0NRUWtRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MTg5OTk2NTguQ2p3S0NBandwcy16QmhBaUVpd0FMd3NWWVoxQm1hYUhBRTJjMW04azJUd3ZqNmJmLTAyeUtKYzBWOEllcWdCay1MbVZZQkRxNHRNdktSb0NRUWtRQXZEX0J3RQ..*_gcl_au*MTMzNjgxOTExNS4xNzIxNjgyMzM5*_ga*MTU3MjUzNzM4NC4xNjgyMDA1MDk3*_ga_KP8QEFW4ML*MTcyMjU0Mzk2MC4yNjEuMS4xNzIyNTQzOTY2LjU0LjAuMA.." rel="noreferrer noopener" target="_blank">Sales team</a> to discuss your specific needs and request live demos of <a href="https://www.webex.com/whats-new" rel="noreferrer noopener" target="_blank">our recent innovations</a>. </p>
+<h3 class="wp-block-heading">Resources</h3>
+<ul class="wp-block-list">
+<li><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a></li>
+<li><a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a></li>
+<li><a href="https://cpaas.webex.com/products/webex-connect" rel="noreferrer noopener" target="_blank">Webex Connect</a></li>
+<li><a href="https://blog.webex.com/customer-experience/innovation-velocity-everything-thats-new-webex-contact-center-2024/" rel="noopener" target="_blank" title="">Innovation Velocity: Everything that&#8217;s new in Webex Contact Center in 2024</a></li>
+<li><a href="https://blog.webex.com/customer-experience/six-reasons-ai-powered-webex-contact-center-deliver-exceptional-customer-experiences/" rel="noreferrer noopener" target="_blank">Six Reasons AI-powered Webex Contact Center helps deliver exceptional customer experiences</a>.</li>
+</ul>
+<p>The post <a href="https://blog.webex.com/customer-experience/deliver-exceptional-customer-experiences-best-ucaas-ccaas-cpaas-offerings-from-webex/">Deliver highly connected experiences with Webex: A unified ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Thu, 12 Sep 2024 15:58:54 +0000</pubDate>
+<pubDate>Thu, 12 Sep 2024 15:58:54 +0000</pubDate>
+</item>
+<item>
+<title>How Webex Calling delivers crystal clear calls in any environment</title>
+<link>https://blog.webex.com/collaboration/webex-calling-delivers-crystal-clear-calls-any-environment/</link>
+<guid>https://blog.webex.com/collaboration/webex-calling-delivers-crystal-clear-calls-any-environment/</guid>
+<content:encoded><![CDATA[
+
+<p>Clear communication is crucial; poor call quality can quickly lead to frustrated employees and unhappy customers. That’s why Webex Calling is continually investing in the infrastructure and technology needed to deliver unmatched call quality. Today, let’s take a closer look at three key areas where Webex has made significant advancements to elevate your call experience:</p>
+<ul class="wp-block-list">
+<li><a href="http://blog.webex.com/feed/#webex-ai" title="">Webex AI Codec</a></li>
+<li><a href="http://blog.webex.com/feed/#hd-voice" title="">HD Voice</a></li>
+<li><a href="http://blog.webex.com/feed/#global-data" title="">Global data center footprint</a><br /><br /></li>
+</ul>
+<figure class="wp-block-image size-full"><img alt="Webex AI Codec" class="wp-image-420447" src="https://blog.webex.com/wp-content/uploads/2024/08/webex-ai-codec-1.jpg" /></a></figure>
+<p></p>
+<h2 class="wp-block-heading" id="webex-ai">Webex AI Codec, transforming your audio experiences</h2>
+<p>Poor call quality often stems from challenging network conditions that cause packet loss—something we’ve all experienced in hotel rooms or on mobile phones in remote areas, where voices come through choppy and hard to understand.</p>
+<p>Our latest industry-first innovation, the <a href="https://youtu.be/v7YROSeX4h8?si=yerrFsrsSK67vtNA" rel="noopener" target="_blank" title="">Webex AI Codec</a>, addresses these scenarios with a single, end-to-end solution for speech enhancement and highly resilient communications, ensuring crystal clear audio anywhere, on any device, under any conditions. <a href="https://www.webex.com/gp/webex-ai-codec.html" rel="noopener" target="_blank" title="">Webex AI Codec</a> intelligently adjusts the bitrates and redundancies, when encoding audio packets – becoming an industry first innovation and providing a real differentiating experience for our users.</p>
+<p>Let’s check out an example. The call below was made with the industry-standard Opus codec, and as you’ll see in Webex Diagnostics, there’s around 80% packet loss. The result? Audio that’s garbled and impossible to understand.</p>
+<p></p>
+
+<div class="bc-video-wrapper"> 
+<div>
+
+
+</div>
+</div>
+<p></p>
+<p>The call below was made in the same conditions with the Webex AI Codec.</p>
+<p></p>
+
+<div class="bc-video-wrapper"> 
+<div>
+
+
+</div>
+</div>
+<p></p>
+<p>You can immediately hear the difference—even under the same challenging network conditions, the call with Webex AI Codec is clear and easy to understand. The improvement is night and day!</p>
+<p>Webex AI Codec is being rolled out globally for Webex Calling and Meetings on the Webex App on desktop and mobile devices. When you experience poor network quality with over 30% packet loss, Webex AI Codec will be triggered automatically.</p>
+<p></p>
+<div>
+
+</div>
+<p></p>
+<h2 class="wp-block-heading" id="hd-voice">HD Voice, crystal clear audio on both ends of the call</h2>
+<p>In addition to our groundbreaking work that mitigates the impact of packet loss, we&#8217;ve made innovations that make calls sound better by enriching voice and eliminating background noise. Last year we unveiled another industry-first innovation called <a href="https://www.webex.com/content/dam/www/us/en/documents/pdf/hd-voice-at-a-glance_CM-6232_v2.pdf" rel="noopener" target="_blank" title="">HD Voice</a>, which combines two important technologies:</p>
+<ul class="wp-block-list">
+<li><a href="https://www.cisco.com/c/en/us/products/collateral/unified-communications/webex-calling/audio-intelligence-webex-calling-aag.html" rel="noopener" target="_blank" title="">Audio Intelligence</a>, which eliminates distracting background noise from calls</li>
+<li>Wideband audio, a Webex-exclusive innovation that uses AI to enrich narrowband PSTN audio to wideband, providing a clearer more intelligible calling experience</li>
+</ul>
+<p>Best of all, HD Voice works on both ends of the call, even if the person you’re speaking with isn’t a Webex Calling user. This is an essential feature for agents, admins, and receptionists that spend much of their day speaking to external callers like customers, suppliers, and partners.</p>
+<figure class="wp-block-image size-full"><img alt="Webex Data Centers" class="wp-image-420447" src="https://blog.webex.com/wp-content/uploads/2024/08/webex-calling-data-centers.jpg" /></a></figure>
+<p></p>
+<h2 class="wp-block-heading" id="global-data">Global data center footprint</h2>
+<p>Webex Calling is powered by a <a href="https://help.webex.com/en-us/article/n70gvam/Data-Center-locations-for-Webex-Calling" rel="noopener" target="_blank" title="">robust global network</a>, with 17 data centers and media points-of-presence (PoPs) strategically placed around the world. This extensive infrastructure has delivered 99.999% availability over the past 24 months and ensures that our customers enjoy high-quality and reliable calls <a href="https://www.webex.com/products/calling-global-availability.html" rel="noopener" target="_blank" title="">across 170+ markets worldwide</a>. In July, we expanded our platform with a <a href="https://blog.webex.com/cloud-calling/cisco-expands-webex-calling-and-contact-center-media-presence-in-uae/" rel="noopener" target="_blank" title="">new media PoP in the United Arab Emirates</a>, and we’re not stopping there—additional data centers are set to go live later this year. This ongoing investment underscores our commitment to delivering seamless communication experiences, no matter where your business operates.</p>
+<p>As businesses increasingly rely on seamless and reliable communication, Webex Calling continues to push the boundaries of what’s possible with innovative technology and a global infrastructure designed to deliver exceptional call quality. From AI-driven noise removal to intelligent codecs that adapt in real time, we’re committed to making every conversation crystal clear, regardless of network conditions or device. With our ongoing investments and industry-first innovations, you can trust Webex to keep your business communications strong and your teams connected, no matter what challenges arise.</p>
+<p><strong>Learn more</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noopener" target="_blank" title="">Webex Calling</a></li>
+<li><a href="https://www.webex.com/content/dam/www/us/en/documents/pdf/hd-voice-at-a-glance_CM-6232_v2.pdf" rel="noopener" target="_blank" title="">HD Voice</a></li>
+<li><a href="https://webexcalling.link/30e030" rel="noopener" target="_blank" title="">Webex AI Codec At-a-glance</a></li>
+<li><a href="https://www.webex.com/gp/webex-ai-codec.html" rel="noopener" target="_blank" title="">Webex AI Codec Whitepaper</a></li>
+<li><a href="https://blog.webex.com/hybrid-work/announcing-the-availability-of-industry-first-webex-ai-codec-transforming-your-audio-experiences/" rel="noopener" target="_blank" title="">Announcing the availability of industry-first Webex AI Codec</a></li>
+<li><a href="https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-responsible-artificial-intelligence-framework.pdf" rel="noreferrer noopener" target="_blank">Responsible AI</a></li>
+</ul>
+<p>The post <a href="https://blog.webex.com/collaboration/webex-calling-delivers-crystal-clear-calls-any-environment/">How Webex Calling delivers crystal clear calls in any environment</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 15:57:13 +0000</pubDate>
+<pubDate>Wed, 11 Sep 2024 15:57:13 +0000</pubDate>
+</item>
+<item>
+<title>Best practices for effective contact center optimization</title>
+<link>https://blog.webex.com/customer-experience/best-practices-for-effective-contact-center-optimization/</link>
+<guid>https://blog.webex.com/customer-experience/best-practices-for-effective-contact-center-optimization/</guid>
+<content:encoded><![CDATA[
+
+<p>Many business functions benefit from process optimization—and your contact center is no exception. Streamlining contact center workflows means less stress on your agents, faster resolutions for your customers, and more money in your pocket.</p>
+<p>Here, we’re talking all about contact center optimization including how to augment your processes, which KPIs to track, and more.</p>
+<h2 class="wp-block-heading">Why you should optimize your contact center</h2>
+<p>Efficient contact center operations are not just advantageous, but instead necessary for sustained business. With disjointed processes and inefficient workflows, your contact center cannot run at an optimal pace and function as it should.</p>
+<p>When things start to slow down as a result of disorganization, you risk:</p>
+<ol>
+</ol>
+<h2 class="wp-block-heading">What’s standing in the way of contact center optimization?</h2>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/way-contact-center-optimization.jpg" /></figure>
+<p></p>
+<p>Businesses face a handful of hurdles between where they currently are and a fully optimized contact center operation—some of them are real, others are perceived. Effective optimization involves identifying the following challenges with clarity, addressing them systematically, and implementing targeted solutions to overcome these obstacles and drive continual improvement.</p>
+<p><strong>Legacy systems and infrastructure:</strong> Outdated technology infrastructure notoriously limits the ability of contact centers to adopt new tools that can improve their customer service processes. Legacy systems often lack compatibility with modern software solutions, such as cloud-based services and artificial intelligence (AI)-driven omnichannel communication platforms. This incompatibility can result in expensive and disruptive overhauls, acting as a significant optimization barrier.</p>
+<p><strong>Budget constraints:</strong> Both the software and hardware associated with contact center optimization—such as advanced VoIP phones, high-performance servers, and CRM systems, among other assets—often require significant investment. Fortunately, there are cost-effective, yet highly efficient contact center solutions available that allow organizations to optimally function and scale. To those ends, <strong><a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Webex Contact Center</a></strong> provides agents with AI-driven insights and tools—integrating seamlessly with existing systems to offer flexible, scalable solutions that accommodate various budgetary constraints.</p>
+<p><strong>Data silos and integration challenges:</strong> The use of multiple platforms leads to scattered data, complicating efforts to create a unified view of customer interactions, agent responsiveness, and other key metrics. This fragmentation obstructs efficient service delivery as agents cannot access complete customer histories or insights from other communication channels, leading to service gaps.</p>
+<p><strong>High contact center agent turnover:</strong> With <strong><a href="https://ecommons.cornell.edu/server/api/core/bitstreams/e4ae98ca-9034-4f68-8be9-86885905f403/content" rel="noopener" target="_blank" title="">44% of agents</a> </strong>actively seeking new work, contact centers face continual disruptions to service continuity and quality. Constant agent training and hiring drain resources and focus from strategic initiatives—degrading the quality of customer service as new agents take time to reach the proficiency of their predecessors.</p>
+<p><strong>Resistance to change:</strong> While <strong><a href="https://www.pritchettnet.com/how-much-resistance-to-change-is-normal-0#:~:text=Another%2050%20percent%20of%20the,30%20percent%20are%20the%20resisters." rel="noopener" target="_blank" title="">half of employees</a></strong> are neutral to change, approximately 30% are reluctant. That leaves just 20% who are open to new processes that can improve operations. Hence why strategic change management is so important. Rather than abruptly imposing new systems and practices, successful change management involves engaging with and educating employees on the benefits of new technologies and processes, thereby fostering receptiveness.</p>
+<p>To address these challenges, businesses need to use a solution that’s easily adaptable, compatible, and conducive with operational needs. <strong><a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Webex Contact Center</a></strong> is just that: a comprehensive and adaptable platform that seamlessly integrates with both new and existing systems. This compatibility eases the transition for businesses moving from legacy systems to advanced, AI-driven solutions. By providing agents with AI-driven tools and valuable insights within a cost-effective framework, Webex Contact Center enables organizations to overcome budget constraints, data silos, high agent turnover, and resistance to change, thereby facilitating optimal contact center performance.</p>
+<h2 class="wp-block-heading">How to optimize your contact center</h2>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/optimize-your-contact-center.jpg" /></figure>
+<p></p>
+<p>Optimizing a contact center involves a strategic approach to managing resources, integrating technology, monitoring performance, continuously training staff, refining processes, and supporting multiple communication channels.</p>
+<h3 class="wp-block-heading">Resource management</h3>
+<p>Effective resource management is anchored in predictive analytics and real-time responsiveness. By leveraging historical data, contact center managers can predict peak periods and adjust staffing levels accordingly. Predictive analytics tools analyze past trends, considering variables such as time of day, seasonal demand, and marketing campaigns. This data informs a dynamic contact center scheduling system that aligns agent shifts with anticipated call volumes, ensuring optimal staffing without underutilization or overload.</p>
+<p>Moreover, real-time monitoring tools enable immediate adjustments to staffing when unexpected deviations from predictions occur, thus maintaining service levels without incurring unnecessary labor costs.</p>
+<h3 class="wp-block-heading">Technology integration</h3>
+<p>A unified agent desktop that integrates CRM, ACD, IVR, and outbound communication tools into one interface reduces the time agents spend navigating systems, thereby decreasing Average Handle Time (AHT) and improving the customer experience. Additionally, advanced IVR systems can be used not only for routing but also for resolving standard inquiries without agent intervention, effectively decreasing call volumes.</p>
+<p>Today, integration extends to include AI. Generative AI-fueled chatbots are increasingly handling initial customer interactions, gathering necessary information, and solving routine problems. These AI-fueled chatbots can process natural language, understand customer intent, and provide accurate responses based on the data accessed from integrated systems. Their advanced capabilities have led to <strong><a href="https://masterofcode.com/blog/chatbot-statistics" rel="noopener" target="_blank" title="">more than seven out of ten</a></strong> customers (74%) saying that they prefer to speak to AI for simple queries, rather than human agents.</p>
+<h3 class="wp-block-heading">Performance monitoring and analysis</h3>
+<p>Optimizing your contact center means adopting a data-driven approach. To help measure the effectiveness of your contact center, you can track the following key performance indicators (KPIs).</p>
+<ul class="wp-block-list">
+<li><strong>Average handle time (AHT): </strong>Average Handle Time refers to the average duration agents take to handle a customer interaction from start to finish. This includes talk time, hold time, and the time spent on related tasks after the customer interaction ends (after-call work).<br /><br />AHT is calculated using the formula:<br /><br /><em>AHT = Total talk time + total hold time + total after-call work time ÷ total number of calls handled</em><br /><br />AHT is typically measured using telephony and customer support software that automatically logs these times for each agent interaction.<br /><br /></li>
+<li><strong>First-call resolution rate</strong>: First-call resolution rate measures the percentage of customer issues or inquiries resolved during the first interaction, without the need for any follow-up. FCR can be tracked through CRM systems where agents mark whether an issue was resolved in the first interaction, and this can be corroborated with follow-up data.<br /><br />FCR is calculated by dividing the number of calls resolved on the first contact by the total number of calls, then multiplying by 100 to express it as a percentage.<br /><br /><em>FCR = ( total number of calls ÷ number of first contact resolutions ​) x 100%</em><br /><br /></li>
+<li><strong>Response time</strong>: Response time is the average time it takes for a customer to receive a response from an agent upon initiating contact, whether through a call, chat, email, or any other support channel.<br />For calls, it is the time from when a call is received to when an agent answers it. For digital customer inquiries like emails or chat messages, it is the time from the customer’s message to an agent’s first reply.<br /><br /></li>
+<li><strong>Customer satisfaction scores (CSAT):</strong> Customer satisfaction scores measure how satisfied customers are with their interaction with the contact center.<br /><br />CSAT is typically calculated by asking customers to rate their satisfaction on a scale—i.e., 1 to 5, or 1 to 10. The scores from these ratings are then averaged to provide a composite score. Often, only top box responses—i.e., ratings of 5 on a 5-point scale—are considered in calculating a percentage of satisfied customers.<br /><br /></li>
+<li><strong>Agent productivity: </strong>Agent productivity measures the agents’ efficiency in handling customer interactions and is often assessed by the volume of interactions they manage within a given period.<br /><br />This can be measured in terms of the number of calls handled, emails responded to, or chat sessions managed per hour or per shift. Productivity metrics are recorded and analyzed through the same CRM or customer interaction management software that tracks other KPIs, providing a dashboard view of individual and team performance.<br /></li>
+</ul>
+<p>By systematically measuring these KPIs, contact centers can identify performance bottlenecks, training needs, and opportunities for process improvement—all aimed at enhancing the overall customer experience and operational efficiency.</p>
+<h3 class="wp-block-heading">Training and development</h3>
+<p>Effective training ultimately yields a better employee experience. Training and development in a contact center must be an ongoing effort that adapts to emerging needs and technologies. This requires a structured training program that includes initial intensive training sessions for new hires and continuous learning opportunities for existing staff.</p>
+<p>Utilizing a blend of e-learning, instructor-led training, and peer mentoring can accommodate different learning styles and ensure comprehensive knowledge transfer. Moreover, simulation-based training and real-time coaching using analytics from live calls can further enhance training effectiveness, helping agents improve their skills in handling complex scenarios.</p>
+<h3 class="wp-block-heading">Process optimization</h3>
+<p>Continuous process optimization requires you to regularly review existing workflows, identify bottlenecks, and implement improvements. This may involve automating data entry tasks, streamlining information retrieval processes, or redesigning the escalation path for complex issues. Each process change should aim to reduce effort and time from the customer’s and agent’s perspective, measured by reduced interaction times and improved satisfaction scores.</p>
+<h3 class="wp-block-heading">Multichannel support</h3>
+<p>Ensuring effective multichannel support involves integrating various communication platforms while maintaining consistency in service quality across all channels. This requires a unified agent interface that provides comprehensive customer context irrespective of the communication channel.</p>
+<p>Specifically, the unified interface should allow agents to seamlessly access customer information, interaction history, and any previous concerns raised across channels such as phone, email, chat, and social media. This integration helps prevent redundancy and ensures that customers do not have to repeat information, enhancing the customer experience. Additionally, the system should be equipped with functionality to switch between channels effectively, allowing agents to continue conversations on different platforms without loss of context or service quality.</p>
+<h2 class="wp-block-heading">Grease the gears of your contact center with a comprehensive solution</h2>
+<p>Incorporating Webex Contact Center turns your contact center into a streamlined, responsive, and customer-centric operation. Here are just five ways that Webex Contact Center works to optimize customer experiences.</p>
+<p><strong>1. Unified communications:</strong> Webex Contact Center integrates multiple communication channels—such as voice, email, chat, and social media—into a single interface. This integration facilitates quicker transitions between different modes of communication, reducing the average handling time and streamlining customer interactions.</p>
+<p><strong>2. Artificial intelligence: </strong>The platform incorporates AI to provide real-time guidance and automated responses to agents, while also predicting customer needs and preferences. This functionality aims to enhance the efficiency of interactions and increase the probability of resolving queries on the first contact.</p>
+<p><strong>3. Analytics and forecasting: </strong>Webex Contact Center provides both real-time and predictive analytics. These tools are designed to help managers optimize staffing and resources based on expected customer interaction patterns, leading to more cost-effective operations.</p>
+<p><strong>4. CRM Integration:</strong> The platform offers integration with existing CRM systems, ensuring that agents have access to up-to-date and comprehensive customer data. This facilitates consistent and informed customer service across all touchpoints.</p>
+<p><strong>5. Cloud-based infrastructure: </strong>As a cloud-native solution, Webex Contact Center provides scalability and flexibility, adapting to changes in business size and market demands without significant upfront investment in physical infrastructure.</p>
+<p>Webex Contact Center makes optimization and quality assurance easy. <strong><a href="https://www.webex.com/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Learn more</a> </strong>about this solution and how it can help you optimize your contact center for better service and performance.</p>
+<p>The post <a href="https://blog.webex.com/customer-experience/best-practices-for-effective-contact-center-optimization/">Best practices for effective contact center optimization</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 06 Sep 2024 23:28:16 +0000</pubDate>
+<pubDate>Fri, 06 Sep 2024 23:28:16 +0000</pubDate>
+</item>
+<item>
+<title>10 contact center automation trends to look out for in 2025</title>
+<link>https://blog.webex.com/customer-experience/10-contact-center-automation-trends-to-look-out-for-in-2025/</link>
+<guid>https://blog.webex.com/customer-experience/10-contact-center-automation-trends-to-look-out-for-in-2025/</guid>
+<content:encoded><![CDATA[
+
+<p>In today&#8217;s dynamic business landscape, it&#8217;s essential to provide exceptional customer experiences (CX) efficiently while alleviating the burden on agents. This requires the use of automation and related technologies to expedite and manage manual processes, ensuring they keep up with fast-changing customer expectations.</p>
+<p>Fortunately, business process automation offers a solution, particularly tools such as artificial intelligence (AI). These innovative tools enable companies to streamline contact center operations, making tasks more manageable and, at the same time:</p>
+<ul class="wp-block-list">
+<li>Uplift the employee experience</li>
+<li>Improve customer satisfaction</li>
+<li>Increase operational efficiency</li>
+<li>Maximize the return on investment (ROI)</li>
+</ul>
+<p>It&#8217;s crucial to strategically implement automation in business processes. To begin, we&#8217;ll discuss emerging contact center trends that are shaping the future of automation and offer insights on how your business can make the most of these developments.</p>
+<h2 class="wp-block-heading">10 trends shaping contact center automation</h2>
+<p>Staying updated on automation can help keep your business on the cutting edge. Let’s review the 10 most powerful contact center automation trends:</p>
+<h3 class="wp-block-heading">1: Conversational AI for self-service</h3>
+<p>According to Deloitte’s <a href="https://www.deloittedigital.com/us/en/insights/research/contact-center-survey.html" rel="noopener" target="_blank" title=""><strong>2023 survey</strong></a>, contact centers rank new self-service capabilities as their top investment priority. In fact, 90% of leaders will invest in such solutions over the next two years, citing a desire to increase virtual agent interactions.</p>
+<p>In short, a virtual agent is an example of robotic process automation. It uses conversational AI and natural language processing to handle routine tasks and customer issues without human agent intervention. This can streamline first-contact resolution and improve customer satisfaction, providing fast and easy support.</p>
+<p>Generally, these self-service tools come in two varieties:</p>
+<ol class="wp-block-list">
+<li><strong>Chatbots:</strong> Organizations can embed live chat features on websites where consumers ask the virtual agent questions. It can direct the user to relevant resources and departments, routing them based on a company and customer data knowledge base.</li>
+<li><strong>Interactive voice response (IVR):</strong> Voice-based virtual agents can augment IVR systems with intelligent automation. Much like a chatbot, conversational IVRs process information in real time, allowing them to respond with relevant answers.</li>
+</ol>
+<p>These systems provide a tangible boost to operational efficiency. <a href="https://www.mckinsey.com/capabilities/operations/our-insights/operations-blog/why-ivr-still-matters-in-an-ai-world" rel="noopener" target="_blank" title=""><strong>McKinsey estimates</strong></a> that IVR systems can improve customer satisfaction (CSAT) scores by five times and reduce the number of live-agent calls by over 10%.</p>
+<p>By streamlining routine tasks, automation technology empowers contact center agents to focus on other responsibilities, knowing that the system can automatically elevate the user to a human agent for more complex inquiries while retaining a complete history of the previous interaction.</p>
+<h3 class="wp-block-heading">2. Sentiment analysis and speech analytics</h3>
+<p>The rapid growth of speech analytics is another automation trend leaning heavily on artificial intelligence. Combined with sentiment analysis, this emerging technology is helping contact center agents gain insight into consumer sentiment.</p>
+<p>How does it work? Machine learning algorithms use natural language understanding (NLU) to process phonetic signals. In other words, it analyzes the customer’s speech pattern and tone during the interaction. Then, it classifies the call as positive, neutral, or negative.</p>
+<p>This solution provides valuable insight into the customer experience. For instance, supervisors can compare scores against automated transcripts to understand why the call was positive or negative. This can help improve agent training and script compliance, not to mention quality assurance.</p>
+<p>Plus, there’s a real business impact. According to McKinsey, speech analytics can drive cost savings of up to 30% and improve CSAT scores by 10%.</p>
+<h3 class="wp-block-heading">3. Customer-centricity</h3>
+<p>The third trend shaping contact center automation is the continued rise of customer-centricity. The idea is simple: Putting customer needs first won’t only improve your brand image, but it can also lead to several <strong><a href="https://www.forbes.com/sites/forbestechcouncil/2023/10/18/benefits-and-pitfalls-of-the-customer-first-business-approach/?sh=62e53e464437" rel="noopener" target="_blank" title="">competitive advantages</a>.</strong> For example, customer-centric organizations can expect:</p>
+<ul class="wp-block-list">
+<li><strong>Stronger retention</strong>: A positive customer experience may lead to more frequent purchases, maximizing lifetime value.</li>
+<li><strong>Reduced churn:</strong> Meeting customer expectations will delight consumers, giving them fewer reasons to abandon their brands for a competitor.</li>
+<li><strong>Better decision-making:</strong> Focusing on CX allows you to analyze customer behavior. These findings, in turn, provide valuable insight into preferences, trends, and motivations.</li>
+</ul>
+<p>As this new service model grows popular, organizations can leverage automation technology to make it more targeted and effective. After all, no two consumers are the same—and that’s why customer interaction analytics are so important.</p>
+<p>AI-powered contact center solutions can automatically capture, transcribe, and analyze interactions. This makes it easier to understand the nuance behind granular customer needs and whether agents are meeting them effectively. Topic analysis, for example, provides insight into why consumers are reaching out. Moreover, it allows you to view trending topics and identify areas of interest or potential friction.</p>
+<p>By mining interaction data, automation technology makes driving continuous improvement easier. This means you can pinpoint patterns in associate activity and customer feedback—and, in turn, develop ways to improve agent productivity, customer satisfaction, and operational efficiency, paving the way for a brighter future.</p>
+<h3 class="wp-block-heading">4. Generative AI for agent assistance</h3>
+<p>Perhaps the most impactful automation trend is that of generative AI. Powered by large language models (LLMs), this type of artificial intelligence is uniquely adept at producing various forms of content, including original text, audio, and imagery.</p>
+<p><a href="https://www.gartner.com/en/newsroom/press-releases/2023-08-30-gartner-reveals-three-technologies-that-will-transform-customer-service-and-support-by-2028" rel="noopener" target="_blank" title=""><strong>Gartner predicts</strong></a> that by 2025, 80% of customer service and customer support organizations will use it to improve agent productivity and CX. Why? Because the use cases are practically endless, and the technology is readily available.</p>
+<p>Webex Contact Center, for instance, offers a suite of <a href="https://www.webex.ai/ai-assistant-for-suite-devices-cx.html?tab=tab-cx" rel="noopener" target="_blank" title=""><strong>generative capabilities</strong></a>:</p>
+<ul class="wp-block-list">
+<li><strong>Chat summarization:</strong> People hate repeating themselves, which often happens when chatbots escalate customer issues to a human agent. Generative AI can eliminate this pain point by automatically creating a recap of every chat, call, and conversation—even ones that drop. This ensures full contextual awareness and seamless transition between channels.</li>
+<li><strong>Suggested responses:</strong> As a virtual assistant, AI tools can automatically recommend replies based on customer data, such as their previous interactions and behaviors. This speeds up the response process, supporting operational efficiency while giving customers the answers they need faster than ever.</li>
+<li><strong>Automated agent answers:</strong> Generative AI can expedite the interaction by tapping into the company’s knowledge base for quick, accurate answers. For example, it can make suggestions for articles that address customer inquiries, highlighting the most relevant part of the content for easy reference.</li>
+</ul>
+<h3 class="wp-block-heading">5. AI-powered burnout detection</h3>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/09/ai-powered-burnout-detection.jpg" /></figure>
+<p></p>
+<p>Contact center agents work hard to deliver a positive customer experience. Going above and beyond can have negative impacts on the workforce. In fact, according to a <a href="https://ecommons.cornell.edu/server/api/core/bitstreams/e4ae98ca-9034-4f68-8be9-86885905f403/content" rel="noopener" target="_blank" title=""><strong>2020 study</strong></a>, agent turnover is double that of any other industry. Burnout causes 50% of the churn, which costs businesses nearly $5 million annually on average.</p>
+<p>That’s a big problem, but fortunately, <a href="https://www.webex.com/products/workforce-optimization.html" rel="noopener" target="_blank" title=""><strong>technology provides several solutions</strong></a>. For instance, Webex Contact Center offers AI-powered agent burnout detection. It’s an automation tool that uses AI to identify agents at risk of burning out, allowing supervisors to step in and lend a hand.</p>
+<p>In addition to wellness, Webex can help managers coach agents to success, such as after a difficult call or part of the regular training process. AI-driven coaching highlights generate a centralized dashboard where you can quickly view the highest- and lowest-rated interactions.</p>
+<p>This tool summarizes the conversation and recommends ways to coach employees based on its findings. This way, whether identifying best practices or inefficiencies, you can always drive continuous improvement.</p>
+<h3 class="wp-block-heading">6. The proliferation of omnichannel customer support</h3>
+<p>Today’s businesses are committed to meeting customer needs, wherever they may be. The only problem? Consumers are using more channels than ever before, especially when it comes to brand engagement. This has given rise to omnichannel contact center solutions, which use technology to manage all communication channels under one comprehensive roof.</p>
+<p>Unified CX platforms provide agents with a single interface to access voice, SMS, live chat, email, and social media. This means employees can jump between tasks without skipping a beat. Moreover, thanks to their open architecture, organizations can remove the barriers between disparate platforms, enabling cross-channel data collection.</p>
+<p>Why does this matter? It allows you to build more accurate profiles based on the latest customer data. This information drives personalization, which makes for more effective customer journey orchestration.</p>
+<h3 class="wp-block-heading">7. Predictive analytics</h3>
+<p>The contact center analytics market will reach <a href="https://www.alliedmarketresearch.com/contact-center-analytics-market-A16642" rel="noopener" target="_blank" title=""><strong>$8.1 billion</strong></a> by 2031. At that point, many organizations will leverage predictive analytics to their advantage. How? Here are some of the most notable use cases:</p>
+<ul class="wp-block-list">
+<li><strong>Workforce management:</strong> Predictive analytics use historical data to forecast call volumes, allowing you to optimize staffing decisions. They also factor historical trends and employee availability into the equation, ensuring you’re never under or over-staffed relative to customer demand. This can help reduce administrative effort while improving the employee experience.</li>
+<li><strong>Customer behavior:</strong> Imagine knowing whether a specific customer is likely to churn. That type of knowledge would allow you to make informed decisions on retaining them, such as by sending them a personalized offer. Likewise, you can leverage AI’s predictive capabilities to estimate their Net Promote Score following an interaction.</li>
+<li><strong>Auto dialing:</strong> Predictive dialers are a form of workflow automation that can help outbound contact centers improve their outreach. They place calls even before agents become available, thereby engaging as many leads as possible. In the case of an unanswered call, they move on to the next lead. But, if someone picks up, they route them to the next available agent. This enhances customer engagement while maximizing agent productivity.</li>
+</ul>
+<h3 class="wp-block-heading">8. Advanced digital security</h3>
+<p>Of course, of all contact center automation trends, none are quite as important as the need for advanced security. Cybercriminals and bad actors are targeting organizations at an accelerated rate, eager to exploit customer data. With their methods getting smarter and more sophisticated, introducing automated protection has never been so important.</p>
+<p>When it comes to financial services, such as banking or credit unions, it&#8217;s crucial for the customer support team to verify the caller&#8217;s identity before sharing any personal or financial information. The conventional method involves asking the customer a series of questions to confirm their identity. However, this approach has two main drawbacks:</p>
+<ul class="wp-block-list">
+<li>It’s ineffective if a bad actor can access the customer’s personal information and easily bypass the authentication questions.</li>
+<li>It can be a tedious and burdensome process for legitimate users who want quick access to customer support.</li>
+</ul>
+<p>Modern contact center solutions offer alternative ways to verify identity without compromising security or the customer experience. With an open architecture platform, organizations can integrate AI-powered biometric authentication tools.</p>
+<p>Rather than questioning the customer, they use vocal analytics and/or facial recognition to verify they are who they claim to be. This process is much faster but also more adept at identifying potential fraud.</p>
+<h3 class="wp-block-heading">9. Intelligent routing and call queuing</h3>
+<p>Routing is one of the most basic contact center functions but also one of the most essential. Manually deciding how to route inbound cases can be slow, error-prone, and inefficient. That’s why modern contact center platforms use workflow automation to streamline and simplify the process.</p>
+<p>Predictive routing strategies allocate cases to the most appropriate agent based on predefined criteria. In the case of skills-based routing, you can grade agents according to their talents and/or areas of expertise. IVR systems will automatically route inbound customers to the employee who’s best equipped to handle their type of inquiry.</p>
+<p>Similarly, AI-powered tools can also simplify call queue management. Using predictive analytics, they can estimate wait times for customers in the queue. They also announce the caller’s place in line, letting them know they’re steadily advancing to the front. Plus, customers can schedule a callback if they don’t want to wait, which the IVR can place automatically.</p>
+<h3 class="wp-block-heading">10. Continued rise of cloud infrastructure</h3>
+<p>It’s no secret that cloud-based solutions are becoming more popular. Not only are they inherently more scalable than traditional systems, but they easily integrate with other services. This enables more advanced automation technology, which, of course, enhances operational efficiency.</p>
+<p>Better yet, cloud platforms don’t require an enormous upfront investment. Delivered as a service, they help you transform your customer support team into a strategic asset—not a cost center. In fact, according to <a href="https://www.webex.com/gp/forrester-tei-contact-center.html" rel="noopener" target="_blank" title=""><strong>Forrester Consulting</strong></a>, Cisco’s cloud-based Webex Contact Center can generate an ROI of over 300%.</p>
+<h3 class="wp-block-heading">Find your ideal automation solution</h3>
+<p>Intelligent automation is a smart move if customer experience is critical to your business. That’s why we’ve built Webex Contact Center with a suite of innovative, automated, and AI-powered solutions.</p>
+<p>From generative AI for agent assistance to conversational AI for self-service, our cloud-based platform is fully stocked with all the tools you need to turn CX into a competitive advantage. With workforce optimization, intelligent routing, and omnichannel support, Webex Contact Center can take your operations to the next level.</p>
+<p>Ready to get started? <a href="https://www.webex.com/customer-experience/contact-center.html" rel="noopener" target="_blank" title=""><strong>Learn more</strong></a> about Webex Contact Center today.</p>
+<p>The post <a href="https://blog.webex.com/customer-experience/10-contact-center-automation-trends-to-look-out-for-in-2025/">10 contact center automation trends to look out for in 2025</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 06 Sep 2024 23:27:07 +0000</pubDate>
+<pubDate>Fri, 06 Sep 2024 23:27:07 +0000</pubDate>
+</item>
+<item>
+<title>Driving sustainable hybrid work with Cisco devices</title>
+<link>https://blog.webex.com/workspaces/driving-sustainable-hybrid-work-with-cisco-devices/</link>
+<guid>https://blog.webex.com/workspaces/driving-sustainable-hybrid-work-with-cisco-devices/</guid>
+<content:encoded><![CDATA[
+
+<p>Sustainability and hybrid work goes <strong><a href="https://blogs.cisco.com/our-corporate-purpose/sustainability-101-how-hybrid-work-can-advance-sustainability-in-the-workforce" rel="noreferrer noopener" target="_blank">together</a></strong>. Equipping your offices with beautifully designed Cisco devices allows you to bridge the distance between teams, leverage powerful data and insights, and infuse your workspaces with intelligence. It can also help you get closer to your sustainability goals. From circular design to active usage and optimization, all the way down to end-of-life management. Because we don’t just care about our own net-zero journey. We care about yours, too.</p>
+<div>
+
+</div>
+<h2 class="wp-block-heading">Circular design</h2>
+<p>As a society, we are using more natural resources than our planet can regenerate. It’s our responsibility to move from a linear consumption-based model to a circular one that looks beyond the current take-make-waste model and takes better care of our limited natural resources.</p>
+<p>Cisco has committed to having 100 percent of new products and packaging to incorporate <strong><a href="https://www.cisco.com/c/m/en_us/about/csr/esg-hub/environment/product-sustainability.html" rel="noreferrer noopener" target="_blank">circular design principles</a> </strong>by 2025.  These principles encompass material use, standardization and modularization, packaging and accessories, smart energy consumption, and disassembly, reuse and repair. But what goes on behind the scenes, and how are we delivering on this when designing devices? The Cisco Devices business unit recently hit a big milestone – shipping 52.6% total post-consumer recycled plastic (PCR) in Q3, Fiscal Year 2024.</p>
+<p>To exemplify how we translate these circular design principles to tangible sustainability outcomes, let’s have a look at the new 9800 Desk Phone series, which we launched at Enterprise Connect this year.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-425166" height="600" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/Cisco-devices-circular-design.jpg" width="980" /></figure>
+<ul class="wp-block-list">
+<li>More than 74% of the plastic in the product is PCR plastic.</li>
+<li>100% recyclable packaging.</li>
+<li>Less than 2% paint</li>
+<li>Over 93% of the main mechanical parts by weight could be disassembled by a common hand tool for ease of recycling, including plastic, metal, rubber, etc.&nbsp;</li>
+<li>EnergyStar certified</li>
+<li>Low-power modes for energy efficiency</li>
+</ul>
+<p>Moving into the meeting room and comparing our Cisco Room Bar to its predecessor, the Room Kit Mini, we reduced the packaging volume by 17 liters, allowing for 18 more units to be stacked on a pallet, increasing shipping efficiencies. We have minimized the use of single-use plastic and foam and created a 100% recyclable packaging that is expected to eliminate up to 165,000 pounds of packaging material per year. In addition to all of this, the Cisco Room Bar has been designed to be easy to repair, refurbish and recycle, extending and optimizing its overall lifecycle – just like the rest of our devices.<br /></p>
+
+<div class="bc-video-wrapper"> 
+<div>
+
+
+</div>
+</div>
+<p></p>
+<h2 class="wp-block-heading">Active usage</h2>
+<p>Cisco is working to reduce its Scope 3 emissions, and as a result, our customers’ emissions by engineering more energy-efficient products. However, simply making energy efficient products is not enough – we must create solutions that help optimize energy usage. Cue Office Hours – a feature within Control Hub that allows you to turn off always-on features such as digital signage and automatic wakeups for a set number of hours. The device then goes into standby mode, which both helps you to save energy and extend the lifetime of your screens. A lot of our devices can go into a “deep sleep” mode, called Networked Standby. For example, when the Cisco Board Pro goes into a networked standby mode, we reduce the energy consumption&nbsp;by between 85% and 89%, depending on the model. * This radically reduces your energy bills and your emissions. Want to dig deeper into the different devices&#8217; energy consumption in different states? Check out&nbsp;our Cisco devices&nbsp;<a href="https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/technical-papers/cisco-collaboration-devices-power-consumption-management.pdf" rel="noreferrer noopener" target="_blank"><strong>power consumption management paper.</strong></a> </p>
+<h2 class="wp-block-heading">Optimization and reporting</h2>
+<p>You cannot improve what you cannot measure. Leveraging the power of our platform, you can find an overview of your devices’ energy usage and associated carbon emissions in the sustainability tab in Control Hub. The carbon emission estimates from the devices’ usage are based on standardized formulas from agencies like the U.S Environmental Protection Agency, however admins can also input their own power-to-CO2 emission factors. Additionally, you can <strong><a href="https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/technical-papers/cisco-collaboration-devices-power-consumption-management.pdf" rel="noreferrer noopener" target="_blank">pull reports</a> </strong> on the devices’ power consumption in different modes and use that information to create custom calculations – making sustainability reporting that much easier.&nbsp;</p>
+<h2 class="wp-block-heading">End-of-life management</h2>
+<p>Cisco has committed to having 100% product returns. This is why we have The Cisco Takeback and Reuse Program. This program lets Cisco equipment owners return hardware that has reached end-of-use, at no cost. As always with Cisco, security is a top priority, so any returned equipment is stored in a secure location and data is cleared from returned hard drives to protect data security.</p>
+<p>By investing in Cisco devices, you are not only investing in amazing hybrid employee experiences, but also in quality, longevity and sustainability. Learn more about our sustainability efforts <a href="https://www.cisco.com/site/us/en/about/purpose/environmental-sustainability/index.html" rel="noreferrer noopener" target="_blank"><strong>here.</strong></a></p>
+<p>*Based on average power consumption on Cisco Board Pro’s 55” and 75” in Networked Standby compared to Display Off.</p>
+<p>The post <a href="https://blog.webex.com/workspaces/driving-sustainable-hybrid-work-with-cisco-devices/">Driving sustainable hybrid work with Cisco devices</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Aug 2024 15:33:03 +0000</pubDate>
+<pubDate>Fri, 23 Aug 2024 15:33:03 +0000</pubDate>
+</item>
+<item>
+<title>Announcing the availability of industry-first Webex AI Codec, ...</title>
+<link>https://blog.webex.com/collaboration/announcing-the-availability-of-industry-first-webex-ai-codec-transforming-your-audio-experiences/</link>
+<guid>https://blog.webex.com/collaboration/announcing-the-availability-of-industry-first-webex-ai-codec-transforming-your-audio-experiences/</guid>
+<content:encoded><![CDATA[
+
+<p>We announced our <a href="https://webexblogstg.wpenginepowered.com/hybrid-work/next-level-audio-with-webex-ai-codec/" rel="noreferrer noopener" target="_blank"><strong>industry-first Webex AI Codec last year</strong></a> and I am very excited to share that it is now generally available (GA), in the Webex app, enabling you to intelligently transform your audio experiences during calls and meetings.</p>
+<p>Here at <a href="https://www.webex.com/" rel="noreferrer noopener" target="_blank"><strong>Webex</strong></a>, we continue to focus on creating exceptional experiences between employees and customers. Today, AI plays an important role in the way we collaborate and interact with each other, and our pervasive AI across the Webex Platform works silently in the background to improve communications, productivity and remove barriers whether collaborating internally or externally.</p>
+<p>Even though the AI conversation feels new, we have been implementing AI into the entire Webex portfolio for the last decade.&nbsp;Webex has been at the forefront with <strong> <a href="https://www.webex.ai/" rel="noreferrer noopener" target="_blank">AI innovations</a></strong>  and is known for delivering industry-leading video and audio quality, starting with our <a href="https://youtu.be/yZbw188QcN8?si=NA0MFJxgeSS8bnTe" rel="noreferrer noopener" target="_blank"><strong>award-winning background noise cancelation</strong></a> that enables you to work anywhere, without having to worry about crowded or loud environments. Since then, our commitment has continued to deliver other incredible innovations: Optimize for my Voice and for all Voices, enhancing the voice closest to the microphone, along with Audio Watermarking, <a href="https://www.webex.com/content/dam/www/us/en/documents/pdf/hd-voice-at-a-glance_CM-6232_v2.pdf" rel="noreferrer noopener" target="_blank"><strong>HD Voice</strong></a>, and more.</p>
+<p></p>
+<div>
+
+</div>
+<p></p>
+<p>As employees continue to embrace the hybrid workplace, often they work from mobile locations or on the go, which can result in poor audio quality, especially in challenging network conditions. When you’re on a call with someone, who is either driving or in an area with poor network conditions, we hear choppy audio and speech that is unintelligible. Current audio innovations and mitigation techniques, such as packet loss concealment, do not sufficiently address high packet loss scenarios.</p>
+<h2 class="wp-block-heading">Industry first Webex AI Codec: Experience next-level audio clarity</h2>
+<p>Now, Webex AI Codec addresses these scenarios with a single, end-to-end solution for speech enhancement and highly resilient communications, ensuring crystal clear audio anywhere, on any device, under any conditions. Webex AI Codec intelligently adjusts the bitrates and redundancies, when encoding audio packets – becoming an industry first innovation and providing a real differentiating experience for our users.</p>
+<p></p>
+<div>
+
+</div>
+<p></p>
+<p>When experiencing poor network quality with over 30% packet loss, whether collaborating using the Webex App on your desktop or mobile, Webex AI Codec will be triggered automatically, ensuring that that you can hear and be heard clearly.</p>
+<p>Audio continues to be one of the most important aspects of collaboration and contributes significantly to providing the best experience for employees and customers. With Webex AI Codec, we can deliver remarkable audio quality, even with poor network conditions, while using a fraction of the bandwidth. If you are ready to supercharge your audio experience with AI-powered innovations such as Webex AI Codec and more, I encourage you to join our <strong><a href="https://cisco.webex.com/weblink/register/r5bd9e07b5dc1fa9d85569131307cd7e6" rel="noreferrer noopener" target="_blank">upcoming webinar</a></strong> to learn more or  <a href="https://use.webex.com/contact-sales?lang=en" rel="noreferrer noopener" target="_blank"><strong>reach out to our Sales team</strong></a>  to discuss your specific needs.</p>
+<h3 class="wp-block-heading">Learn more:</h3>
+<ul class="wp-block-list">
+<li><a href="https://www.webex.ai/" rel="noopener" target="_blank" title=""><strong>Cisco AI Assistant for Webex</strong></a></li>
+<li><a href="https://www.webex.com/gp/webex-ai-codec.html" rel="noopener" target="_blank" title=""><strong>Webex AI Codec Whitepaper</strong></a></li>
+<li><a href="https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-responsible-artificial-intelligence-framework.pdf" rel="noopener" target="_blank" title=""><strong>Responsible AI</strong></a></li>
+</ul>
+<p>The post <a href="https://blog.webex.com/collaboration/announcing-the-availability-of-industry-first-webex-ai-codec-transforming-your-audio-experiences/">Announcing the availability of industry-first Webex AI Codec, ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Aug 2024 15:59:10 +0000</pubDate>
+<pubDate>Tue, 20 Aug 2024 15:59:10 +0000</pubDate>
+</item>
+<item>
+<title>Six Reasons AI-powered Webex Contact Center helps deliver ...</title>
+<link>https://blog.webex.com/customer-experience/six-reasons-ai-powered-webex-contact-center-deliver-exceptional-customer-experiences/</link>
+<guid>https://blog.webex.com/customer-experience/six-reasons-ai-powered-webex-contact-center-deliver-exceptional-customer-experiences/</guid>
+<content:encoded><![CDATA[
+
+<p>In today’s fast paced digital environment, customer expectations are at an all-time high. Customers demand seamless and consistent journeys across all channels, advanced personalization, fast issue resolution, and humanlike support for self-service experiences. According to <a href="https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf" rel="noopener" target="_blank" title="">PwC study</a> (Experience is everything: Here’s how to get it right), one in three consumers say they will walk away from a brand they love after just one bad experience. This figure is even higher in Latin America. To respond to evolving customer needs, brands need to invest in the state-of-the-art customer experiences, making customer interactions seamless and helpful, while delivering consistent and contextual experiences across all channels.</p>
+<div>
+<video class="ec-video" controls="controls" poster="http://blog.webex.com/feed/">
+<source src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/WebexContactCenterPoweredbyAI.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+</div>
+<p></p>
+<p>Webex is powering customer experiences for many of the <a href="https://www.webex.com/customers.html" rel="noopener" target="_blank" title="">world’s leading brands</a><strong>.</strong> We realize the bar for customer experience is getting higher, so we are bringing our best innovations forward to help customers navigate this new age of CX and AI. We have infused our contact center solutions with the same level of quality, innovation, security, and reliability you’ve come to expect from Webex. Here are 6 top reasons why you should consider our AI-powered Webex Contact Center.</p>
+<h2 class="wp-block-heading">1. Industry experience and expertise</h2>
+<p class="has-black-color has-text-color has-link-color wp-elements-5ddf04ec0a8a451c32f5eb1ebef4ba67">With two decades of experience in the contact center industry and innovation at its core, Webex is a true market leader, and the best-in-class enterprise-grade contact center solution you’ll need. Focus on transforming your customer experience with confidence knowing that you have a proven and trusted long-term partner every step of the way. Check out the latest <a href="https://webexblogstg.wpenginepowered.com/customer-experience/cisco-named-leader-contact-center-idc-marketspace/" rel="noreferrer noopener" target="_blank">IDC report</a> and other recent standout achievements.&nbsp;</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="Industry experience and expertise" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/voted-by-an-industry-version-2.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">2. Purpose-built AI innovations for every journey</h2>
+<p>Webex Contact Center makes it easy to leverage AI and automation in order to improve customer experiences and increase operational efficiencies. Whether that means delivering AI-powered self-service or empowering your agents, supervisors, IT staff with the tools they need to focus on delivering the best customer experience, every time, AI is purpose-built within the solution. One example includes our native, Cisco AI Assistant which helps guide and streamline interactions using next-best action guidance, and conversation and wrap up summaries. Supervisors can use AI to coach and train staff with powerful insights, and IT staff can save time by streamlining their workflows with the AI assistant.&nbsp;</p>
+<p>Additionally, with our expertise in <a href="https://www.webex.ai/" rel="noreferrer noopener" target="_blank">Artificial Intelligence</a>, Webex Contact Center delivers unparalleled language, audio, and video Intelligence, agents can immerse themselves in every customer interaction by removing all noises for a crystal-clear conversation. Explore many of our<a href="https://webexblogstg.wpenginepowered.com/customer-experience/innovation-velocity-everything-thats-new-webex-contact-center-2024/" rel="noreferrer noopener" target="_blank"> latest innovations here</a>.&nbsp;</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/webex-contact-center-version-2.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading"><strong>3.</strong> Cisco cross-portfolio and Webex single platform advantage</h2>
+<p>The Webex Contact Center is built on the enterprise-grade Webex platform with AI-powered features built-in. It is innovative, intuitive, secure, and simple to use and managed via Control Hub, a single pane of glass to manage everything. This kind of centralized administration makes it easy to deploy, manage, and capture insights across the entire platform.</p>
+<p>Our extensible platform helps unify all your collaboration and customer experiences so you can minimize costs and maximize efficiencies. It is trusted by millions, backed by Cisco’s networking infrastructure and end-to-end security is built-in, not bolted on.</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="Accelerate Innovation with the Webex Platform" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/accelerate-iinovation-webex-paltform.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">4. Range of customer experience solutions for everyone</h2>
+<p>Great customer experience is everyone’s responsibility. We realize that companies have different needs and might be in different phases of transformation. Therefore, Webex offers a portfolio of customer experience solutions which all leverage the best of our UCaaS, CCaaS, and CPaaS capabilities. Using these tightly integrated, neighboring capabilities, Webex Contact Center can leverage the data needed to understand customer preferences and behaviors, enabling personalized interactions, proactive communications, and collaboration inside and outside the contact center. We designed these options to meet the needs of contact center agents, employees, and teams so everyone can play a role to provide an incredible customer experience. Solutions include <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a>, <a href="https://help.webex.com/en-us/landing/ld-n2x4hk6-WebexContactCenterEnterprise/Agent" rel="noreferrer noopener" target="_blank">Webex Contact Center<strong> </strong>Enterprise</a>, <a href="https://www.webex.com/us/en/solutions/industries/government.html#:~:text=Webex%20Contact%20Center%20Enterprise%20for%20Government%20can%20support%20up%20to,Transform%20your%20organization." rel="noreferrer noopener" target="_blank">Webex Contact Center for Government</a>, <a href="https://www.webex.com/content/dam/www/us/en/documents/pdf/webex-cxb-and-essentials_cm-6259.pdf" rel="noreferrer noopener" target="_blank">Webex Customer Experience Essentials and Basic</a>, and <a href="https://cpaas.webex.com/products/webex-connect" rel="noreferrer noopener" target="_blank">Webex Connect</a>.&nbsp;</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="Range of customer experience solutions for everyone" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/picture-5.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">5. Move to cloud with flexible cloud migration options</h2>
+<p>Modernize and future-proof your business by leveraging the speed and agility of the cloud. With Webex, you are always in the driver seat by choosing the right deployment option (public, private, or hybrid) and the pace that best meets your business needs. We help you realize faster time to value by fully understanding your unique requirements, minimize business disruptions, and offer flexible plans/billing options. Deliver real business outcomes by streamlining your operations and maximizing productivity with a customizable cloud contact center.&nbsp;</p>
+<p><a href="https://www.webex.com/content/dam/www/us/en/documents/pdf/contact-center-move-to-cloud-infographic-cm-6675.pdf" rel="noopener" target="_blank" title="">Learn more</a></p>
+<figure class="wp-block-image size-full"><img alt="Move to cloud with flexible cloud migration options" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/picture-6.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">6. Powerful industry integrations and partnerships</h2>
+<p>Webex integrates and embeds effortlessly into business applications from leading industry partners such as <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000008YM3bEAG" rel="noreferrer noopener" target="_blank">Salesforce</a>, <a href="https://www.zendesk.com/marketplace/apps/support/202570/webex-contact-center/" rel="noreferrer noopener" target="_blank">Zendesk</a>, <a href="https://apphub.webex.com/applications/webex-contact-center-for-servicenow" rel="noreferrer noopener" target="_blank">ServiceNow</a>, <a href="https://appsource.microsoft.com/en-us/product/web-apps/cisco.webex-contact-center-microsoft-team?exp=ubp8" rel="noreferrer noopener" target="_blank">Microsoft Teams</a>, <a href="https://www.calabrio.com/cisco-contact-center/" rel="noreferrer noopener" target="_blank">Calabrio</a> and many others, helping you remain in your flow and get more done. Connect people, knowledge, and ideas for great customer experiences to happen everywhere with ease. Explore many of our integrations by visiting <a href="http://apphub.webex.com/" rel="noreferrer noopener" target="_blank">Webex AppHub</a>.&nbsp;</p>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2021/05/Webex-Saleforce-integration-blog-image.jpg" /></figure>
+<p></p>
+<h2 class="wp-block-heading">Deliver unforgettable customer experiences with Webex Contact Center</h2>
+<p></p>
+<figure class="wp-block-image size-full"><img alt="Deliver unforgettable customer experiences with Webex Contact Center" class="wp-image-423043" src="https://webexblogstg.wpenginepowered.com/wp-content/uploads/2024/08/picture-8.jpg" /></figure>
+<p></p>
+<p>Our commitment is to help you deliver the best customer experience. Switch from &#8216;first call resolution&#8217; to &#8216;no-call-resolution&#8217; with Webex&#8217;s complete set of customer experience tools enabling pro-active, digital first customer engagement even before customers realize there’s a potential issue, whenever possible. Our latest  <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a>  solution is self-learning and delivers an integrated experience across digital and voice channels. It’s a single solution that supports all users as part of the customer experience journey, from the customer to the agent, supervisor, back-office, and IT.</p>
+<p>If you are ready to empower your modern workforce and business with a flexible and comprehensive customer experience solution; one that is more secure, reliable, innovative, with a global reach, I encourage you to reach our <a href="https://use.webex.com/contact-sales?lang=en&amp;_gl=1*18n7jo6*_gcl_aw*R0NMLjE3MTg5OTk2NTguQ2p3S0NBandwcy16QmhBaUVpd0FMd3NWWVoxQm1hYUhBRTJjMW04azJUd3ZqNmJmLTAyeUtKYzBWOEllcWdCay1MbVZZQkRxNHRNdktSb0NRUWtRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MTg5OTk2NTguQ2p3S0NBandwcy16QmhBaUVpd0FMd3NWWVoxQm1hYUhBRTJjMW04azJUd3ZqNmJmLTAyeUtKYzBWOEllcWdCay1MbVZZQkRxNHRNdktSb0NRUWtRQXZEX0J3RQ..*_gcl_au*MTMzNjgxOTExNS4xNzIxNjgyMzM5*_ga*MTU3MjUzNzM4NC4xNjgyMDA1MDk3*_ga_KP8QEFW4ML*MTcyMjU0Mzk2MC4yNjEuMS4xNzIyNTQzOTY2LjU0LjAuMA.." rel="noreferrer noopener" target="_blank">Sales team<strong> </strong></a> to discuss your specific needs and request live demos of  <a href="https://www.webex.com/whats-new" rel="noreferrer noopener" target="_blank">our recent innovations</a>.&nbsp;</p>
+<p><strong>Resources:</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.webex.com/whats-new" rel="noopener" target="_blank" title="">What’s New Page</a></li>
+<li><a href="https://www.webex.com/gp/forrester-tei-contact-center.html" rel="noopener" target="_blank" title="">The Total Economic Impact<sup>TM</sup> of Webex Contact Center</a></li>
+<li><a href="http://www.webexone.com" rel="noopener" target="_blank" title="">WebexOne 2024</a></li>
+<li><a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noopener" target="_blank" title="">Webex Contact Center</a></li>
+</ul>
+<p></p>
+<p>The post <a href="https://blog.webex.com/customer-experience/six-reasons-ai-powered-webex-contact-center-deliver-exceptional-customer-experiences/">Six Reasons AI-powered Webex Contact Center helps deliver ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Aug 2024 16:00:17 +0000</pubDate>
+<pubDate>Mon, 19 Aug 2024 16:00:17 +0000</pubDate>
+</item>
 
 </channel>
 </rss>
