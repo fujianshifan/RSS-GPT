@@ -14857,3 +14857,12 @@ Existing_entries: 14
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2024-10-09 18:18:01.616021
+------------------------------------------------------
+Started: 2024-10-09 20:15:32.675158
+Existing_entries: 14
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The cloud resurgence: How AI and Webex solutions are driving a ...](https://blog.webex.com/customer-experience/cloud-resurgence-how-ai-webex-solutions-driving-new-wave-deployments/)
+append_entries: 1
+Finish: 2024-10-09 20:15:34.907002
