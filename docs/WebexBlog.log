@@ -14929,3 +14929,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Top 5 CX transformation takeaways at WebexOne 2024](https://blog.webex.com/customer-experience/top-5-cx-transformation-takeaways-at-webexone-2024/)
 append_entries: 1
 Finish: 2024-10-10 16:17:20.105503
+------------------------------------------------------
+Started: 2024-10-10 18:18:54.286283
+Existing_entries: 16
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Six years running! Cisco is named a Leader in the 2024 Gartner® ...](https://blog.webex.com/collaboration/cisco-named-as-leader-2024-gartner-magic-quadrant-unified-communications-service-ucaas/)
+append_entries: 1
+Finish: 2024-10-10 18:18:56.578324
