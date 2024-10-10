@@ -14938,3 +14938,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Six years running! Cisco is named a Leader in the 2024 Gartner® ...](https://blog.webex.com/collaboration/cisco-named-as-leader-2024-gartner-magic-quadrant-unified-communications-service-ucaas/)
 append_entries: 1
 Finish: 2024-10-10 18:18:56.578324
+------------------------------------------------------
+Started: 2024-10-10 20:15:37.142329
+Existing_entries: 17
+Fetching from http://blog.webex.com/feed/
+append_entries: 0
+Finish: 2024-10-10 20:15:37.643824
