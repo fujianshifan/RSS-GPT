@@ -15856,3 +15856,17 @@ Existing_entries: 19
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2024-10-23 10:14:55.146096
+------------------------------------------------------
+Started: 2024-10-23 12:28:13.945696
+Existing_entries: 19
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Experience Amplified with the Power of Webex and AI](https://blog.webex.com/innovation-ai/experiences-amplified-with-power-of-webex-and-ai/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The AI Revolution in Customer Experience is Now! Are you leading ...](https://blog.webex.com/innovation-ai/ai-revolution-in-customer-experience-leading-or-lagging-behind-competition/)
+Append: [The Next Evolution of Distance Zero: New Devices and Experiences ...](https://blog.webex.com/innovation-ai/next-evolution-new-devices-experiences-with-cisco-and-apple-vision-pro/)
+Append: [Revolutionizing customer experience for tomorrow: New Webex ...](https://blog.webex.com/customer-experience/revolutionizing-customer-experience-webex-ai-powered-innovations/)
+append_entries: 4
+Finish: 2024-10-23 12:28:17.860477
