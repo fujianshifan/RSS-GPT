@@ -15882,3 +15882,12 @@ Existing_entries: 23
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2024-10-23 16:17:45.207166
+------------------------------------------------------
+Started: 2024-10-23 18:18:57.200389
+Existing_entries: 23
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Unveiling powerful Webex Suite innovations at WebexOne 2024](https://blog.webex.com/collaboration/unveiling-powerful-suite-innovations-at-webexone/)
+append_entries: 1
+Finish: 2024-10-23 18:18:59.181864
