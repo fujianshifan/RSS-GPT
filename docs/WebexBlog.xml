@@ -4,6 +4,81 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>Webex Go reimagined – more choice, flexibility, and coverage; ...</title>
+<link>https://blog.webex.com/collaboration/webex-go-reimagined-more-choice-flexibility-and-coverage-zero-cost/</link>
+<guid>https://blog.webex.com/collaboration/webex-go-reimagined-more-choice-flexibility-and-coverage-zero-cost/</guid>
+<content:encoded><![CDATA[
+
+<p>First unveiled at <a href="https://www.prnewswire.com/news-releases/webex-by-cisco-eliminates-the-need-to-carry-multiple-mobile-devices-for-business-and-personal-use-301403341.html" rel="noreferrer noopener" target="_blank">WebexOne 2021</a>, Webex Go is an innovative mobility solution that delivers a seamless, secure, compliant, and private calling experience for the modern workforce. Last week at <a href="https://www.webexone.com/" rel="noreferrer noopener" target="_blank">WebexOne 2024</a>, we introduced new innovations that make Webex Go easier to deploy, more flexible, and more cost-effective for enterprises. The result? A game-changing mobile solution that empowers organizations to support workers of all types with flexible deployment and connectivity options.</p>
+<h2 class="wp-block-heading">Mobile calling for any workstyle</h2>
+<p>Webex Go redefines mobile calling by offering flexible deployment options that fit any workstyle. It can be set up on either the primary or secondary line on most unlocked, eSIM-compatible devices, making it a versatile solution for today’s hybrid workforce. For corporate-issued devices, deploying Webex Go on the primary line is ideal, especially for executives or employees that handle sensitive business data. Meanwhile, for BYOD (Bring Your Own Device) models, employees can install Webex Go as a second line, allowing them to maintain privacy while staying connected professionally.</p>
+<div class="video-popup-block type-p" id="video_popup_block_b78219ad17c5ab3905187b45f6ea190b">
+<div class="we-video-container"><div class="popup-video popup-video-overlay"></div><div class="brightcove_embed embed-video video-wrapper" id="brightcove-embed-6346313948112"></div></div></div>
+<p>Regardless of how it’s deployed, Webex Go maintains a single identity across the Webex ecosystem, managed centrally from <a href="https://www.webex.com/us/en/solutions/cross-platform/control-hub.html" rel="noreferrer noopener" target="_blank">Webex Control Hub</a>. This unified approach not only simplifies management for IT but also delivers a consistent communication experience for users.</p>
+<h2 class="wp-block-heading">Webex Go is now included with Webex Calling</h2>
+<p>Mobile calling isn’t just an option—it’s a necessity. That’s why we’re making Webex Go available at no additional cost with the Webex Calling Professional License. Previously, enabling Webex Go required separate SKUs, but that’s now history – just purchase the Webex Calling Professional License, select a calling plan from a Webex Go provider, and you’re ready to go! This crucial update makes it simpler for customers to integrate Webex Go into their communication strategy, delivering secure, compliant, and private mobile calls with ease. General availability is expected for late 2024 to early 2025.</p>
+<h2 class="wp-block-heading">New, flexible connectivity options</h2>
+<p>We’re making it easier than ever for enterprise to deploy Webex Go by expanding connectivity options to a new selection of Certified Mobile Calling Providers, including <a href="https://www.audiocodes.com/solutions-products/solutions/multi-ucaas-for-service-providers/audiocodes-mobile-connect" rel="noreferrer noopener" target="_blank">AudioCodes</a>, <a href="https://www.calltower.com/cisco-collaboration-solutions/" rel="noreferrer noopener" target="_blank">CallTower</a>, <a href="https://www.pure-ip.com/webex" rel="noreferrer noopener" target="_blank">PureIP</a>, <a href="https://group.ntt/en/" rel="noreferrer noopener" target="_blank">NTT</a>, <a href="https://nuwave.com/webex" rel="noreferrer noopener" target="_blank">Nuwave</a>, and <a href="https://www.tatacommunications.com/solutions/unified-communications/unified-communications-as-a-service/ucaas-cisco-powered-solutions/" rel="noreferrer noopener" target="_blank">Tata Communications</a>. These providers have undergone rigorous testing to ensure reliable and high-quality enterprise mobile calling services. Services from Certified Mobile Calling Providers will roll out in late 2024 and into 2025, and complement our existing Mobile Operator partner <a href="https://www.business.att.com/products/att-cloud-voice-with-webex-go.html" rel="noreferrer noopener" target="_blank">AT&amp;T Business</a>.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-427775" height="955" src="https://blog.webex.com/wp-content/uploads/2024/10/flexible-connectivity-world-class-provider.jpg" width="1672" /></figure>
+<p>With this broad, global lineup of Webex Go providers, we’re offering our customers more choice and flexibility than ever. Now, customers can tailor their Webex Go experience by choosing from one or several Webex Go providers, even mixing and matching services to find the perfect fit. Whether it’s pricing, features, or geographic coverage, customers can select mobile voice and data plans that best meet their unique needs.</p>
+<h2 class="wp-block-heading">Reaching New Territories: Expanded Geographic Availability</h2>
+<p>We’re expanding the reach of Webex Go as well. Currently available in the United States, United Kingdom, and France, we’re set to extend coverage to additional markets across Europe and the Americas. Certified Mobile Calling Providers will soon enable Webex Go in new countries including Austria, Belgium, Denmark, Germany, Ireland, Italy, Luxembourg, Mexico, Poland, Spain, and Sweden in the coming year. Each Webex Go provider offers unique geographic coverage and roaming capabilities, allowing customers to choose the best fit for their needs.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-427785" height="1028" src="https://blog.webex.com/wp-content/uploads/2024/10/reaching-territorie.jpg" width="1672" /></figure>
+<h2 class="wp-block-heading">Simplified Provisioning</h2>
+<p>Provisioning Webex Go is now more intuitive than ever. The process aligns with the familiar Add Mobile Number flow in Webex Control Hub, streamlining administration and enabling quick deployment. Here’s how it works:</p>
+<ol class="wp-block-list">
+<li><strong>Purchase</strong> the Webex Calling Professional License</li>
+<li><strong>Subscribe</strong> to a Webex Go mobile plan from our Webex Go Mobile Operator or Certified Mobile Calling Provider partners</li>
+<li><strong>Add Webex Go numbers</strong> to your Webex organization using the familiar Add Mobile Number flow</li>
+<li><strong>Assign Webex Go numbers</strong> to users within Webex Calling</li>
+<li><strong>Activate Webex Go</strong> on user devices via eSIM</li>
+</ol>
+<p>Webex Go is fully provisioned in the <a href="https://www.webex.com/us/en/solutions/cross-platform/control-hub.html" rel="noreferrer noopener" target="_blank">Webex Control Hub</a>, allowing admins to easily manage mobile numbers and assign them to users, ensuring a smooth setup for every team member.</p>
+<h2 class="wp-block-heading">What’s Next for Webex Go?</h2>
+<p>With these latest enhancements, Webex Go is now even more accessible and adaptable, providing a seamless mobile calling experience that meets the demands of a diverse and mobile workforce. And this is just the beginning—stay tuned for more innovations that will further elevate your communication experience.</p>
+<p>Want to learn more about Webex Calling or Webex Go? <a href="https://www.webex.com/us/en/products/webex-calling-learn-more.html" rel="noreferrer noopener" target="_blank">Drop us a line</a></p>
+<p>The post <a href="https://blog.webex.com/collaboration/webex-go-reimagined-more-choice-flexibility-and-coverage-zero-cost/">Webex Go reimagined – more choice, flexibility, and coverage; ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 30 Oct 2024 17:13:04 +0000</pubDate>
+<pubDate>Wed, 30 Oct 2024 17:13:04 +0000</pubDate>
+</item>
+<item>
+<title>Cisco Recognized as a Challenger in the 2024 Gartner® Magic ...</title>
+<link>https://blog.webex.com/collaboration/cisco-recognized-as-challenger-in-2024-gartner-magic-quadrant-for-contact-center-as-service/</link>
+<guid>https://blog.webex.com/collaboration/cisco-recognized-as-challenger-in-2024-gartner-magic-quadrant-for-contact-center-as-service/</guid>
+<content:encoded><![CDATA[
+
+<p>Cisco’s position in both Ability to Execute and Completeness of Vision are reasons why it was recognized as a Challenger in the 2024 Gartner Magic Quadrant for Contact Center as a Service (CCaaS). We believe our comprehensive, scalable, and secure cloud contact center platform is delivering innovation and value to customers around the world.</p>
+<h2 class="wp-block-heading">A Unified Approach to Communication and Collaboration</h2>
+<p>At Webex, we are committed to empowering our customers to deliver incredible experiences for their most important business interactions. Our single platform approach allows us to scale innovation across a comprehensive solution that delights employees and customers alike. We believe that is why we are one of only two vendors recognized in three Magic Quadrants reports for CCaaS, CPaaS, and UCaaS. Our recognition as a Leader for the 6th year in a row in the <a href="https://www.webex.com/us/en/gp/gartner-magic-quadrant-ucaas.html" rel="noreferrer noopener" target="_blank">Magic Quadrant for Unified Communications as a Service (UCaaS)</a> and as a Visionary in the <a href="https://cpaas.webex.com/blog/2024-gartner-magic-quadrant-for-cpaas" rel="noreferrer noopener" target="_blank">2024 Magic Quadrant for Communications Platform as a Service (CPaaS)</a>, which we feel showcases the strength of our integrated Webex portfolio.</p>
+<h2 class="wp-block-heading">Why customers love Webex Contact Center:</h2>
+<ul class="wp-block-list">
+<li><strong>Integrated AI Capabilities:</strong> Webex offers industry-leading AI features such as real-time AI assistance for agents, agent wellness tools to prevent burnout, supervisor dashboards, and audio noise reduction. These capabilities enhance productivity and improve the customer experience.</li>
+</ul>
+<ul class="wp-block-list">
+<li><strong>Single-Vendor Solution:</strong> Webex provides a single-vendor CCaaS, CPaaS, and UCaaS solution, enabling seamless integration across collaboration and customer experience portfolios.</li>
+</ul>
+<ul class="wp-block-list">
+<li><strong>Scalable Global Solutions:</strong> Designed for global contact centers, Webex leverages Cisco&#8217;s renowned expertise in scalable solutions to support businesses of all sizes, ensuring reliable and high-quality service worldwide.</li>
+</ul>
+<ul class="wp-block-list">
+<li><strong>Unrivaled Security:</strong> In a world increasingly dominated by digital channels and reliant on AI, security is paramount. Webex is secure by design, ensuring that all customer data is protected, fostering trust and reliability.</li>
+</ul>
+<h2 class="wp-block-heading">Simplifying the Customer Journey</h2>
+<p>We are committed to making it easier for organizations to adopt and use Webex. Our platform offers extensive customization options, including robust APIs, a developer portal, and a sandbox environment. Additionally, new migration tools and simplified purchasing options ensure a smooth transition to Webex Contact Center with minimal disruption. While not part of this evaluation, Cisco does offer a hybrid cloud solution for organizations not quite ready to commit to a public cloud offering.</p>
+<p>These features, combined with our commitment to continuous innovation, continue to set us apart as a trusted player in the industry.</p>
+<p>For more insights and detailed information, you can download a complimentary copy of the <a href="https://www.webex.com/us/en/gp/gartner-mq-cloud-contact-center.html" rel="noreferrer noopener" target="_blank">Gartner Magic Quadrant report</a>. We are grateful to our customers and partners for their continued support and trust in Webex. Together, we are shaping the future of communication and collaboration.</p>
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<p><em>Gartner, Magic Quadrant for Contact Center as a Service, Drew Kraus, Megan Marek Fernandez, Pri Rathnayake, Pankil Sheth, Jason Bridge, 28 October 2024.</em></p>
+<p><em>GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.</em></p>
+<p><em>This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from Cisco.</em></p>
+<p><em>Gartner does not endorse any vendor, product, or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.</em></p>
+<p>The post <a href="https://blog.webex.com/collaboration/cisco-recognized-as-challenger-in-2024-gartner-magic-quadrant-for-contact-center-as-service/">Cisco Recognized as a Challenger in the 2024 Gartner® Magic ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 30 Oct 2024 16:36:08 +0000</pubDate>
+<pubDate>Wed, 30 Oct 2024 16:36:08 +0000</pubDate>
+</item>
 
 <item>
 <title>The AI Revolution in Customer Experience is Now! Are you leading ...</title>

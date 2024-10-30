@@ -16398,3 +16398,15 @@ Existing_entries: 27
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2024-10-30 16:18:05.229835
+------------------------------------------------------
+Started: 2024-10-30 18:19:43.653470
+Existing_entries: 27
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Webex Go reimagined – more choice, flexibility, and coverage; ...](https://blog.webex.com/collaboration/webex-go-reimagined-more-choice-flexibility-and-coverage-zero-cost/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Cisco Recognized as a Challenger in the 2024 Gartner® Magic ...](https://blog.webex.com/collaboration/cisco-recognized-as-challenger-in-2024-gartner-magic-quadrant-for-contact-center-as-service/)
+append_entries: 2
+Finish: 2024-10-30 18:19:47.113052
