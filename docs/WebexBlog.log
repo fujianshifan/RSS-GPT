@@ -16482,3 +16482,12 @@ Existing_entries: 31
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2024-10-31 16:18:12.966918
+------------------------------------------------------
+Started: 2024-10-31 18:19:28.315330
+Existing_entries: 31
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Cisco AI Assistant for Webex – New Features and Integrations](https://blog.webex.com/collaboration/cisco-ai-assistant-for-webex-new-features-and-integrations/)
+append_entries: 1
+Finish: 2024-10-31 18:19:30.943480
