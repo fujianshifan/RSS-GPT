@@ -4,6 +4,34 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>Delivering Enhanced Video Experiences – Part 1</title>
+<link>https://blog.webex.com/customer-experience/delivering-enhanced-video-experiences/</link>
+<guid>https://blog.webex.com/customer-experience/delivering-enhanced-video-experiences/</guid>
+<content:encoded><![CDATA[
+
+<p>Over the past few years, the use of collaboration tools has significantly increased, and video meetings have become essential to keeping us connected. With the new way of working, we often spend hours in meetings everyday and video quality plays an important role in the way we collaborate and interact with each other across different locations.</p>
+<p>Here at Webex, we continue to focus on creating exceptional experiences for all by delivering high-quality media to improve communication, and ensuring that you can see and be seen, no matter how or where you are working from.</p>
+<p>Webex is known for providing exceptional audio and video and has been at the forefront of driving better quality, 10x experiences, for years. Whether it be with improvements in <a href="https://www.webex.com/us/en/devices/cameras.html" rel="noreferrer noopener" target="_blank">camera technology</a><strong> </strong>to ensure the best video in any conditions, the use of AI to enhance <a href="https://blog.webex.com/hybrid-work/announcing-the-availability-of-industry-first-webex-ai-codec-transforming-your-audio-experiences/" rel="noreferrer noopener" target="_blank">audio</a> or <a href="https://blog.webex.com/engineering/the-av1-video-codec-comes-to-webex/" rel="noreferrer noopener" target="_blank">AV1</a> to deliver better quality at a given bandwidth, we continue to focus on ways to deliver the best experiences for our customers.</p>
+<h2 class="wp-block-heading">New video enhancements for improved collaboration experience</h2>
+<p>We never stop innovating and are always looking for ways to meet your evolving needs and improve your work efficiency, so that you can get more done. I am excited to share that we are increasing the sharpness of our video streams as well as delivering higher resolution video. Users can now see participants clearer than ever.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-428646" height="1028" src="https://blog.webex.com/wp-content/uploads/2024/11/new-video-enhancements.jpg" width="1672" /></figure>
+<p>For example, when content is being shared during the meeting, you see meeting participants as small individual videos above the content. Although the overall experience of the content and multiple participants is in high resolution, the video for each participant was 90p (160 x 90) in 70% of meetings.&nbsp; We are now using the native resolution of the screen rather than what the operating system has defined, which is often lower, to decide the actual video resolution we send.</p>
+<p>With our recent changes we are seeing that the use of 90p has decreased significantly and has been superseded by 180p (320 x 180). That means each participant experiencing 4x the quality compared to previous releases, resulting in seeing facial expressions more clearly, reducing meeting fatigue, and making the meeting more effective.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-428676" height="1028" src="https://blog.webex.com/wp-content/uploads/2024/10/video-pixel-90-180.jpg" width="1672" /></figure>
+<p>This improvement isn’t just for 90p or for when content is being shared. We have seen a general increase in the resolution in multiple scenarios. Where we compose a layout from multiple video streams 180p is being used instead of 90p, 360p (640 x 360) is being used instead of 180p. That’s a 4x increase in pixels per participant. A 4x improvement in video quality.</p>
+<p>Although the change to using the screen’s native resolution has already improved many users video quality, you could increase the quality further. As you increase the size of the Webex app on your screen there will be more pixels to render video upon and the potential for even higher resolution, even better quality.</p>
+<p>Another enhancement is our down sampling pipeline. Webex captures participants’ video at high resolution but the resolution used for display depends on multiple factors.</p>
+<p>If content is being shared during the meeting or multiple participants are being displayed, there is less space for video so a lower resolution can be more appropriate. The process of starting with high resolution video and adjusting based on meeting conditions is referred to as down sampling. We have enhanced our down sampling pipeline so that the video is sharper after it has been down sampled than in previous releases.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-428656" height="1028" src="https://blog.webex.com/wp-content/uploads/2024/11/experience-enhanced.jpg" width="1672" /></figure>
+<h2 class="wp-block-heading">Experience enhanced video experience</h2>
+<p>Both of these improvements are enabled automatically in Webex and require no additional action from you.</p>
+<p>Video continues to be one of the most important aspects of collaboration and contributes significantly to providing the best experience for employees and customers. With our latest enhancements, we can deliver remarkable video quality, everywhere, on any device.  If you are ready to supercharge your experience, or would like to learn more, I encourage you or  <a href="https://use.webex.com/contact-sales?lang=en" rel="noreferrer noopener" target="_blank">reach out to our Sales team</a>  to discuss your specific needs.</p>
+<p>The post <a href="https://blog.webex.com/customer-experience/delivering-enhanced-video-experiences/">Delivering Enhanced Video Experiences – Part 1 </a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 15:35:25 +0000</pubDate>
+<pubDate>Wed, 06 Nov 2024 15:35:25 +0000</pubDate>
+</item>
 
 <item>
 <title>Cisco Recognized as a Challenger in the 2024 Gartner® Magic ...</title>
