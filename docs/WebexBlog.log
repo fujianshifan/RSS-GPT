@@ -17358,3 +17358,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Phonism Enables Seamless Cloud Migrations and 3rd-Party Device ...](https://blog.webex.com/collaboration/phonism-enables-seamless-cloud-migrations-and-third-party-device-support-with-webex/)
 append_entries: 1
 Finish: 2024-11-12 16:18:13.296082
+------------------------------------------------------
+Started: 2024-11-12 18:18:44.007630
+Existing_entries: 37
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Behind the Scenes of the First AI Adaptive Ceiling Microphone](https://blog.webex.com/workspaces/behind-the-scenes-first-ai-adaptive-ceiling-microphone/)
+append_entries: 1
+Finish: 2024-11-12 18:18:46.549642
