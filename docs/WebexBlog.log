@@ -17367,3 +17367,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Behind the Scenes of the First AI Adaptive Ceiling Microphone](https://blog.webex.com/workspaces/behind-the-scenes-first-ai-adaptive-ceiling-microphone/)
 append_entries: 1
 Finish: 2024-11-12 18:18:46.549642
+------------------------------------------------------
+Started: 2024-11-12 20:14:57.852543
+Existing_entries: 38
+Fetching from http://blog.webex.com/feed/
+append_entries: 0
+Finish: 2024-11-12 20:14:58.103562
