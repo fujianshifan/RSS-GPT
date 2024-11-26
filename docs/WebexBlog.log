@@ -18375,3 +18375,15 @@ Existing_entries: 40
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2024-11-26 16:19:49.930741
+------------------------------------------------------
+Started: 2024-11-26 18:20:57.244711
+Existing_entries: 40
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Understanding cloud contact center solutions.](https://blog.webex.com/customer-experience/understanding-cloud-contact-center-solutions/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [On-premise vs. cloud: which is the better contact center solution?](https://blog.webex.com/customer-experience/on-premise-vs-cloud-which-is-the-better-contact-center-solution/)
+append_entries: 2
+Finish: 2024-11-26 18:21:01.205179
