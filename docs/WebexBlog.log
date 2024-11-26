@@ -18387,3 +18387,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [On-premise vs. cloud: which is the better contact center solution?](https://blog.webex.com/customer-experience/on-premise-vs-cloud-which-is-the-better-contact-center-solution/)
 append_entries: 2
 Finish: 2024-11-26 18:21:01.205179
+------------------------------------------------------
+Started: 2024-11-26 20:16:36.869869
+Existing_entries: 42
+Fetching from http://blog.webex.com/feed/
+append_entries: 0
+Finish: 2024-11-26 20:16:37.375232
