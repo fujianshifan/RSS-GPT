@@ -4,6 +4,33 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>❄️ Welcome the Winter with Devices’ December Theme! ☃️</title>
+<link>https://blog.webex.com/collaboration/welcome-the-winter-with-devices-december-theme/</link>
+<guid>https://blog.webex.com/collaboration/welcome-the-winter-with-devices-december-theme/</guid>
+<content:encoded><![CDATA[
+
+<p>As the winter season sneaks in, many of us may find ourselves turning on the heating, layering up, and adjusting to those long, dark evenings. But don’t worry, Cisco devices running on RoomOS 11 are here to sprinkle some winter magic into your workday! This December, Cisco devices are unveiling a winter wonderland with our brand-new theme that’s sure to brighten up your day.</p>
+<h2 class="wp-block-heading"><strong>Winter Wonderland Home Screen</strong></h2>
+<p>Outside of your calls and meetings, enjoy a serene and wintry home screen adorned with snowy landscapes and cheerful winter visuals. On touch-enabled devices such as the Cisco Board Pro- and Cisco Desk Series, swipe up from the bottom of the screen to see your task switcher and another snowy surprise!</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-429514" height="1008" src="https://blog.webex.com/wp-content/uploads/2024/11/dec-theme-devices.gif" width="1921" /></figure>
+<h2 class="wp-block-heading"><strong>Seasonal Reactions in Webex meetings</strong></h2>
+<p>Express yourself in meetings with reactions that are all dressed up for winter. From polar bears to cookies, your interactions will be more fun than ever.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-429524" height="1008" src="https://blog.webex.com/wp-content/uploads/2024/11/room-11-devices-dec-winter.gif" width="1921" /></figure>
+<h2 class="wp-block-heading"><strong>How to Enable the December Theme</strong></h2>
+<p>For those of you enjoying a warmer climate this December, you might find this chilly (but very festive!) theme intriguing but not quite necessary. That&#8217;s why it&#8217;s <strong>off by default</strong>.</p>
+<p>To bring the winter magic to your devices, admins must go to Devices in Control Hub and configure the following:</p>
+<p><strong>xConfiguration</strong> UserInterface DecemberThemeBeta</p>
+<p>Once this configuration is set, it will remain active for December in all future years, so you can enjoy the winter theme without needing to reconfigure annually.</p>
+<p><strong>Please note</strong>: December reactions are specifically supported on RoomOS 11 devices. If you send a December reaction from a RoomOS 11 device, users on the Webex app, older devices and older builds will see the standard reactions. However, RoomOS 11 devices in version 11.21 will display the full winter-themed reactions during Webex meetings.</p>
+<h2 class="wp-block-heading"><strong>When will I see the new theme?</strong></h2>
+<p>Remember, this theme is exclusively for the month of December. Once enabled by admins, as long as a device is on the December build version 11.21 and the calendar reaches December 1st, you will see the new theme and reactions.</p>
+<p>So why not embrace the season and add a little winter flair to your workspace? Happy December and enjoy the winter magic with RoomOS!</p>
+<p>The post <a href="https://blog.webex.com/collaboration/welcome-the-winter-with-devices-december-theme/">❄️ Welcome the Winter with Devices’ December Theme! ☃️</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 02 Dec 2024 18:11:09 +0000</pubDate>
+<pubDate>Mon, 02 Dec 2024 18:11:09 +0000</pubDate>
+</item>
 
 <item>
 <title>Understanding cloud contact center solutions.</title>
