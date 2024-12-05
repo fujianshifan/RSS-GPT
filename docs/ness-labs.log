@@ -19011,3 +19011,15 @@ Existing_entries: 51
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-12-05 16:22:03.392030
+------------------------------------------------------
+Started: 2024-12-05 18:21:06.643854
+Existing_entries: 51
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Capture and craft your big ideas with Bálint Orosz, founder of Craft](https://nesslabs.com/craft-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=craft-featured-tool)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Art of Wintering: How to Find Strength in Slowing Down](https://nesslabs.com/wintering?utm_source=rss&utm_medium=rss&utm_campaign=wintering)
+append_entries: 2
+Finish: 2024-12-05 18:21:15.849155
