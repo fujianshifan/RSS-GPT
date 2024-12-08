@@ -19822,3 +19822,10 @@ Fetching from http://blog.zoom.us/wordpress/feed/
 Feed error: 301
 append_entries: 0
 error when rendering xml, skip docs/ZoomBlog
+------------------------------------------------------
+Started: 2024-12-08 08:18:33.915812
+Existing_entries: 0
+Fetching from http://blog.zoom.us/wordpress/feed/
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/ZoomBlog
