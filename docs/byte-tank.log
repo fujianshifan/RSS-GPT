@@ -30388,3 +30388,12 @@ Existing_entries: 57
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-12-08 18:20:31.993557
+------------------------------------------------------
+Started: 2024-12-08 20:16:58.152716
+Existing_entries: 57
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [48 Laws of Power: Lessons](https://lopespm.com/notes/2024/12/08/48-laws-of-power-lessons.html)
+append_entries: 1
+Finish: 2024-12-08 20:17:00.445672
