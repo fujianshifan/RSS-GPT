@@ -19950,3 +19950,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Shaping a new era of customer experience with Webex: 2024 sparked ...](https://blog.webex.com/customer-experience/shaping-new-era-customer-experience-webex-2024-sparked-innovation-2025-ignites-cx/)
 append_entries: 1
 Finish: 2024-12-18 16:18:47.012215
+------------------------------------------------------
+Started: 2024-12-18 18:20:41.540972
+Existing_entries: 47
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [An Introduction to the Webex Intelligence Auto Eval Platform – Part 1](https://blog.webex.com/innovation-ai/an-introduction-to-the-webex-intelligence-auto-eval-platform-part-1/)
+append_entries: 1
+Finish: 2024-12-18 18:20:43.695823

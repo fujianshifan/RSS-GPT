@@ -5,11 +5,110 @@
 <link>https://blog.webex.com/</link>
 
 <item>
+<title>An Introduction to the Webex Intelligence Auto Eval Platform – Part 1</title>
+<link>https://blog.webex.com/innovation-ai/an-introduction-to-the-webex-intelligence-auto-eval-platform-part-1/</link>
+<guid>https://blog.webex.com/innovation-ai/an-introduction-to-the-webex-intelligence-auto-eval-platform-part-1/</guid>
+<content:encoded><![CDATA[
+
+<p>Generative AI has redefined how we work, conduct business, and engage with the world. At Cisco, we have infused AI into the entire <a href="http://webex.com/" rel="noreferrer noopener" target="_blank">Webex</a> ecosystem with one common <a href="https://www.webex.ai/" rel="noreferrer noopener" target="_blank">AI Assistant</a> that works in real time to power your workday. Today, it&#8217;s easier than ever to summon Cisco AI Assistant for Webex to <a href="https://www.youtube.com/watch?v=F2nSSb46mGM" rel="noreferrer noopener" target="_blank">transcribe and summarize your meetings</a>, transform your writing style, help you brainstorm, and provide you with tailor-made answers to your questions.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-430156" height="1028" src="https://blog.webex.com/wp-content/uploads/2024/12/ai-powered-technologies.jpg" width="1672" /></figure>
+<p>Cisco recognizes the responsibility that comes with offering safe, high-quality technology that users can rely on. We have invested heavily in the evaluation of our generative AI powered technologies.</p>
+<h2 class="wp-block-heading">The Challenge of Evaluating LLMs</h2>
+<p>Evaluation is essential to developing machine learning products. Traditional metrics like F1 or word error rate, which work for tightly constrained tasks, fall short for generative AI models. These models perform open-ended tasks, presenting unique evaluation challenges:</p>
+<ul class="wp-block-list">
+<li><strong>Subjectivity</strong>: LLMs generate responses that can be nuanced, context-dependent, and subjective. Different evaluators may perceive the same output as acceptable or unacceptable based on their individual preferences.</li>
+<li><strong>Lack of Ground Truth</strong>: Many tasks allow for multiple valid answers, making it difficult to establish ground truth labels, which are required by most traditional metrics.</li>
+<li><strong>Ineffective Metrics</strong>: Metrics like ROUGE or BERTScore, which are based on surface-level text similarity, often fail to capture more meaningful dimensions.</li>
+</ul>
+<p>In the absence of reliable quantitative metrics, many teams leverage human judges to review the quality of LLM outputs. While it is the gold standard, human annotation is costly, slow, and difficult to scale—especially for lengthy inputs or frequent iterations.</p>
+<h2 class="wp-block-heading">Introducing the Auto Eval Platform</h2>
+<p>To address these challenges, we developed the Auto Eval platform for the teams within Cisco who would like to evaluate their generative AI systems. The goal of this platform is to take a data-and-metrics-driven approach to evaluation while minimizing the human effort involved and standardizing responsible AI development across Cisco’s products.</p>
+<p>The platform’s custom-built metrics are designed to measure various aspects of system quality and have been thoroughly validated for accuracy. Additionally, most of the metrics are reference-free by design, meaning they do not need ground truth labels which are often unavailable or difficult to collect.</p>
+<h3 class="wp-block-heading">How It Works</h3>
+<ol class="wp-block-list">
+<li><strong>Curate Input Data</strong>: Collect inputs (e.g., meeting transcripts or questions) for evaluation. Labeled reference data are optional.</li>
+<li><strong>Generate Outputs</strong>: Pass the inputs through the AI system under evaluation and save the outputs.&nbsp;</li>
+<li><strong>Configure Metrics</strong>: Select and customize evaluation metrics based on the use case.</li>
+<li><strong>Run Evaluations</strong>: Analyze system outputs against the selected metrics via the Auto Eval platform.&nbsp;</li>
+<li><strong>Interpret Results</strong>: Use the platform’s built-in tools to visualize and interpret the scores.</li>
+</ol>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-430166" height="506" src="https://blog.webex.com/wp-content/uploads/2024/12/evaluation-flow.jpg" width="1672" /></figure>
+<p>Once a new AI system has been onboarded to this process, automatic evaluations can be run for a fraction of the time and cost of other methods. This scalable approach enables teams across the company to rapidly iterate, confidently deploy, and continuously monitor their AI solutions.</p>
+<h3 class="wp-block-heading">Validating Metrics</h3>
+<p>To ensure reliability, all metrics undergo a process of validation against human judgments. A small dataset of inputs and outputs is annotated, and rigorous statistical methods are used to confirm alignment between human and automated evaluations. To guarantee the effectiveness of our custom-built metrics, we universally set a high target (e.g., &gt; 0.9 F1 score) as the quality bar of our metrics. Metrics that pass validation are added to the platform, minimizing human effort while maximizing reliability of the metrics.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-430186" height="618" src="https://blog.webex.com/wp-content/uploads/2024/12/validation-flow-refine.jpg" width="1672" /></figure>
+<h2 class="wp-block-heading">Supported Use Cases and Metrics</h2>
+<p>The Auto Eval platform supports use cases such as summarization, retrieval-augmented generation (RAG), classification, and rewriting. To effectively evaluate these use cases, our team of scientists and engineers have implemented a suite of metrics grounded in research and best practices.</p>
+<p>The metrics fall into three categories:</p>
+<ul class="wp-block-list">
+<li><strong>LLM-Based</strong>: Metrics like fluency, faithfulness, and professionalism rely on LLMs as judges.</li>
+<li><strong>Model-Based</strong>: Metrics such as toxicity, redundancy, and BERTScore leverage external models.</li>
+<li><strong>Heuristic</strong>: Metrics like readability and n-gram duplication use deterministic algorithms.</li>
+</ul>
+<p>The platform supports offline experimentation, continuous integration testing, and production monitoring, enabling teams to detect quality issues early and iterate quickly.</p>
+<h2 class="wp-block-heading">Metric Highlight: Professionalism</h2>
+<p>The Professionalism metric evaluates whether generated text meets enterprise communication standards. It flags:</p>
+<ul class="wp-block-list">
+<li>Evaluative language, which implies a judgement or assessment.&nbsp;</li>
+<li>Comparative language, which may suggest direct comparisons between companies, products, teams, or individuals.&nbsp;</li>
+<li>Subjective opinions, which express beliefs instead of facts.&nbsp;</li>
+<li>Language of conflict, which frame interactions as competitive or adversarial.&nbsp;</li>
+<li>Unprofessional language, which is too casual or not suitable for professional communication.&nbsp;</li>
+</ul>
+<p>Developed specifically for the evaluation of Webex Meeting summaries, this binary classification metric was validated for alignment with a human-annotated dataset. The dataset comprised summaries generated from Webex’s own internal meetings (with attendees’ consent).</p>
+<h2 class="wp-block-heading">Limitations and Benefits</h2>
+<p>While scalable and cost-effective, automated metrics have limitations. LLM-based metrics are prone to biases like favoring longer responses or preferring model outputs over human ones. To mitigate these issues, the Auto Eval platform:</p>
+<ul class="wp-block-list">
+<li>Uses binary judgments instead of numeric ratings.&nbsp;</li>
+<li>Prompts LLMs for explanations to reduce errors and hallucinations.&nbsp;</li>
+<li>Samples multiple LLM responses for robustness.&nbsp;</li>
+<li>Combines results from different model providers to reduce bias.&nbsp;</li>
+<li>Validates all metrics against human judgments.</li>
+</ul>
+<p>Despite the inherent limitations of automatic evaluation, this platform delivers enormous value to the teams within Cisco hoping to evaluate their AI systems.</p>
+<h3 class="wp-block-heading">Future Plans</h3>
+<p>In the coming year, we plan to onboard several new use cases, products, and corresponding metrics into the Auto Eval platform. Throughout this, we aim to ensure safe and high-quality language AI experiences for our customers, not just within Webex but across Cisco.&nbsp;&nbsp;</p>
+<p>Stay tuned for Part 2 of this Evaluation Series!</p>
+<p></p>
+<div class="about-the-author">
+<div class="row mb-6">
+<div class="col-12 col-content-header">
+<h4>About The Authors</h4>
+</div>
+<div class="col-12 col-avatar">
+<img alt="Elizabeth Hutton" class="author-headshot" height="96" src="https://blog.webex.com/wp-content/uploads/2024/12/elizabeth-hutton-bio-new.jpg" width="96" />        </div>
+<div class="col-12 col-content">
+<span class="name">Elizabeth Hutton</span>
+<span class="title">Senior Machine Learning Engineer</span>
+<span class="company">Cisco</span>
+<div class="bio">
+Elizabeth Hutton is a Senior Machine Learning Engineer for Webex Intelligence, where she focuses on applied research in NLP and delivering innovative AI solutions for Cisco&#8217;s collaboration products.             </div>
+<a class="author-link" href="https://blog.webex.com/contributors/elhutton/">Learn more</a>
+</div>
+</div>
+<div class="row">
+<div class="col-12 col-avatar">
+<img alt="Aishwarya Rao" class="author-headshot" height="96" src="https://blog.webex.com/wp-content/uploads/2024/12/aishwarya-rao.jpg" width="96" /></div>
+<div class="col-12 col-content">
+<span class="name">Aishwarya Rao</span>
+<span class="title">Senior AI Product Manager</span>
+<span class="company">Cisco</span>
+<div class="bio">Aishwarya is a Senior AI Product Manager at Webex.</div>
+<a class="author-link" href="https://blog.webex.com/contributors/abadanid/">Learn more</a>
+</div>
+</div>
+</div>
+<p>The post <a href="https://blog.webex.com/innovation-ai/an-introduction-to-the-webex-intelligence-auto-eval-platform-part-1/">An Introduction to the Webex Intelligence Auto Eval Platform – Part 1</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 18 Dec 2024 17:59:51 +0000</pubDate>
+<pubDate>Wed, 18 Dec 2024 17:59:51 +0000</pubDate>
+</item>
+
+<item>
 <title>Shaping a new era of customer experience with Webex: 2024 sparked ...</title>
 <link>https://blog.webex.com/customer-experience/shaping-new-era-customer-experience-webex-2024-sparked-innovation-2025-ignites-cx/</link>
 <guid>https://blog.webex.com/customer-experience/shaping-new-era-customer-experience-webex-2024-sparked-innovation-2025-ignites-cx/</guid>
 <content:encoded><![CDATA[
-
 <p>As we wrap up another year, on behalf of the Cisco Webex Customer Experience team, I want to extend my heartfelt thanks to our customers and partners for playing such a vital role in our success and growth. Your support and positive feedback has been instrumental in shaping our journey.</p>
 <p>2024 has been an exciting and dynamic year of progress. Webex Contact Center achieved remarkable growth, innovation, and industry recognition. These accomplishments would not have been possible without the unwavering dedication of our customers, partners, and employees.</p>
 <p>Looking ahead to 2025, we remain committed to our core principles: to help our customers strengthen their relationships with their own customers by enabling more thoughtful, human, and effective communication. Naturally, we will continue to focus on investing in artificial intelligence (AI) to drive innovation and prepare our customers for an AI-driven future.</p>
@@ -74,9 +173,7 @@
 <p>The post <a href="https://blog.webex.com/customer-experience/shaping-new-era-customer-experience-webex-2024-sparked-innovation-2025-ignites-cx/">Shaping a new era of customer experience with Webex: 2024 sparked ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Wed, 18 Dec 2024 16:02:29 +0000</pubDate>
-<pubDate>Wed, 18 Dec 2024 16:02:29 +0000</pubDate>
 </item>
-
 <item>
 <title>A year in review: AI-powered innovations across the Webex Suite</title>
 <link>https://blog.webex.com/collaboration/a-year-in-review-ai-powered-innovations-across-the-webex-suite/</link>
