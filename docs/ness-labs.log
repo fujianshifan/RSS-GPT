@@ -21078,3 +21078,12 @@ Existing_entries: 58
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2025-01-03 14:14:43.622570
+------------------------------------------------------
+Started: 2025-01-03 16:19:25.387341
+Existing_entries: 58
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [A Year of Curiosity](https://nesslabs.com/a-year-of-curiosity?utm_source=rss&utm_medium=rss&utm_campaign=a-year-of-curiosity)
+append_entries: 1
+Finish: 2025-01-03 16:19:27.775210
