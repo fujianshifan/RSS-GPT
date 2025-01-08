@@ -4,12 +4,12 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+
 <item>
 <title>Guardrails for AI Models</title>
 <link>https://blog.webex.com/innovation-ai/guardrails-for-ai-models/</link>
 <guid>https://blog.webex.com/innovation-ai/guardrails-for-ai-models/</guid>
 <content:encoded><![CDATA[
-
 <h2 class="wp-block-heading">Safeguarding AI</h2>
 <p>Language models have rapidly become integral to many enterprise applications, powering everything from Contact Center virtual agents and Webex post-meeting summarization to content generation tools. The ability to understand and respond with natural language has revolutionized how businesses operate and has allowed for more intelligent automation.</p>
 <p>However, most language models still introduce significant risk. Hallucinations, toxic speech, prompt injection, and prompt jailbreak attacks are among the many consequences a business may face with AI tools. Therefore, implementing robust safeguards is essential to ensuring that these AI systems operate safely, securely, and effectively.</p>
@@ -61,9 +61,7 @@
 <p>The post <a href="https://blog.webex.com/innovation-ai/guardrails-for-ai-models/">Guardrails for AI Models</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Jan 2025 16:37:20 +0000</pubDate>
-<pubDate>Wed, 08 Jan 2025 16:37:20 +0000</pubDate>
 </item>
-
 <item>
 <title>An Introduction to the Webex Intelligence Auto Eval Platform – Part 1</title>
 <link>https://blog.webex.com/innovation-ai/an-introduction-to-the-webex-intelligence-auto-eval-platform-part-1/</link>
