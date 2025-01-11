@@ -21645,3 +21645,12 @@ Existing_entries: 50
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-01-11 04:16:54.712332
+------------------------------------------------------
+Started: 2025-01-11 06:18:26.064863
+Existing_entries: 50
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Guardrails for AI Models](https://blog.webex.com/%ed%98%81%ec%8b%a0%ea%b3%bc-ai/guardrails-for-ai-models/)
+append_entries: 1
+Finish: 2025-01-11 06:18:28.122493
