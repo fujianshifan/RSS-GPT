@@ -23142,3 +23142,12 @@ Existing_entries: 57
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-01-31 16:16:54.489455
+------------------------------------------------------
+Started: 2025-01-31 18:18:40.968895
+Existing_entries: 57
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Webex Sets the Standard in 2025: Achieving Top Webinar Software ...](https://blog.webex.com/event-management/webex-sets-standard-2025-achieving-top-webinar-honors-acclaimed-g2-trustradius-awards/)
+append_entries: 1
+Finish: 2025-01-31 18:18:43.597254
