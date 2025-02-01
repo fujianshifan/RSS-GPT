@@ -23130,3 +23130,12 @@ Existing_entries: 62
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2025-01-31 22:13:12.969853
+------------------------------------------------------
+Started: 2025-02-01 01:10:10.917051
+Existing_entries: 62
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Personal Science: Self-Experimentation from Quantified Self to Qualified Self](https://nesslabs.com/personal-science?utm_source=rss&utm_medium=rss&utm_campaign=personal-science)
+append_entries: 1
+Finish: 2025-02-01 01:10:13.259277
