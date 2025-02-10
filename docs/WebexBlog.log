@@ -23841,3 +23841,12 @@ Existing_entries: 62
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-02-10 04:18:20.841818
+------------------------------------------------------
+Started: 2025-02-10 06:20:36.008157
+Existing_entries: 62
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Celebrating Innovation: How EMEA Customers Transform Experiences ...](https://blog.webex.com/collaboration/celebrating-innovation-how-emea-customers-transform-experiences-with-webex/)
+append_entries: 1
+Finish: 2025-02-10 06:20:38.863042
