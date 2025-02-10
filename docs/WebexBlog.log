@@ -23880,3 +23880,12 @@ Existing_entries: 63
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-02-10 16:18:05.047408
+------------------------------------------------------
+Started: 2025-02-10 18:19:40.954820
+Existing_entries: 63
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [5 Customer Experience Trends Separating Leaders from Laggards in ...](https://blog.webex.com/innovation-ai/five-customer-experience-trends-separating-leaders-from-laggards-in-europe/)
+append_entries: 1
+Finish: 2025-02-10 18:19:44.936480
