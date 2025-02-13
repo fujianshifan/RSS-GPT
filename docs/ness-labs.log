@@ -24009,3 +24009,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Master Your Time and Productivity with David Tedaldi, CEO of Morgen](https://nesslabs.com/morgen-featured-t?utm_source=rss&utm_medium=rss&utm_campaign=morgen-featured-t)
 append_entries: 1
 Finish: 2025-02-13 01:07:43.617173
+------------------------------------------------------
+Started: 2025-02-13 02:44:18.729548
+Existing_entries: 65
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Master Your Time and Productivity with David Tedaldi, CEO of Morgen](https://nesslabs.com/morgen-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=morgen-featured-tool)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Turning Big Fears into Tiny Experiments](https://nesslabs.com/big-fears?utm_source=rss&utm_medium=rss&utm_campaign=big-fears)
+append_entries: 2
+Finish: 2025-02-13 02:44:23.054948
