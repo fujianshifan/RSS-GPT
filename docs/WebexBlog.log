@@ -24546,3 +24546,15 @@ Existing_entries: 71
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-02-19 14:13:54.006733
+------------------------------------------------------
+Started: 2025-02-19 16:17:47.942501
+Existing_entries: 71
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Announcing the Availability of “Correct my lighting” in Webex, ...](https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Webex Earns Spot on G2’s 2025 Best Software Awards](https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/)
+append_entries: 2
+Finish: 2025-02-19 16:17:51.968477

@@ -4,6 +4,100 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>Announcing the Availability of “Correct my lighting” in Webex, ...</title>
+<link>https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/</link>
+<guid>https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/</guid>
+<content:encoded><![CDATA[
+
+<p>In today’s modern workplace, employees work and collaborate with colleagues from any location using various devices. They often join virtual video meetings with team members situated remotely across different time zones.</p>
+<p>When collaborating virtually, lighting plays a crucial role in video communication, and poor lighting can affect perception and message conveyance. However, often not everyone has access to perfect lighting conditions. Here at Webex, we continue to build innovations that empower users to see and be seen whether they are collaboration from the office, at home or on the ago. We are excited to share that Webex &#8220;Correct my lighting&#8221; is now available in the Webex App.</p>
+<div class="video-popup-block type-p" id="video_popup_block_9db7d0d2ad818f48b75168edd81eff90">
+<div class="we-video-container"><div class="popup-video popup-video-overlay"></div><div class="brightcove_embed embed-video video-wrapper" id="brightcove-embed-6368768361112"></div></div></div>
+<p>The “Correct my lighting” is an AI based feature in Webex that ensures optimal lighting conditions during your meetings by transforming your dimly lit video feed in real-time. The key benefits for end user are:</p>
+<ul class="wp-block-list">
+<li><strong>Automatic Adjustments:</strong> AI works seamlessly in the background to provide a hassle-free experience without the need for manual adjustments.</li>
+<li><strong>Enhanced Clarity:</strong> Improved lighting means better video quality, making it easier for participants to focus on you and the conversation.</li>
+<li><strong>Professional Appearance:</strong> Maintain a consistent, professional image in all your meetings, regardless of poor light conditions.</li>
+</ul>
+<h2 class="wp-block-heading">The Technology Behind &#8220;Correct my lighting&#8221;</h2>
+<p>This feature harnesses AI technology to enhance lighting in real-time during your Webex Meeting.</p>
+<ul class="wp-block-list">
+<li>The video enhancement AI model handles multiple tasks such as background segmentation, gesture classification, head detection, and relighting tasks. It is trained on diverse data set which includes skin tones, complex backgrounds, hair types and different lighting conditions.</li>
+<li>Additionally, it operates with efficient memory and compute utilization on a wide range of personal devices</li>
+<li>The model is evaluated using objective metrics which includes <a href="https://arxiv.org/abs/1801.03924" rel="noreferrer noopener" target="_blank">Learned Perceptual Image Patch Similarity (LPIPS).</a> In addition, a subjective assessment of the model is also conducted using a diverse test set which includes skin tones, lighting angles and different lighting conditions. Mean Opinion Scores (MOS) are used to gather feedback from a wide range of users via crowdsourcing platforms. This is a key pillar of our <a href="https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-responsible-artificial-intelligence-framework.pdf" rel="noreferrer noopener" target="_blank">Responsible AI framework</a>, ensuring ethical and responsible practices.</li>
+</ul>
+<p>At Cisco, we continuously strive to improve our AI models with the goal of improving experience for our customers.</p>
+<h2 class="wp-block-heading">How It Works:</h2>
+<p>In traditional photography, achieving optimal lighting involves a complex setup with multiple light sources such as key lights, fill lights, and background lights. These setups require meticulous positioning and adjustment to create the desired lighting effects.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-431459" height="534" src="https://blog.webex.com/wp-content/uploads/2025/02/optimal-lighting.jpg" width="1672" /></figure>
+<p>The AI model processes each video frame in real-time when &#8220;Correct my lighting&#8221; is enabled. It predicts a dynamic color map for each frame, which guides the transformation of colors and lighting to ensure poorly lit environments appear well-lit.</p>
+<p>By leveraging AI, Webex takes the hassle out of video preparation, providing a seamless and professional experience without the complexity and time investment.</p>
+<h2 class="wp-block-heading">How to Enable “Correct my lighting”</h2>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-431449" height="1028" src="https://blog.webex.com/wp-content/uploads/2025/02/correct-lightining.jpg" width="1672" /></figure>
+<p>Enabling &#8220;Correct my lighting&#8221; in Webex is simple:</p>
+<ol class="wp-block-list">
+<li><strong>Access Video Settings:</strong> Open your Webex application and navigate to the video settings.</li>
+<li><strong>Enable Relighting:</strong> Look for the “Correct my lighting” option and toggle it on. The feature will automatically adjust to your current lighting conditions.</li>
+</ol>
+<h3 class="wp-block-heading">Take Your Video Meetings to the Next Level</h3>
+<p>Video continues to be one of the most important aspects of collaboration and contributes significantly to providing the best experience for employees and customers. Here at Webex, we continue to build innovations that deliver remarkable video quality to our customers.</p>
+<p>“Correct my lighting” is now available in the <a href="https://www.webex.com/downloads.html?_gl=1*w8kijn*_gcl_au*MTE2NDI0NTU5Ny4xNzMzNzE4MjI1" rel="noreferrer noopener" target="_blank">Webex Desktop App</a>. If you are ready to supercharge your video experience with AI-powered innovations such as <a href="https://help.webex.com/en-us/article/ncm18ty/Webex-App-%7C-Step-away-from-a-meeting" rel="noreferrer noopener" target="_blank">Step Away from meeting</a>, <a href="https://help.webex.com/en-us/article/80jduab/Use-virtual-backgrounds-in-Webex-Meetings-and-Webex-Webinars" rel="noreferrer noopener" target="_blank">Virtual Background</a> and <a href="https://help.webex.com/en-us/article/bxg7wz/Webex-App-%7C-Use-reactions-in-your-meetings?_gl=1*q8xyse*_gcl_au*MTE2NDI0NTU5Ny4xNzMzNzE4MjI1" rel="noreferrer noopener" target="_blank">Gestures</a> and more,  <a href="https://use.webex.com/contact-sales?lang=en" rel="noreferrer noopener" target="_blank">reach out to our Sales team</a>  to discuss your specific needs, and stay tuned for more announcements from us soon.</p>
+<p><strong>Learn More</strong></p>
+<ul class="wp-block-list">
+<li><a href="https://www.webex.ai/" rel="noreferrer noopener" target="_blank">Webex Collaboration AI</a></li>
+<li><a href="https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-responsible-artificial-intelligence-framework.pdf?CCID=cc000742&amp;DTID=odicdc000016" rel="noreferrer noopener" target="_blank">Cisco Responsible AI Framework</a></li>
+<li><a href="https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-responsible-artificial-intelligence-principles.pdf?CCID=cc000742&amp;DTID=odicdc000016" rel="noreferrer noopener" target="_blank">Cisco Principles for Responsible Artificial Intelligence</a></li>
+<li><a href="https://trustportal.cisco.com/c/r/ctp/trust-portal.html?search_keyword=AI#/19279839690574858" rel="noreferrer noopener" target="_blank">Video Enhancements &#8211; AI Technical Transparency Note</a></li>
+</ul>
+<p>The post <a href="https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/">Announcing the Availability of “Correct my lighting” in Webex, ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 15:59:44 +0000</pubDate>
+<pubDate>Wed, 19 Feb 2025 15:59:44 +0000</pubDate>
+</item>
+<item>
+<title>Webex Earns Spot on G2’s 2025 Best Software Awards</title>
+<link>https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/</link>
+<guid>https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/</guid>
+<content:encoded><![CDATA[
+
+<p><br />We are thrilled to announce that <a href="https://www.webex.com/" rel="noreferrer noopener" target="_blank">Webex by Cisco</a> has been recognized in <a href="https://www.g2.com/best?utm_source=vendor-news&amp;utm_medium=pr&amp;utm_campaign=best-software-2025" rel="noreferrer noopener" target="_blank">G2’s 2025 Best Software Awards</a>, securing high rankings in five categories. G2, the world’s largest and most trusted software marketplace, influences over 100 million buyers annually. Their Best Software Awards highlight leading software companies and products based on authentic reviews from real users and publicly available market presence data.</p>
+<p><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a>, <a href="https://www.webex.com/suite/collaboration-suite.html" rel="noreferrer noopener" target="_blank">Webex Suite,</a> <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center,</a> <a href="https://cpaas.webex.com/products/webex-connect" rel="noreferrer noopener" target="_blank">Webex Connect,</a> <a href="https://www.webex.com/us/en/products/suite/events.html" rel="noreferrer noopener" target="_blank">Webex Events</a>, <a href="https://www.webex.com/suite/webinar.html" rel="noreferrer noopener" target="_blank">Webex Webinars,</a> <a href="https://www.vidcast.io/" rel="noreferrer noopener" target="_blank">Vidcast,</a> and <a href="https://www.slido.com/" rel="noreferrer noopener" target="_blank">Slido</a> were recognized in five Best Software Awards categories:</p>
+<ol class="wp-block-list">
+<li>Best Software Companies&nbsp;</li>
+<li>Best Collaboration and Productivity Products&nbsp;</li>
+<li>Best Customer Service Software Products&nbsp;</li>
+<li>Best Development Software Products&nbsp;</li>
+<li>Best Marketing and Digital Advertising Software Products</li>
+</ol>
+<p>To qualify for these awards, a product must receive at least one approved review in 2024 and feature on a G2 Grid®. Scores are derived from reviews submitted during this period. Learn more about G2’s methodology <a href="https://research.g2.com/methodology" rel="noreferrer noopener" target="_blank">here</a>.</p>
+<p>&#8220;The stakes for choosing the right business software are higher than ever,&#8221; said Godard Abel, co-founder &amp; CEO of G2. &#8220;With over 180,000 software products and 2.8 million verified reviews, we help companies make informed decisions based on genuine feedback. The 2025 award winners represent the pinnacle of performance and customer satisfaction. Congratulations to this year&#8217;s honorees!&#8221;</p>
+<p>We owe this recognition to our valued customers. Your feedback fuels our innovation and enhances the user experience across all Webex solutions. Here’s what some of our customers have shared:</p>
+<p><em>“Webex Contact Center can manage high call volumes while maintaining excellent call quality. Integrating it with CRM has been effortless, helping us personalize our service. The agent interaction is also straightforward and user-friendly.&nbsp;</em></p>
+<p><em>This has streamlined our operations, making it easier to monitor performance and deliver timely responses. Also, it has helped us to manage a higher volume of calls without compromising on quality.”</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/webex-contact-center/reviews/webex-contact-center-review-10359863" rel="noreferrer noopener" target="_blank">Alyona S., Customer Care Manager,</a> Webex Contact Center</p>
+<p><em>“The multichannel communication feature is Webex Contact Center is a game changer, allowing our agents to handle customer queries across voice, chat, and email all within a single platform. The simple user interface makes it easy for our team to track customer interaction. Webex Contact Center has improved how we handle our customer service interaction and the ability to monitor our agent&#8217;s performance in real-time.”</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/webex-contact-center/reviews/webex-contact-center-review-10355709" rel="noreferrer noopener" target="_blank">Manuel D., Digital Marketing Manager</a>, Webex Contact Center</p>
+<p><em>“Simple configuration as all Webex tools, the voice quality is indisputable and connectivity is very complete, very little interference when contact is made, you can group a group of customers and serve them, it is a very neat program integrates very well with other Cisco services. It is customizable to the point of ordering the entire flow of incoming calls. It is used for guided calls to our customers and between IT groups, it is also a good option for remote assistance, at all times we can track the calls that are made and work on better customer service. It is a multichannel system that meets everything we need in our organization.”</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/webex-contact-center/reviews/webex-contact-center-review-9232483" rel="noreferrer noopener" target="_blank">Ibrahim Y.,</a> Webex Contact Center</p>
+<p><em>“Webex Calling became my go to software for all my meetings with my clients overseas and with my employees as well. I love it so much that now i encourage people to use it for every virtual conference call. You can easily share screen with your clients while explaining or demonstrating anything easily. Also, it comes with an automated attendance feature so i don&#8217;t have to manually check who attended the meeting. I can even easily share files on chat to a single person or a group while on a call with instant messaging feature so i don&#8217;t have to mail everyone separately. It&#8217;s very easy and convenient for me to use webex calling and if i ever face any issues with the software i can contact webex support, they&#8217;re fast and quick in resolving any problem I&#8217;m facing and respond very quickly to my questions.”&nbsp;</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/webex-calling/reviews/webex-calling-review-10607087" rel="noreferrer noopener" target="_blank">Sophie s., Marketing director,</a> Webex Calling</p>
+<p><em>“It is easy and practical. I love the voice filters. After 2020 pandemia we work mainly at home where there are normal home noises and with voice filters we can have high quality calls.</em></p>
+<p><em>Many times, home internet is not the best, but with the codec and AI,&nbsp; communications are great. The chats are very practical, and it is great that we can chat with other users. We use chat, reunion, calls, spaces day by day. Very helpful that we can use the Webex app on cell phone, computer and other devices. We work from home offices but we keep everything on control with liberty. Before Webex we had many problems with communication. We had noise, dropped calls, we could not hear our customers, and they also could not hear us. Now that problem is only a bad memory.”&nbsp;&nbsp;</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/webex-calling/reviews/webex-calling-review-10439870" rel="noreferrer noopener" target="_blank">Luis Alberto S., Director,</a> Webex Calling</p>
+<p><em>“At the Culpeper Chamber of Commerce, we recently used Slido’s word cloud feature as part of our SWOT analysis during our board’s strategic planning session, and it was a game-changer.&nbsp;</em></p>
+<p><em>Slido was incredibly easy to set up and use, making it simple to engage our board members in a meaningful and interactive way. The platform allowed us to collect real-time, anonymous feedback, which encouraged honest insights and thoughtful contributions. Seeing key themes emerge visually in the word cloud helped us quickly identify our strengths, weaknesses, opportunities, and threats, creating a dynamic and productive discussion.&nbsp;</em></p>
+<p><em>We highly recommend Slido for any organization looking to enhance engagement and streamline collaborative brainstorming. It’s a powerful tool that truly adds value to strategic planning sessions!”&nbsp;</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/slido/reviews/slido-review-10783421" rel="noreferrer noopener" target="_blank">Amy F., President/CEO,</a> Slido</p>
+<p><em>“I&#8217;m grateful for a dedicated support team to guide me through the mobile app/webapp milestones. I look to them for their expert advice on the capabilities of the program as well as their willingness to address the specific needs of my organization with regards to the app. So far, we&#8217;ve been happy with the WebEx events and the ease with which our attendees/users can download and utilize all that the app has to offer for our Convention. Also, the program easily integrated with our registration and program lists.”&nbsp;</em></p>
+<p><strong>–&nbsp;</strong><a href="https://www.g2.com/products/webex-events-webinars/reviews/webex-events-webinars-review-9202127" rel="noreferrer noopener" target="_blank">Michelle J., Senior Manager, Meetings,</a> Webex Events</p>
+<p>At Webex, we&#8217;re proud to develop products that inspire such positive feedback from our customers. Thank you for letting us be part of your success journey and for sharing your thoughts on G2.</p>
+<p>To explore our latest customer peer review awards, take a look at the <a href="https://www.webex.com/content/dam/wbx/us/documents/pdf/Webex-Accolades-Book.pdf" rel="noreferrer noopener" target="_blank">Webex Accolades book</a>, and visit our <a href="https://www.webex.com/customers.html" rel="noreferrer noopener" target="_blank">Webex customer case studies page</a> for more customer stories.</p>
+<p>The post <a href="https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/">Webex Earns Spot on G2’s 2025 Best Software Awards</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 15:46:19 +0000</pubDate>
+<pubDate>Wed, 19 Feb 2025 15:46:19 +0000</pubDate>
+</item>
 
 <item>
 <title>10 ways AI is revolutionizing customer service in 2025.</title>
