@@ -24558,3 +24558,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [Webex Earns Spot on G2’s 2025 Best Software Awards](https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/)
 append_entries: 2
 Finish: 2025-02-19 16:17:51.968477
+------------------------------------------------------
+Started: 2025-02-19 18:18:20.023527
+Existing_entries: 73
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [How Springfield Clinic transformed patient support with Webex](https://blog.webex.com/customer-experience/how-springfield-clinic-transformed-patient-support-with-webex/)
+append_entries: 1
+Finish: 2025-02-19 18:18:22.538914

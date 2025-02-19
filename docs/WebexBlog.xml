@@ -5,11 +5,68 @@
 <link>https://blog.webex.com/</link>
 
 <item>
+<title>How Springfield Clinic transformed patient support with Webex</title>
+<link>https://blog.webex.com/customer-experience/how-springfield-clinic-transformed-patient-support-with-webex/</link>
+<guid>https://blog.webex.com/customer-experience/how-springfield-clinic-transformed-patient-support-with-webex/</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://www.springfieldclinic.com/" rel="noreferrer noopener" target="_blank">Springfield Clinic</a>, a multi-specialty medical group serving central Illinois, has been a cornerstone of healthcare in the region since 1939. With 650 providers across 90 locations, the organization is dedicated to delivering exceptional patient care at every opportunity. But as the clinic expanded, so too did the complexity of its operations.</p>
+<p>Facing increased demands and numerous inefficiencies, Springfield Clinic sought a modern cloud solution to transform its contact center and improve the patient experience. Fortunately, Webex and their Cisco partner <a href="https://cxsol.com/" rel="noreferrer noopener" target="_blank">CX Advanced Solutions</a> (CXAS) made the migration as seamless as possible.</p>
+<h2 class="wp-block-heading">Addressing the challenges of legacy technology</h2>
+<p>Handling more than 500,000 calls per month, Springfield Clinic’s contact center is always busy. From scheduling appointments to coordinating follow-ups, it plays an integral role in ensuring a frictionless journey from start to finish.&nbsp;</p>
+<p>“The primary role of the contact center at Springfield Clinic is to facilitate patient access and deliver a patient-first experience,” explained Nicholas Fuchs, Chief Technology and Information Security Officer. “It manages incoming calls, assists patients at the initial point of contact, coordinates communication across various departments, and ensures a smooth interaction with our clinical care teams.”</p>
+<p>However, fulfilling these responsibilities isn’t easy without the right technological foundation. Unfortunately, the clinic relied on legacy, on-premises infrastructure for many years, pieced together by almost a dozen different solutions. Over time, this created a lot of technical debt without much corresponding documentation.&nbsp;</p>
+<p>It also led to several operational inefficiencies. For example, if an agent called out of work in one office, someone else would have to physically travel to that location to cover for them.&nbsp;</p>
+<p>“We really needed flexibility,” explained Molly Colwell, Enterprise Manager for Voice and Telecommunications. “We were very limited with our on-premises setup and needed the ability to adapt to our patient needs … We have multiple call centers, and we wanted to easily scale agents when we needed them to cover different offices.”</p>
+<p>Of course, a core piece of any contact center is its telephony platform. According to Fuchs, the clinic was especially keen to replace its multiple PBX systems with one comprehensive solution.&nbsp;</p>
+<p>&#8220;We&#8217;ve been on a tear to overhaul the entire technology stack over the last five years, and one of the items that consistently came up was our telephony strategy,&#8221; he said. &#8220;We had a 15-year-old platform on its last legs. There was a lot of opportunity to improve the patient experience, enhance our staff experience, and bring everyone together on the same page with a unified platform.&#8221;</p>
+<p>And with that, Springfield Clinic began looking for the right solution.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-431389" height="1028" src="https://blog.webex.com/wp-content/uploads/2025/02/idella-service-rep-phone-new.jpg" width="1672" /></figure>
+<h2 class="wp-block-heading">Migrating to the cloud with Webex Contact Center</h2>
+<p>The organization considered several options, but ultimately, Cisco stood out from the competition.</p>
+<p>&#8220;We not only wanted a leader in the industry, but we were also looking for a great partner to help us through the process,&#8221; Colwell explained. &#8220;We knew Cisco was the right choice for that.&#8221;</p>
+<p>When it comes to cloud migration, it’s no secret the process can be complicated. That’s why it pays to have an expert advisor at your side, guiding you through the workflow from beginning to end. The good news? For Springfield Clinic, there was plenty of support every step of the way.&nbsp;</p>
+<p>“It was scary moving to the cloud,” Colwell admitted. “But Cisco helped calm those nerves and assured us we’d be able to take better care of our patients than before.”</p>
+<p>The clinic also leveraged Cisco’s expansive partner network, working with CXAS to simplify the migration effort. As Fuchs explained, they helped map out the existing platform and ensure a smooth transition to Cisco’s <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a>.&nbsp;</p>
+<p>CXAS played a comprehensive role in the migration to the cloud, handling every aspect of the process. They managed everything from presales and proof of concept (POC) to design, implementation, training, and ongoing support for the clinic.</p>
+<p>Springfield Clinic expected a high level of service from <a href="https://cxsol.com/" rel="noreferrer noopener" target="_blank">CX Advanced Solutions</a>, seeking a “white glove” approach to assist them in transitioning users from their old Avaya platform to Webex. The company relied heavily on CXAS—not only for support but also to stay ahead of technological advancements and cater to the clinic’s customer base.</p>
+<p>Their expertise was crucial in managing the transition from Avaya to Cisco, particularly in the Public Switched Telephone Network (PSTN), telecom routing, porting, and other related areas. This enabled seamless dialing normalization between the old and new systems, allowing Springfield Clinic to gradually move users without a disruptive overnight switch.</p>
+<p>“<a href="https://cxsol.com/" rel="noreferrer noopener" target="_blank">CX Advanced Solutions</a> was a huge piece of the implementation,&#8221; Colwell added. &#8220;We quickly knew they were the right partner. They&#8217;re there when we need them, and we can reach them anytime. Their partnership has been great.&#8221;</p>
+<h2 class="wp-block-heading">Unified communication with Webex Calling and Webex Meetings</h2>
+<p>In addition to Webex Contact Center, Springfield Clinic implemented <a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a> to enhance communication reliability and streamline workflows. Between scheduling, rescheduling, sharing messages, and communicating provider-specific instructions, agents are on the phone “nonstop,” according to Colwell.&nbsp;</p>
+<p>“Having a flawless phone system was really important to make it easier on the agents throughout the day,” she noted. Rather than their previous setup of several on-premise technologies, Webex Calling provided one cohesive solution.</p>
+<p>Likewise, although still being implemented across the organization, <a href="https://www.webex.com/suite/meetings.html" rel="noreferrer noopener" target="_blank">Webex Meetings</a> has already enhanced collaboration among IT and administrative teams. Colwell added that employees especially value how easily they can start meetings at the push of a button with Cisco’s <a href="https://www.webex.com/us/en/devices.html" rel="noreferrer noopener" target="_blank">collaboration devices</a>.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-431399" height="1028" src="https://blog.webex.com/wp-content/uploads/2025/02/lundy-w-patient-new.jpg" width="1672" /></figure>
+<h2 class="wp-block-heading">Measurable improvements to patient experience</h2>
+<p><br />Since implementing <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center</a>, everyone at Springfield Clinic has been overjoyed by the results—especially the platform’s innate scalability.</p>
+<p>&#8220;The agents and supervisors at Springfield Clinic love the ability to cover for multiple teams in multiple locations at any given point in time,&#8221; Fuchs said. &#8220;Also, it&#8217;s one unified platform for the entire team to work across all of our 90 locations.&#8221;</p>
+<p>Indeed, as a cloud-based solution, Webex Contact Center enables the flexibility required to adapt when organization needs or call volumes change on a dime. Plus, Springfield Clinic can oversee it from the convenience of <a href="https://www.webex.com/us/en/solutions/cross-platform/control-hub.html" rel="noreferrer noopener" target="_blank">Control Hub</a>—a centralized management portal for the entire Webex suite.</p>
+<p>Rather than multiple point products each with its own dashboard, all Webex solutions are under the same roof. Using Control Hub, administrators can easily generate reports and share them across the organization.</p>
+<p>&#8220;My favorite feature within the Webex Contact Center platform is the real-time insights,&#8221; Fuchs said. &#8220;The supervisors can create robust dashboards with analytics to have real-time visibility into performance and call metrics.&#8221;</p>
+<p>The best part? These operational efficiencies have led to tangible business results. Since implementing Webex Contact Center, Springfield Clinic has:</p>
+<ul class="wp-block-list">
+<li>Minimized call abandonment rate by <strong>43.56%</strong></li>
+<li>Increased calls handled by <strong>11.8%</strong></li>
+<li>Reduced average handle time by <strong>5.27%</strong></li>
+<li>Decreased average speed of answer by <strong>66.49%</strong></li>
+<li>Lowered average wait time by <strong>70.78%</strong></li>
+</ul>
+<p>Not only are agents fielding more calls, but they’re also doing it at a more efficient rate. Ultimately, this translates into a faster, smoother, and more positive experience for Springfield Clinic customers.</p>
+<h2 class="wp-block-heading">A commitment to continuous innovation</h2>
+<p>Springfield Clinic is poised to leverage the full capabilities of Webex Contact Center, with plans to optimize its platform further. It plans to integrate the platform with the clinic’s new electronic medical record system, enabling screen pops and further enhancing efficiency for agents and customers alike.</p>
+<p>The company is especially excited about Webex’s <a href="https://www.webex.ai/" rel="noreferrer noopener" target="_blank">artificial intelligence</a> (AI) capabilities. This includes tools such as automated transcription, conversational AI, agent assist features, and more.</p>
+<p>With a focus on continuous improvement, Springfield Clinic is confident that its partnership with Cisco and CXAS will help it stay ahead of patient expectations and set new benchmarks for healthcare excellence.<br /><br /><a href="https://use.webex.com/contact-sales" rel="noreferrer noopener" target="_blank">Contact our team</a> today to learn more about how Webex can improve collaboration and customer experience for your organization.</p>
+<p>The post <a href="https://blog.webex.com/customer-experience/how-springfield-clinic-transformed-patient-support-with-webex/">How Springfield Clinic transformed patient support with Webex</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 17:16:02 +0000</pubDate>
+<pubDate>Wed, 19 Feb 2025 17:16:02 +0000</pubDate>
+</item>
+
+<item>
 <title>Announcing the Availability of “Correct my lighting” in Webex, ...</title>
 <link>https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/</link>
 <guid>https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/</guid>
 <content:encoded><![CDATA[
-
 <p>In today’s modern workplace, employees work and collaborate with colleagues from any location using various devices. They often join virtual video meetings with team members situated remotely across different time zones.</p>
 <p>When collaborating virtually, lighting plays a crucial role in video communication, and poor lighting can affect perception and message conveyance. However, often not everyone has access to perfect lighting conditions. Here at Webex, we continue to build innovations that empower users to see and be seen whether they are collaboration from the office, at home or on the ago. We are excited to share that Webex &#8220;Correct my lighting&#8221; is now available in the Webex App.</p>
 <div class="video-popup-block type-p" id="video_popup_block_9db7d0d2ad818f48b75168edd81eff90">
@@ -53,14 +110,12 @@
 <p>The post <a href="https://blog.webex.com/innovation-ai/announcing-the-availability-of-correct-my-lighting-in-webex-transforming-your-video-experiences/">Announcing the Availability of “Correct my lighting” in Webex, ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Wed, 19 Feb 2025 15:59:44 +0000</pubDate>
-<pubDate>Wed, 19 Feb 2025 15:59:44 +0000</pubDate>
 </item>
 <item>
 <title>Webex Earns Spot on G2’s 2025 Best Software Awards</title>
 <link>https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/</link>
 <guid>https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/</guid>
 <content:encoded><![CDATA[
-
 <p><br />We are thrilled to announce that <a href="https://www.webex.com/" rel="noreferrer noopener" target="_blank">Webex by Cisco</a> has been recognized in <a href="https://www.g2.com/best?utm_source=vendor-news&amp;utm_medium=pr&amp;utm_campaign=best-software-2025" rel="noreferrer noopener" target="_blank">G2’s 2025 Best Software Awards</a>, securing high rankings in five categories. G2, the world’s largest and most trusted software marketplace, influences over 100 million buyers annually. Their Best Software Awards highlight leading software companies and products based on authentic reviews from real users and publicly available market presence data.</p>
 <p><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a>, <a href="https://www.webex.com/suite/collaboration-suite.html" rel="noreferrer noopener" target="_blank">Webex Suite,</a> <a href="https://www.webex.com/us/en/products/customer-experience/contact-center.html" rel="noreferrer noopener" target="_blank">Webex Contact Center,</a> <a href="https://cpaas.webex.com/products/webex-connect" rel="noreferrer noopener" target="_blank">Webex Connect,</a> <a href="https://www.webex.com/us/en/products/suite/events.html" rel="noreferrer noopener" target="_blank">Webex Events</a>, <a href="https://www.webex.com/suite/webinar.html" rel="noreferrer noopener" target="_blank">Webex Webinars,</a> <a href="https://www.vidcast.io/" rel="noreferrer noopener" target="_blank">Vidcast,</a> and <a href="https://www.slido.com/" rel="noreferrer noopener" target="_blank">Slido</a> were recognized in five Best Software Awards categories:</p>
 <ol class="wp-block-list">
@@ -96,9 +151,7 @@
 <p>The post <a href="https://blog.webex.com/collaboration/webex-earns-spot-on-g2s-2025-best-software-awards/">Webex Earns Spot on G2’s 2025 Best Software Awards</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Wed, 19 Feb 2025 15:46:19 +0000</pubDate>
-<pubDate>Wed, 19 Feb 2025 15:46:19 +0000</pubDate>
 </item>
-
 <item>
 <title>10 ways AI is revolutionizing customer service in 2025.</title>
 <link>https://blog.webex.com/customer-experience/ten-ways-ai-is-revolutionizing-customer-service-in-2025/</link>
