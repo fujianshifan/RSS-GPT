@@ -24579,3 +24579,12 @@ Existing_entries: 67
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2025-02-20 20:16:20.066092
+------------------------------------------------------
+Started: 2025-02-20 22:13:53.280152
+Existing_entries: 67
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [What Type of Experimentalist Are You?](https://nesslabs.com/experimentalist?utm_source=rss&utm_medium=rss&utm_campaign=experimentalist)
+append_entries: 1
+Finish: 2025-02-20 22:13:55.941167
