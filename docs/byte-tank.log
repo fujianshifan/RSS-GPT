@@ -35818,3 +35818,12 @@ Existing_entries: 63
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2025-02-22 01:05:59.399814
+------------------------------------------------------
+Started: 2025-02-22 02:41:36.396344
+Existing_entries: 63
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Bluetooth Headphones Safety](https://lopespm.com/notes/2025/02/22/wireless-headphones.html)
+append_entries: 1
+Finish: 2025-02-22 02:41:38.725126
