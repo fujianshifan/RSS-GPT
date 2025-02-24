@@ -4,6 +4,45 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>Introducing Internet Telephony Numbers for Webex Calling in India ...</title>
+<link>https://blog.webex.com/collaboration/introducing-internet-telephony-numbers-webex-calling-india-partnership-tata-communications/</link>
+<guid>https://blog.webex.com/collaboration/introducing-internet-telephony-numbers-webex-calling-india-partnership-tata-communications/</guid>
+<content:encoded><![CDATA[
+
+<p>Cisco is excited to announce the availability of <a href="https://help.webex.com/en-us/article/preview/nmhjfvi/Internet-Telephony-Numbers-for-Webex-Calling-in-India" rel="noreferrer noopener" target="_blank"><strong>Internet Telephony Numbers</strong></a> for <a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank"><strong>Webex Calling</strong></a> in India. This feature revolutionizes how businesses in India can implement cloud-based calling solutions by simplifying regulatory compliance, reducing costs, and enhancing flexibility for hybrid work. Here’s what this means for organizations in the region.</p>
+<h2 class="wp-block-heading">Restrictions of Fixed Line numbers</h2>
+<p>Webex Calling is available in India today with “Fixed Line” numbers. Indian Telecom regulations require customers to procure these Fixed Line numbers from an operator, along with direct connectivity (e.g. MPLS) which adds further cost.</p>
+<p>There are also restrictions on Fixed Line numbers. For example, if a Fixed Line number is assigned to an office user, the user must be connected to the office network using a secure dedicated connection from home to make and receive calls. Users on fixed line numbers are not allowed to bypass the PSTN provider to reduce toll charges. For example, an incoming call to a Fixed Line number in Mumbai, may not be forwarded over VoIP to a user located in Chennai.</p>
+<p>These limitations create financial and operational barriers for businesses looking to adopt modern, cloud-based communication systems, particularly in hybrid work environments.</p>
+<h2 class="wp-block-heading">The Solution: Internet Telephony Numbers</h2>
+<p>To address these challenges, we’re excited to introduce <a href="https://help.webex.com/en-us/article/preview/nmhjfvi/Internet-Telephony-Numbers-for-Webex-Calling-in-India" rel="noreferrer noopener" target="_blank"><strong>Internet Telephony Numbers for Webex Calling</strong></a> &#8211; a more flexible and cost-effective alternative. Key features include:</p>
+<ul class="wp-block-list">
+<li><strong>User experience:</strong> End users working from home can make and receive calls even when they are connected using an internet connection to their office network.</li>
+<li><strong>Internet Connectivity:</strong> Organizations can connect access devices (e.g., desk phones, Webex apps) to Webex Calling over the Internet, eliminating the need for private network connections.</li>
+<li><strong>No Toll Bypass Restrictions:</strong> Users with Internet Telephony numbers can make and receive calls anywhere in India without toll bypass concerns, for example they can forward a PSTN canner to another Webex Calling user anywhere in India.</li>
+<li><strong>Simplified Deployment:</strong> This solution is particularly appealing for small and medium businesses (SMBs) looking for affordable and easy-to-implement cloud calling. Additionally, businesses can easily expand in India by procuring Internet Telephony Numbers that work with basic internet access, and do not require direct connectivity (MPLS), which can be cumbersome and expensive to procure.</li>
+</ul>
+<h2 class="wp-block-heading">Impact for Businesses in India</h2>
+<p>With Internet Telephony numbers, organizations in India can significantly reduce costs by eliminating the need for expensive private network connections, making enterprise-grade Webex Calling solutions more affordable. This feature also enhances hybrid work by allowing users to connect to Webex Calling from any location within India using the Internet, enabling seamless remote and hybrid work setups. Additionally, it simplifies compliance with India’s telecom regulations through features like geolocation-based call blocking for users roaming outside the country, ensuring easy adherence to regulatory requirements.</p>
+<h2 class="wp-block-heading">How It Works</h2>
+<ul class="wp-block-list">
+<li><strong>Administrators:</strong> Procure Internet Telephony numbers from your telecom provider and assign them to users, workspace devices, and features in Webex Calling locations in India.</li>
+<li><strong>End Users:</strong> Use Internet Telephony numbers as they would with fixed-line numbers. Users with Internet Telephony Numbers face no restrictions within India, and users travelling abroad cannot make PSTN calls while they are outside India.</li>
+<li><strong>Regulatory Compliance:</strong> Webex Calling integrates geolocation services to identify the user’s IP address and location, ensuring compliance with Telecommunication Regulatory Authority of India (TRAI) guidelines.</li>
+</ul>
+<h2 class="wp-block-heading">A Game-Changer for Indian Businesses</h2>
+<p>The introduction of Internet Telephony numbers for Webex Calling makes enterprise-grade calling solutions more accessible and affordable for businesses in India. By reducing costs, simplifying compliance, and enabling hybrid work, Cisco continues to innovate and empower organizations in one of the world’s fastest-growing markets.</p>
+<p>Ready to experience the benefits of Internet Telephony numbers? <a href="https://use.webex.com/contact-sales?lang=en" rel="noreferrer noopener" target="_blank"><strong>Contact our sales team today</strong></a> to learn more or schedule a demo of Webex Calling tailored for the Indian market.</p>
+<h2 class="wp-block-heading">Learn more</h2>
+<p><a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a></p>
+<p><a href="https://help.webex.com/en-us/article/preview/nmhjfvi/Internet-Telephony-Numbers-for-Webex-Calling-in-India" rel="noreferrer noopener" target="_blank">Internet Telephony Numbers for Webex Calling</a></p>
+<p><a href="https://use.webex.com/contact-sales?lang=en" rel="noreferrer noopener" target="_blank">Contact Sales</a></p>
+<p>The post <a href="https://blog.webex.com/collaboration/introducing-internet-telephony-numbers-webex-calling-india-partnership-tata-communications/">Introducing Internet Telephony Numbers for Webex Calling in India ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 24 Feb 2025 20:43:25 +0000</pubDate>
+<pubDate>Mon, 24 Feb 2025 20:43:25 +0000</pubDate>
+</item>
 
 <item>
 <title>Choosing a CCaaS platform: Your ultimate guide</title>
