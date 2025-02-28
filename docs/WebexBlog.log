@@ -25233,3 +25233,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [How do call centers work, and how do they compare to contact centers?](https://blog.webex.com/customer-experience/how-do-call-centers-work-and-how-do-they-compare-to-contact-centers/)
 append_entries: 1
 Finish: 2025-02-28 20:16:02.316474
+------------------------------------------------------
+Started: 2025-02-28 22:13:35.465783
+Existing_entries: 78
+Fetching from http://blog.webex.com/feed/
+append_entries: 0
+Finish: 2025-02-28 22:13:35.969998
