@@ -25437,3 +25437,16 @@ Existing_entries: 78
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-03-03 16:17:59.732562
+------------------------------------------------------
+Started: 2025-03-03 18:20:14.289041
+Existing_entries: 78
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Pioneering Healthcare Transformation: Insights and Innovations ...](https://blog.webex.com/customer-stories/pioneering-healthcare-transformation-insights-innovations-2024-webex-customer-award-winners/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Announcing the new Epic integration for Webex Contact Center, ...](https://blog.webex.com/customer-experience/announcing-epic-integration-webex-contact-center-empowering-seamless-patient-experience/)
+Append: [Making Employee Engagement Quicker and Easier Than Ever with ...](https://blog.webex.com/innovation-ai/making-employee-engagement-quicker-and-easier-with-slido-ai-available-now/)
+append_entries: 3
+Finish: 2025-03-03 18:20:19.305231
