@@ -25513,3 +25513,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [RTP Transmission: Coping with Real Networks](https://blog.webex.com/engineering/rtp-transmission-coping-with-real-networks/)
 append_entries: 1
 Finish: 2025-03-04 20:16:04.361185
+------------------------------------------------------
+Started: 2025-03-04 22:13:20.414087
+Existing_entries: 82
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [How to build a winning digital customer experience strategy in 2025.](https://blog.webex.com/customer-experience/how-to-build-a-winning-digital-customer-experience-strategy-in-2025/)
+append_entries: 1
+Finish: 2025-03-04 22:13:23.141065
