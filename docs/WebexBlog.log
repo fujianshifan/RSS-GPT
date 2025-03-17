@@ -26453,3 +26453,12 @@ Append: [The journey to agentic AI: redefining what’s possible for ...](https:
 Append: [6 New Ways to Transform Workspace Reservation](https://blog.webex.com/workspaces/six-new-ways-to-transform-workspace-reservation/)
 append_entries: 3
 Finish: 2025-03-17 12:31:30.945135
+------------------------------------------------------
+Started: 2025-03-17 14:15:19.011030
+Existing_entries: 92
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI: Transforming the Enterprise Contact Center Landscape Like ...](https://blog.webex.com/customer-experience/ai-transforming-the-enterprise-contact-center-landscape-like-musics-wrecking-crew/)
+append_entries: 1
+Finish: 2025-03-17 14:15:22.050669
