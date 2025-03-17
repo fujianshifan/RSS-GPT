@@ -26440,3 +26440,16 @@ Existing_entries: 89
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-03-17 10:17:25.871643
+------------------------------------------------------
+Started: 2025-03-17 12:31:26.072614
+Existing_entries: 89
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Beyond the Hype: How Webex AI is Radically Transforming Customer ...](https://blog.webex.com/innovation-ai/beyond-hype-how-webex-ai-radically-transforming-customer-and-employee-experiences/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The journey to agentic AI: redefining what’s possible for ...](https://blog.webex.com/innovation-ai/redefining-whats-possible-for-employee-and-customer-experiences/)
+Append: [6 New Ways to Transform Workspace Reservation](https://blog.webex.com/workspaces/six-new-ways-to-transform-workspace-reservation/)
+append_entries: 3
+Finish: 2025-03-17 12:31:30.945135
