@@ -4,12 +4,12 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+
 <item>
 <title>Announcing the general availability of Webex AI Agent: paving the ...</title>
 <link>https://blog.webex.com/customer-experience/announcing-general-availability-of-webex-ai-agent-paving-way-new-era-cx/</link>
 <guid>https://blog.webex.com/customer-experience/announcing-general-availability-of-webex-ai-agent-paving-way-new-era-cx/</guid>
 <content:encoded><![CDATA[
-
 <p>Creating and delivering remarkable customer experiences (CX) with consistency is crucial to fostering strong relationships in today&#8217;s market, though many organizations struggle to keep pace with rising demands. Many of us know the frustration of reaching a dead end in customer service, with no option to reach an actual human representative. Traditional, rigid chatbots often fall short, wasting time, causing multiple call transfers, and requiring customers to repeat information.</p>
 <p>Data shows that your customers want more from self-service. A recent <a href="https://www.webex.com/gp/futurum-research-customer-experiences-AI-2024.html" rel="noreferrer noopener" target="_blank">study</a> on changing customer expectations showed that while 59% of consumers find current self-service bots inadequate, 94% are open to using them if they offer personalized, efficient, and natural interactions.</p>
 <p>We’re excited to announce that <a href="https://www.webex.ai/ai-agent.html" rel="noreferrer noopener" target="_blank">Webex AI Agent</a> will be generally available (GA) on March 31, 2025. We believe that this solution is essential to help address the challenges that plague CX today.</p>
@@ -71,14 +71,12 @@
 <p>The post <a href="https://blog.webex.com/customer-experience/announcing-general-availability-of-webex-ai-agent-paving-way-new-era-cx/">Announcing the general availability of Webex AI Agent: paving the ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 18 Mar 2025 15:59:19 +0000</pubDate>
-<pubDate>Tue, 18 Mar 2025 15:59:19 +0000</pubDate>
 </item>
 <item>
 <title>RTP Reception: Making Media Look and Sound Good</title>
 <link>https://blog.webex.com/engineering/rtp-reception-making-media-look-and-sound-good/</link>
 <guid>https://blog.webex.com/engineering/rtp-reception-making-media-look-and-sound-good/</guid>
 <content:encoded><![CDATA[
-
 <p>In the previous blogs we <a href="https://blog.webex.com/engineering/introducing-rtp-the-packet-format/" rel="noreferrer noopener" target="_blank">introduced the RTP format</a> and <a href="https://blog.webex.com/engineering/rtp-transmission-coping-with-real-networks/" rel="noreferrer noopener" target="_blank">how these packets are sent across real-world networks</a>. However, when they are received it is not as simple as just feeding them into an appropriate decoder. In this blog entry, we will examine some key ways in which transmission can disorder packets, and some preprocessing techniques to minimize the impact that this disordering has on media quality.</p>
 <h2 class="wp-block-heading">Handling Jitter</h2>
 <p>The key complication of receiving and processing UDP packets is that UDP is both lossy and the order of delivery is not guaranteed. As such, even if packets are sent by the far end at a perfectly monotonic rate, they may arrive in a ‘bursty’ fashion with varying gaps between them, some may be sufficiently delayed as to arrive out of order (i.e. after the packet sent subsequent to them), and some may never arrive at all. Coping with this is one of the key factors of delivering a good quality real-time media experience to users.</p>
@@ -102,14 +100,12 @@
 <p>The post <a href="https://blog.webex.com/engineering/rtp-reception-making-media-look-and-sound-good/">RTP Reception: Making Media Look and Sound Good</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 18 Mar 2025 15:51:18 +0000</pubDate>
-<pubDate>Tue, 18 Mar 2025 15:51:18 +0000</pubDate>
 </item>
 <item>
 <title>Introducing Webex Calling Customer Assist: empower any employee ...</title>
 <link>https://blog.webex.com/collaboration/webex-calling-customer-assist-empower-employee-assist-customers-ai-powered-tools-webex-app/</link>
 <guid>https://blog.webex.com/collaboration/webex-calling-customer-assist-empower-employee-assist-customers-ai-powered-tools-webex-app/</guid>
 <content:encoded><![CDATA[
-
 <p>Local and regional branch offices are the frontline of your business and the face of your brand in the community. These offices face a unique challenge: they must quickly resolve customer issues and build strong relationships—all without dedicated contact center staff or tools.</p>
 <p>To redefine this experience, I’m excited to unveil <a href="https://webexcalling.link/obv06o" rel="noreferrer noopener" target="_blank">Webex Calling Customer Assist</a>. This reimagined <a href="https://www.webex.com/suite/enterprise-cloud-calling.html" rel="noreferrer noopener" target="_blank">Webex Calling</a> experience empowers any employee–including frontline workers, mobile workers, operational staff, and knowledge workers-to assist customers with AI-powered tools that transform every call into a faster, smarter, and more efficient interaction—ensuring exceptional service at every touchpoint.</p>
 <div class="video-popup-block type-p" id="video_popup_block_3a48e0643381f322ab9c028d2ed94277">
@@ -147,9 +143,7 @@
 <p>The post <a href="https://blog.webex.com/collaboration/webex-calling-customer-assist-empower-employee-assist-customers-ai-powered-tools-webex-app/">Introducing Webex Calling Customer Assist: empower any employee ...</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 18 Mar 2025 15:51:07 +0000</pubDate>
-<pubDate>Tue, 18 Mar 2025 15:51:07 +0000</pubDate>
 </item>
-
 <item>
 <title>15 must-have contact center capabilities.</title>
 <link>https://blog.webex.com/customer-experience/fifteen-must-have-contact-center-capabilities/</link>
