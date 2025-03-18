@@ -26537,3 +26537,16 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [15 must-have contact center capabilities.](https://blog.webex.com/customer-experience/fifteen-must-have-contact-center-capabilities/)
 append_entries: 1
 Finish: 2025-03-18 14:14:59.651191
+------------------------------------------------------
+Started: 2025-03-18 16:19:39.136088
+Existing_entries: 94
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Announcing the general availability of Webex AI Agent: paving the ...](https://blog.webex.com/customer-experience/announcing-general-availability-of-webex-ai-agent-paving-way-new-era-cx/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [RTP Reception: Making Media Look and Sound Good](https://blog.webex.com/engineering/rtp-reception-making-media-look-and-sound-good/)
+Append: [Introducing Webex Calling Customer Assist: empower any employee ...](https://blog.webex.com/collaboration/webex-calling-customer-assist-empower-employee-assist-customers-ai-powered-tools-webex-app/)
+append_entries: 3
+Finish: 2025-03-18 16:19:43.439172
