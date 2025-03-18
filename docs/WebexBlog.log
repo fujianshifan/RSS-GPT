@@ -26528,3 +26528,12 @@ Existing_entries: 93
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-03-18 12:30:36.960734
+------------------------------------------------------
+Started: 2025-03-18 14:14:56.751900
+Existing_entries: 93
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [15 must-have contact center capabilities.](https://blog.webex.com/customer-experience/fifteen-must-have-contact-center-capabilities/)
+append_entries: 1
+Finish: 2025-03-18 14:14:59.651191
