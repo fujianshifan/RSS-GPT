@@ -4,6 +4,55 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>What’s new on Cisco Devices for Microsoft Teams – Spring 2025</title>
+<link>https://blog.webex.com/workspaces/whats-new-on-cisco-devices-for-microsoft-teams-spring-2025/</link>
+<guid>https://blog.webex.com/workspaces/whats-new-on-cisco-devices-for-microsoft-teams-spring-2025/</guid>
+<content:encoded><![CDATA[
+
+<p>Cisco remains committed to providing an exceptional Microsoft Teams experience tailored to every customer&#8217;s unique preferences—whether your organization favors the rich Cisco Rooms experience with seamless Video Integration for Microsoft Teams (VIMT), or the comprehensive functionality offered by Microsoft Teams Rooms. This commitment drives ongoing innovation, resulting in significant advancements across both the Cisco Rooms and Microsoft Teams Rooms experiences.</p>
+<p>We&#8217;re excited to share several key software updates designed specifically to enhance productivity, collaboration, and ease of use across both experiences. These updates offer streamlined management, expanded camera support, and improved interoperability, enabling organizations to effortlessly achieve greater flexibility and enhanced efficiency in their hybrid work environments.</p>
+<p>Let’s dive in.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432701" height="1028" src="https://blog.webex.com/wp-content/uploads/2025/03/what-new-cisco-devices-mtr.jpg" width="1672" /></figure>
+<h2 class="wp-block-heading">Cisco Devices for Microsoft Teams Rooms&nbsp;</h2>
+<h3 class="wp-block-heading">1. Apple AirPlay sharing on Microsoft Teams Rooms (coming soon)&nbsp;</h3>
+<p>As we announced at Enterprise Connect 2025, <a href="https://blog.webex.com/innovation-ai/redefining-whats-possible-for-employee-and-customer-experiences/" rel="noreferrer noopener" target="_blank">AirPlay on Cisco Devices will be available soon for Microsoft Teams Rooms</a>, enabling instant wireless content sharing from an iPhone, iPad or Mac to Cisco Devices.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432671" height="1028" src="https://blog.webex.com/wp-content/uploads/2025/03/apple-airplay-MTR.jpg" width="1672" /></figure>
+<h3 class="wp-block-heading">2. USB Content Camera Integration&nbsp;</h3>
+<p>In our ongoing commitment to enhance collaboration and productivity, <a href="https://help.webex.com/en-us/article/a0qtgy/USB-Content-Camera-Support" rel="noreferrer noopener" target="_blank">Cisco devices now support USB 2.0 cameras</a> utilizing the MJPEG format, including cameras specifically designed to function as content cameras within Microsoft Teams Rooms (MTR) environments. This feature enables flexible content sharing of scenarios involving analog whiteboards in meeting rooms.</p>
+<p>A content camera interacts with a specialized image-processing software to capture and share content from physical whiteboards during Teams meetings. This feature allows presenters to draw on a physical whiteboard while the content is seamlessly shared with remote participants, bridging the gap between in-room and remote meeting attendees.</p>
+<p>In addition to content camera support, the USB 2.0 camera integration also enables a range of other innovative use cases, like document capture or connectivity with other primary in-room cameras from third party vendors both for Microsoft Teams Rooms and Cisco Rooms.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432681" height="1017" src="https://blog.webex.com/wp-content/uploads/2025/03/usb-content-camera-integration.jpg" width="1672" /></figure>
+<h3 class="wp-block-heading">3. Simplified Zoom CRC interoperability on MTR</h3>
+<p>Cisco devices can now enhance the experience joining Zoom meetings through One-Button-to-Push (OBTP) using the Cisco-Zoom Interop application. This integration automatically recognizes Zoom meetings listed on the device’s calendar and provides seamless, high-quality video conferencing powered by Zoom Conference Room Connector (CRC).</p>
+<p>&nbsp;Zoom CRC features include dual screen support, flexible layouts, host controls, screen sharing and view of participants lists. This provides end users with an enhanced experience when joining Zoom meetings on Cisco devices for Microsoft Teams Rooms.</p>
+<p>OBTP integration is available across all on Cisco devices for Microsoft Teams Rooms and requires Hybrid Calendar enabled in Control Hub.</p>
+<h3 class="wp-block-heading">4. General Availability of AOSP Device Management</h3>
+<p>Android Open Source Project (AOSP) Device Management is now available on all Cisco devices running RoomOS January 2025 or later. With this update, devices automatically utilize <a href="https://roomos.cisco.com/doc/MTR/AOSP" rel="noreferrer noopener" target="_blank">AOSP Device Management</a> without manual intervention, providing a streamlined management experience.</p>
+<p>You can confirm successful implementation by checking for &#8220;Authenticator&#8221; and &#8220;Microsoft InTune&#8221; entries under the device&#8217;s &#8220;Microsoft Teams Software&#8221; section. Read more details about the <a href="https://roomos.cisco.com/doc/MTR/AOSP" rel="noreferrer noopener" target="_blank">AOSP Migration</a>.</p>
+<h3 class="wp-block-heading">5. Microsoft Approved Release Channel in Control Hub</h3>
+<p>Cisco introduces the Microsoft Approved channel, a dedicated release channel providing Microsoft-verified software for Cisco devices for Microsoft Teams Rooms . Cisco and Microsoft have joined forces to provide a joint software release process ensuring each release is tested thoroughly by both Cisco and Microsoft before release. This ensures customers can receive direct support from Microsoft when needed, simplifying the assistance process.</p>
+<p>The Microsoft Approved channel will be the default recommendation for all new Microsoft Teams Rooms installations. This release channel aligns closely with the Teams Admin Center (TAC) releases but also provides additional SW configuration flexibility available in Control Hub. IT admins can still benefit from streamlined software lifecycle management with the ability to pin software versions for up to 6 months to provide additional flexibility and advanced software control and rollout for large enterprises.</p>
+<p>We recommend utilizing the Microsoft Approved channel to ensure the best possible experience with your Cisco devices for Microsoft Teams Rooms.</p>
+<h2 class="wp-block-heading">Video Integration for Microsoft Teams (VIMT) on Cisco Rooms</h2>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432691" height="945" src="https://blog.webex.com/wp-content/uploads/2025/03/video-Integration-microsoft-teams.jpg" width="1672" /></figure>
+<h3 class="wp-block-heading">1. Cross-tenant join&nbsp;</h3>
+<p>Joining Microsoft Teams meetings hosted by external organizations is now a seamless experience. Previously, users would encounter inconsistencies in meeting functionality, leading to limitations in collaboration.</p>
+<p>With the introduction of Cross-Tenant Join, organizations using Video Integration for Microsoft Teams (VIMT) can now enjoy a unified and familiar meeting experience—regardless of who hosts the meeting. This ensures full collaboration capabilities, including seamless content sharing, enhancing productivity, and eliminating end-user confusion.</p>
+<h3 class="wp-block-heading">2. IntelliFrame support</h3>
+<p>Cisco devices now support receiving Microsoft Teams Cloud IntelliFrame, enhancing the viewing experience for participants using Video Integration for Microsoft Teams (VIMT). With this new capability, meeting participants can see close-up, optimized video views of other attendees joining from supported Microsoft Teams Rooms devices equipped with a Pro license.</p>
+<p>The IntelliFrame feature is controlled directly by the sending Microsoft Teams Rooms device, intelligently capturing and framing participants, thereby providing a more immersive and engaging remote collaboration experience. This enhancement is specifically designed to bring visual clarity and engagement, helping users feel more connected and productive in remote or hybrid meetings.</p>
+<h3 class="wp-block-heading">3. Spotlight in Teams meetings</h3>
+<p>Participants who have Spotlight set by Teams hosts or presenters with a Teams client will be prioritized into the existing layouts, and the name label will have a new Spotlight icon in the layout.</p>
+<h3 class="wp-block-heading">4. View PowerPoint Live presentations on VIMT (coming soon)&nbsp;</h3>
+<p>We are excited to announce that soon Video Integration for Microsoft Teams (VIMT) users will have the capability to view PowerPoint Live snapshots directly on their Cisco Rooms devices. This enhancement eliminates the need for participants to access the Teams client separately to view presentations, thereby streamlining the meeting experience and fostering more seamless collaboration.</p>
+<p>This upcoming feature release underscores our commitment to enhancing the Microsoft Teams experience on Cisco Rooms devices, ensuring that users have access to the latest tools that promote productivity and collaboration when using VIMT.</p>
+<p>We remain dedicated to continually enhancing Microsoft Teams integrations on Cisco Devices by introducing innovative features and streamlined experiences designed specifically to boost productivity, collaboration, and efficiency within your organization. Stay tuned for further updates as we continue developing solutions that empower your teams to achieve greater impact and success in their daily workflows.</p>
+<p>The post <a href="https://blog.webex.com/workspaces/whats-new-on-cisco-devices-for-microsoft-teams-spring-2025/">What’s new on Cisco Devices for Microsoft Teams – Spring 2025</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 19 Mar 2025 18:57:57 +0000</pubDate>
+<pubDate>Wed, 19 Mar 2025 18:57:57 +0000</pubDate>
+</item>
 
 <item>
 <title>How BBVA embraced hybrid work with Cisco devices</title>
