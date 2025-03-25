@@ -27057,3 +27057,12 @@ Existing_entries: 100
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-03-25 14:16:09.715305
+------------------------------------------------------
+Started: 2025-03-25 16:18:06.638852
+Existing_entries: 100
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Cisco Call for Microsoft Teams: Enterprise calling, without ...](https://blog.webex.com/collaboration/cisco-call-for-microsoft-teams-enterprise-calling-without-compromise/)
+append_entries: 1
+Finish: 2025-03-25 16:18:09.548171
