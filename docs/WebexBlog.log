@@ -27579,3 +27579,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [No Cable? No Problem: Miracast® on Cisco Devices](https://blog.webex.com/collaboration/no-cable-no-problem-miracast-on-cisco-devices/)
 append_entries: 1
 Finish: 2025-04-01 18:20:54.650603
+------------------------------------------------------
+Started: 2025-04-01 20:17:33.225652
+Existing_entries: 102
+Fetching from http://blog.webex.com/feed/
+append_entries: 0
+Finish: 2025-04-01 20:17:33.697823
