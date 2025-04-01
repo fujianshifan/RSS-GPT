@@ -4,6 +4,66 @@
 <title>Webex Blog</title>
 <link>https://blog.webex.com/</link>
 
+<item>
+<title>No Cable? No Problem: Miracast® on Cisco Devices</title>
+<link>https://blog.webex.com/collaboration/no-cable-no-problem-miracast-on-cisco-devices/</link>
+<guid>https://blog.webex.com/collaboration/no-cable-no-problem-miracast-on-cisco-devices/</guid>
+<content:encoded><![CDATA[
+
+<p>Tired of searching for cables during your meetings? With Miracast® on Cisco RoomOS &amp; Cisco MTR devices, you can wirelessly share your screen and transform any meeting room into a cable-free environment. Here&#8217;s everything you need to know to start sharing seamlessly.</p>
+<h2 class="wp-block-heading">Why Choose Miracast?</h2>
+<ul class="wp-block-list">
+<li><strong>Cable-free:</strong> Eliminate meeting room’s cable clutter with Miracast and remove the need for ‘passing the cable’.</li>
+<li><strong>Works with any meeting platform:</strong> Miracast is an agnostic wireless sharing solution, meaning it doesn’t matter what meeting platform you’re using on RoomOS or Cisco MTR devices, it will work just the same.</li>
+<li><strong>Easy to use:</strong> Setting up Miracast is straightforward and typically involves a few simple steps to connect devices. It uses native screen mirroring technology available on most Windows laptops &amp; Android mobile phones. You can share in seconds to a Cisco device without needing to download or install any apps.</li>
+<li><strong>Choose what to share:</strong> By using the “Extend Desktop to this Display” option on your PC with Miracast, you can use the display as another monitor and drag across what you want to share. Whether you want to share only a specific application or keep your presenter notes open on your laptop, this gives you privacy and control over your share.</li>
+<li><strong>High-quality video and audio:</strong> Miracast supports high-definition video and audio transmission, ensuring that presentations, videos, and other media are displayed with clarity, low latency, and good sound quality.</li>
+</ul>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432874" height="675" src="https://blog.webex.com/wp-content/uploads/2025/03/1-Sharing-with-Miracast.gif" width="1200" /></figure>
+<h2 class="wp-block-heading">For Admins: Enabling Miracast</h2>
+<p>Miracast is <strong>off by default</strong>, so if you’re not seeing the option on your RoomOS or Cisco MTR device, then it means it is not turned on, and admins will need to <strong>enable it in Control Hub</strong>.</p>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432844" height="1387" src="https://blog.webex.com/wp-content/uploads/2025/03/2-Enable-Miracast-in-Control-Hub.gif" width="2339" /></figure>
+<h3 class="wp-block-heading">For admins to enable Miracast:</h3>
+<ol class="wp-block-list">
+<li>Log into <strong>Control Hub</strong> at admin.webex.com.</li>
+<li>Go to <strong>Devices</strong> then select the device (or multiple devices) that you want to configure from the list.</li>
+<li>Select <strong>Edit </strong>on the right of the top bar to open the side panel</li>
+<li>Under <strong>‘Configurations’</strong>, select <strong>‘All configurations’</strong></li>
+<li>On this screen, use the search bar to find the following configuration: <strong>Video &gt; Input &gt; Miracast &gt; Mode</strong></li>
+<li>For ‘Configuration value’, set to <strong>“On”</strong> so it is enabled on all devices.</li>
+<li>On the bottom right of this screen, select <strong>“Next”</strong> and then <strong>“Apply”</strong> to save your changes.</li>
+<li>Conduct a <strong>test</strong> on an enabled device to ensure that Miracast is functioning correctly and accessible to users.</li>
+</ol>
+<p><strong>Network requirements:</strong> To enable Miracast on Cisco devices, configure your network to support both Wi-Fi Direct and Miracast over infrastructure (MS-MICE), ensuring TCP ports 7236 and 7250 are open on Windows devices.</p>
+<p>Limitation: Note that Miracast is not available on RoomOS devices connected to the internet over Wi-Fi.</p>
+<p>For detailed configuration steps, refer to the guide <a href="https://help.webex.com/en-us/article/w60modb/Configure-wireless-sharing-with-Miracast%C2%AE" rel="noreferrer noopener" target="_blank">Configure wireless sharing with Miracast</a></p>
+<h2 class="wp-block-heading">For Users: How to Use Miracast</h2>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432854" height="908" src="https://blog.webex.com/wp-content/uploads/2025/03/3-Share-using-Miracast-on-Windows.gif" width="980" /></figure>
+<h3 class="wp-block-heading">Windows Device Miracast Sharing:</h3>
+<ol class="wp-block-list">
+<li>Use keyboard shortcut <strong>Windows + K</strong> or click the <strong>Action Center</strong> icon (next to time &amp; date on taskbar) and select <strong>Connect</strong> to scan for Miracast receiving devices.</li>
+<li>Select the name of the Cisco Board, Desk, or Room Series device you want to cast to.</li>
+<li>A <strong>PIN</strong> will appear on the device&#8217;s screen. Enter the PIN on your laptop and click <strong>Connect</strong>.</li>
+<li>When Miracast is active, open <strong>“Display Settings”</strong> to adjust settings like choosing <strong>Extend</strong> to the Miracast display so you can choose exactly what you want to share.</li>
+</ol>
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-432864" height="816" src="https://blog.webex.com/wp-content/uploads/2025/03/4-Miracast-as-an-extended-display.png" width="1131" /></figure>
+<h3 class="wp-block-heading">Android Device Miracast Sharing:</h3>
+<ol class="wp-block-list">
+<li>On a Samsung phone, swipe down twice from the top of the screen to reveal the full <strong>Quick Menu</strong>.&nbsp;</li>
+<li>Select&nbsp;“<strong>Smart View” </strong>on the bottom left. Note that naming may vary on different Android devices, search for <strong>“Cast</strong>&#8221; or <strong>“Screen Mirroring”</strong>.</li>
+<li>Select the name of the Cisco Board, Desk, or Room Series device you want to cast to.</li>
+<li>A <strong>PIN</strong> will appear on the device&#8217;s screen. Enter the PIN on your Android device and <strong>Connect</strong>.</li>
+</ol>
+<h3 class="wp-block-heading">Device Compatibility:</h3>
+<p>Miracast is supported by Windows 8.1 and above &amp; Android 4.2 and above.</p>
+<p><strong>Note: </strong>Google (Pixel) Android and Chromebook devices do not support Miracast.</p>
+<p>For a step-by-step guide, visit <a href="https://help.webex.com/en-us/article/kfdwufb/Wireless-sharing-with-Miracast®\" rel="noreferrer noopener" target="_blank">Wireless sharing with Miracast</a>.</p>
+<p>So, next time you find yourself searching for cables in a meeting room, remember that Miracast on Cisco devices offers a seamless, wireless sharing solution that keeps your meetings efficient and clutter-free. Embrace the simplicity and convenience of cable-free meetings today.</p>
+<p>The post <a href="https://blog.webex.com/collaboration/no-cable-no-problem-miracast-on-cisco-devices/">No Cable? No Problem: Miracast® on Cisco Devices</a> appeared first on <a href="https://blog.webex.com">Webex Blog</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Apr 2025 18:07:35 +0000</pubDate>
+<pubDate>Tue, 01 Apr 2025 18:07:35 +0000</pubDate>
+</item>
 
 <item>
 <title>Cisco Call for Microsoft Teams: Enterprise calling, without ...</title>
