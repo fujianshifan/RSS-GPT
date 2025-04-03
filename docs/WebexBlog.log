@@ -27721,3 +27721,12 @@ Existing_entries: 103
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-04-03 16:18:48.034231
+------------------------------------------------------
+Started: 2025-04-03 18:20:51.662796
+Existing_entries: 103
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Driving Service Provider Partner Growth and the Evolution of ...](https://blog.webex.com/collaboration/driving-service-provider-partner-growth-and-the-evolution-of-cisco-broadworks/)
+append_entries: 1
+Finish: 2025-04-03 18:20:53.861843
