@@ -28286,3 +28286,12 @@ Existing_entries: 107
 Fetching from http://blog.webex.com/feed/
 append_entries: 0
 Finish: 2025-04-11 16:19:43.774527
+------------------------------------------------------
+Started: 2025-04-11 18:21:05.796617
+Existing_entries: 107
+Fetching from http://blog.webex.com/feed/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [How AI Enhanced Customer Experience at Umpqua Bank](https://blog.webex.com/customer-experience/how-ai-enhanced-customer-experience-at-umpqua-bank/)
+append_entries: 1
+Finish: 2025-04-11 18:21:08.779256
